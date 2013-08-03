@@ -1,7 +1,7 @@
 CSV-to-HTML
 ===========
 
-These Python scripts were developed for work in Digital Programs and Initiastives at University of Maryland Libraries. There are three scripts, each of which takes data from a CSV file and converts it to HTML:
+These Python scripts were developed for work in Digital Programs and Initiatives at the University of Maryland Libraries. There are three scripts, each of which takes data from a CSV file and converts it to HTML:
 
 * htmlgen.py converts CSV data to HTML for ingest into the Libraries' CMS.  
 * htmlgen-alpha.py generates HTML-formatted text from all rows in the CSV for easier proofreading and data cleanup.  

@@ -7,4 +7,4 @@ These Python scripts were developed for work in Digital Programs and Initiastive
 * htmlgen-alpha.py generates a alphabetical list of all rows in the CSV for easier proofreading.  
 * csv-json.py converts a CSV to JSON.
 
-vbic_data.csv is the primary dataset for which these scripts were developed.  htmlgen.py outputs files to the output directory.
+The included file vbic_data.csv is the primary dataset for which these scripts were developed, and can be used for testing.  By default, htmlgen.py outputs files to the output directory.

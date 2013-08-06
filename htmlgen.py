@@ -1,30 +1,28 @@
 #!/usr/bin/env python3
 
 def append_item(i):
-    result = ['<h3><a href="', i['Link'],'">']
-    result.extend([i['Title'], '</a>:</h3> '])
-    result.extend(['<p>',i['Description']])
+    result = ['\n<h3><a href="', i['Link'],'">']
+    result.extend([i['Title'],'</a>:</h3>'])
+    result.extend(['\n<p>',i['Description']])
     if i['Notes'] != "":
-        result.extend(["<br /><strong>NOTE: </strong>", i['Notes']])
+        result.extend(["\n<br /><strong>NOTE: </strong>", i['Notes']])
     result.append("</p>")
         
     if i['Tags'] != "":
         keyList = i['Tags'].split(',')
         css = ['font-size: 80%','line-height: 110%']
         css.extend(['padding: 0px 20px','margin: 0px 25px 20px 25px'])
-        css.extend(['border: 0px grey none','border-radius: 5px'])
-        css.extend(['background-color: #FAFAFA'])
-        result.extend(['<div style="','; '.join(css),'">'])
-        result.append('<p><strong>Tags</strong>: ')
+        result.extend(['\n<div style="','; '.join(css),'">'])
+        result.append('\n<p><strong>Tags</strong>: ')
         result.append(', '.join(keyList))
-        result.append("</p></div>")
+        result.append("</p>\n</div>")
     
     return result
 
 
 def make_list(myData, targetCat):
-    resultlist = ['<html>', '<head></head>', '<body>']
-    resultlist.extend(['<h1>Resources Related to ', targetCat, '</h1>'])
+    resultlist = ['<html>\n', '<head></head>\n', '<body>\n']
+    resultlist.extend(['<h1>Resources Related to ', targetCat, '</h1>\n'])
     
     for i in myData:
         if i['Categories'] != "":
@@ -33,7 +31,7 @@ def make_list(myData, targetCat):
                 if j == targetCat:
                     resultlist.extend(append_item(i))
     
-    resultlist.extend(['</body>', '</html>'])
+    resultlist.append("\n\n</body>\n</html>")
     return resultlist
 
 
@@ -69,7 +67,7 @@ def main():
             htmlpage = make_list(myData, c)
             path = 'output/' + c[0:3] + '.html'
             outputFile = open(path, mode='w')
-            outputFile.write('\n'.join(htmlpage))
+            outputFile.write(''.join(htmlpage))
             outputFile.close()
             print('File saved as {0}.'.format(path))
     

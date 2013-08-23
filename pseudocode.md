@@ -8,5 +8,5 @@
 6. create an empty list to hold data
 7. for each row in the datafile, append the row as an dict (set of key => value pairs) to the data list
 8. for each category, create a list to hold results, then iterate through the data list, searching for matches
-9. when a match is found append html to the result list
+9. when a match is found, create html block, and append html to the result list
 10. when finished iterating through the data, create the resulting html page and save it, then repeat for the next category

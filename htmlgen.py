@@ -10,10 +10,10 @@ def append_item(i):
         
     if i['Tags'] != "":
         keyList = i['Tags'].split(',')
-        css = ['font-size: 80%','line-height: 110%']
+        css = ['font-size: 90%','line-height: 110%']
         css.extend(['padding: 0px 20px','margin: 0px 25px 20px 25px'])
         result.extend(['\n<div style="','; '.join(css),'">'])
-        result.append('\n<p><strong>Tags</strong>: ')
+        result.append('\n<p><strong>Keywords</strong>: ')
         result.append(', '.join(keyList))
         result.append("</p>\n</div>")
     

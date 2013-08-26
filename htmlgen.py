@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import os
+
 def append_item(i):
     result = ['\n<h3><a href="', i['Link'],'">']
     result.extend([i['Title'],'</a>:</h3>'])
@@ -65,7 +67,7 @@ def main():
         for c in catList:
             print('Checking for resources related to the topic {0}...'.format(c))
             htmlpage = make_list(myData, c)
-            path = 'output/' + c[0:3] + '.html'
+            path = os.path.join('output', c[0:3] + '.html') 
             outputFile = open(path, mode='w')
             outputFile.write(''.join(htmlpage))
             outputFile.close()

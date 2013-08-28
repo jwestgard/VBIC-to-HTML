@@ -1,0 +1,2857 @@
+***********************************
+* COMPLETE LIST OF VBIC RESOURCES *
+***********************************
+
+TITLE: Academic Search Premier
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph
+
+DESCRIPTION: Some full-text articles, Date range: Varies; Full text: 1990 -- present; abstracts: 1965 -- present, Updated daily. Time covered varies by title, many go back to 1990. Very broad coverage, includes topics of interest to business researchers. Index and abstracts for over 7000 general, humanities, social science and science journals. Over 3100 journals are peer reviewed.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Ethics, Biography
+
+***********************************
+
+TITLE: Africa Development Indicators, World Bank
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://data.worldbank.org/data-catalog/africa-development-indicators
+
+DESCRIPTION: Detailed collection of data on Africa -- includes social, economic, natural resources, infrastructure, governance and environmental indicators.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: International, International Business
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: AgEcon Search
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://ageconsearch.umn.edu/
+
+DESCRIPTION: Archive of full text articles in agricultural and applied economics. Note: Most of these journals are also in Econlit.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Agricultural Economics, Economics
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: American FactFinder
+
+LINK: http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml
+
+DESCRIPTION: From the U.S. Census Bureau. Provides U.S. population, housing, economic and geographic data.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Business Planning, Consumer Analysis, Population And Housing Data
+
+***********************************
+
+TITLE: American Institute for Philanthropy
+
+LINK: http://www.charitywatch.org/toprated.html
+
+DESCRIPTION: A "nonprofit charity watchdog" that "provides donors with information to make more informed giving decisions".
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits
+
+***********************************
+
+TITLE: Annual Review of Economics
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://arjournals.annualreviews.org/loi/economics
+
+DESCRIPTION: Authoritative critical reviews evaluate the most significant research developments.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: Annual Review of Resource Economics
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://arjournals.annualreviews.org/loi/resource
+
+DESCRIPTION: Provides authoritative critical reviews evaluating the most significant research developments in the field, focusing on agricultural economics, environmental economics, renewable resources, exhaustible resources, and economic development.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Agricultural Economics, Environmental Economics, Economics
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: Ashoka
+
+LINK: http://www.ashoka.org/home/index.cfm
+
+DESCRIPTION: Global association of the worlds leading social entrepreneurs.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Social Entrepreneurship
+
+CATEGORIES (w/ rankings): 
+1) ENTREPRENEURSHIP
+
+***********************************
+
+TITLE: Background Notes
+
+LINK: http://www.state.gov/r/pa/ei/bgn/
+
+DESCRIPTION: From the U.S. Department of State facts about the land, people, history, government, political conditions, economy, etc.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: Balance of Payments Statistics -- IMF eLibrary -- Data
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://elibrary-data.imf.org
+
+DESCRIPTION: Licensing restrictions limit use to 2-5 simultaneous users. If you are unable to access this database, please try again later. Summarizes, for a specific period, the economic transactions of an economy with the rest of the world.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics, Statistics
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: Baseline Scenario.com
+
+LINK: http://baselinescenario.com/
+
+DESCRIPTION: Authoritative news blog "dedicated to explaining some of the key issues in the global economy ..."
+
+NOTES: 
+
+KEYWORDS (separated by commas): News, Economics, Global Issues
+
+***********************************
+
+TITLE: Big Charts
+
+LINK: http://bigcharts.marketwatch.com/
+
+DESCRIPTION: Provides access to interactive charts, quotes, industry analysis and intraday stock screeners, market news and commentary.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States, Investment and Securities, Stocks
+
+CATEGORIES (w/ rankings): 
+1) FINANCE
+2) INVESTMENT AND SECURITIES
+3) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Biography and Genealogy Master Index
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://galenet.galegroup.com/servlet/BGMI/form?l=1&u=BGMI&s=1&locID=umd_um&o=DocTitle
+
+DESCRIPTION: BGMI indexes current, readily available reference sources, as well as the most important retrospective works that cover individuals from every field of activity and from all areas of the world.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Biography
+
+***********************************
+
+TITLE: Bloomberg (via the Bloomberg terminals in 1318 Van Munching Hall)
+
+LINK: 
+
+DESCRIPTION: Contains current and historical financial data on individual companies, stock market indices, fixed-income securities, currencies, commodities, and futures for both international and domestic markets.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Accounting, Annual Reports, Bonds, Dow Jones Industrial Average, Economic Indicators, Financial Information, Investment and Securities, Mergers and Acquisitions, Ownership Status, S&P 500, Stocks, Stock Exchange, Stock Trades and Quotes, Business Public Policy
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) ECONOMICS
+3) FINANCE AND INVESTMENT
+4) INDUSTRY
+
+***********************************
+
+TITLE: BPlans.Com
+
+LINK: http://www.bplans.com/
+
+DESCRIPTION: Free site from Palo Alto Software, Inc. Use this web site to locate business plans or marketing plans for specific business sectors.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Business Plans, Marketing Plans
+
+CATEGORIES (w/ rankings): 
+1) MARKETING
+
+***********************************
+
+TITLE: Brookings Institution -- Globalization Page
+
+LINK: http://www.brookings.edu/topics/globalization.aspx
+
+DESCRIPTION: Links to current papers and articles on globalization from the Brookings Institution -- a "non-profit public policy organization" based in Washington, D.C.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Globalization, Country
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: Bureau of Labor Statistics
+
+LINK: http://www.bls.gov/
+
+DESCRIPTION: U.S. Department of Labor. Provides economic indicators, labor statistics, and other measures of economic and social performance.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Indicators, Labor Economics
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: Business Source Complete
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip&group=main&profile=ehost&defaultdb=bth
+
+DESCRIPTION: Comprehensive database of business - Sources include over 3600 peer reviewed journals, trade publications/ magazines, books, case studies, company profiles, SWOT analysis etc.
+
+NOTES: To access Company Profiles, click on link from the "More" option menu top of screen (in the blue band) to search for company profiles by company name.
+
+KEYWORDS (separated by commas): Advertising, Auditing, Benefits and Compensation, Biographical Information, Bonds, Brands, Business Plans, Case Study, Case Studies, Company Profiles, Competitors, Corporate Culture, Decision Theory, Employment, Ethics, Globalization, Human Resource Management, Industry Overview and Trends, International Trade, Leadership, Management, Mergers and Acquisitions, Nonprofits, Operations Management, Organization Theory, Planning and Strategies, Product Development, Promotion, Public Relations, Quality Control, Research and Development, Social Entrepreneurship, Swot, Taxation, Trade Publications/Business Magazines
+
+CATEGORIES (w/ rankings): 
+1) CAREER
+
+***********************************
+
+TITLE: Catalog of Nonprofit Literature
+
+LINK: http://lnps.fdncenter.org/
+
+DESCRIPTION: From the Foundation Center. A searchable database of the literature of philanthropy.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits
+
+***********************************
+
+TITLE: CeBIT
+
+LINK: http://www.cebit.de/homepage_e?channel=1
+
+DESCRIPTION: Important trade show web site, provides latest industry trends and innovations in information technology, telecommunications and networks, etc.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Technology, Product Development
+
+CATEGORIES (w/ rankings): 
+1) PRODUCT
+
+***********************************
+
+TITLE: CEOExpress
+
+LINK: http://www.ceoexpress.com/default.asp
+
+DESCRIPTION: News portal for executives.
+
+NOTES: 
+
+KEYWORDS (separated by commas): News
+
+CATEGORIES (w/ rankings): 
+1) INDUSTRY
+2) COMPANY
+3) ECONOMICS
+4) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Chronicle of Philanthropy
+
+LINK: http://philanthropy.com/section/Home/172/
+
+DESCRIPTION: Provides the "latest news, trend analysis, and fundraising strategies" for nonprofits; lists grants and jobs. The "Facts and Figures" section provides survey data.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits, Jobs, Fundraising, Grants
+
+***********************************
+
+TITLE: CIA World Factbook
+
+LINK: http://www.cia.gov/library/publications/the-world-factbook/
+
+DESCRIPTION: Central Intelligence Agency (CIA). Provides overviews on most countries of the world.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: CIAO : Columbia International Affairs Online
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.ciaonet.org/
+
+DESCRIPTION: International affairs focus - range of scholarship includes working papers from research institutes, occasional paper series from NGOS, policy briefs, etc.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Public Policy, International Affairs
+
+***********************************
+
+TITLE: Coface: Country Risk and Economic Research
+
+LINK: http://www.coface.com/CofacePortal/COM_en_EN/pages/home/risks_home
+
+DESCRIPTION: Presents country risk findings in three main sections: Country Risks, Sectors (contain ratings of industries), and Business Climate.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background, International Business, Economics, Risk
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) ECONOMICS
+
+***********************************
+
+TITLE: Community Economic Development HotReport
+
+LINK: http://smpbff1.dsd.census.gov/TheDataWeb_HotReport/servlet/HotReportEngineServlet?reportid=e8fc5022b3fc243e43d3606f0aee80ae&emailname=bh@boc&filename=ed2_home.hrml
+
+DESCRIPTION: U.S. Census Bureau. Provides detailed information for local and regional areas on a wide variety of topics.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States, Economic Indicators
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: Congressional Publications (ProQuest)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.lexis-nexis.com/congcomp
+
+DESCRIPTION: Congressional documents from 1789 to the present, with much of the material from the 1980's forward available full-text. Includes legislative histories, laws, regulation.
+
+NOTES: Formerly called LexisNexis Congressional.
+
+KEYWORDS (separated by commas): Legislative History, Laws, Regulations, Congressional Serials
+
+***********************************
+
+TITLE: Correspondence Tables Between SIC and NAICS
+
+LINK: http://www.census.gov/epcd/www/naicstab.htm
+
+DESCRIPTION: U.S. Census Bureau. To facilitate time series use, the U.S. Census Bureau has prepared correspondence tables of NAICS to SIC. See also: SIC Codes (from U.S. Department of Labor) -- http://www.osha.gov/pls/imis/sicsearch.html and NAICS -- http://www.census.gov/eos/www/naics/http://www.osha.gov/pls/imis/sicsearch.html
+
+NOTES: 
+
+KEYWORDS (separated by commas): Industry Classification, Naics, Sic
+
+CATEGORIES (w/ rankings): 
+1) INDUSTRY
+
+***********************************
+
+TITLE: Corruption by Country/Territory (Transparency International)
+
+LINK: http://www.transparency.org/country
+
+DESCRIPTION: From Transparency International, a "global civil society organization leading the fight against corruption." The Global Corruption Barometer explores general public opinion around the world on corruption. Note: Formerly called Global Corruption Report.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Ethics, International Business
+
+***********************************
+
+TITLE: Country at a Glance Tables
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://go.worldbank.org/N45X2XWIC0
+
+DESCRIPTION: From the World Bank. Presents key indicators tracing the trends in social and economic development from the last three decades.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: International, International Business
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Country Commercial Guides
+
+LINK: http://www.buyusainfo.net/adsearch.cfm?search_type=int&loadnav=no
+
+DESCRIPTION: United States Commercial Service - U.S. Department of Commerce. Comprehensive look at a country's commercial environments, using economic, political and market analysis. Select "Country Commercial Guides" in the "Report Type" field.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background, Doing Business In, International Business
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: Country Data
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.prsgroup.com/prsgroup_shoppingcart/cdSub4.aspx
+
+DESCRIPTION: Economic, financial, political and social data for over 140 countries, in most cases back to 1984. Country Data is only source for current and historical risk ratings for both the Political Risk Services and International Country Risk Guide rating systems. Note: You must turn off your pop-up blocker or permit pop-ups from this site in order to retrieve data.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Risk, International Business, Country Background
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: Country Studies
+
+LINK: http://lcweb2.loc.gov/frd/cs/cshome.html
+
+DESCRIPTION: From the Federal Research Division of the Library of Congress. On-line versions of Country Studies, covering 102 countries and regions. Country Profiles are also available.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: County Business Patterns (CPB)
+
+LINK: http://www.census.gov/econ/cbp/index.html
+
+DESCRIPTION: U.S. Census Bureau. County Business Patterns (CBP) is an annual series providing subnational economic data by industry.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States, Business Planning, Economics
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: CQ Researcher
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://library2.cqpress.com/cqresearcher
+
+DESCRIPTION: Provides comprehensive analysis of popular topics, including history, current status, relevant pro and con arguments, bibliographies, contact information.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Benefits, Compensation, Corporate Culture, Economics, Employment, Ethics, Exports, Imports, Globalization, International Trade, Labor Economics, Labor Relations, Taxation
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: CREDO
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.credoreference.com
+
+DESCRIPTION: Online versions of 500+ published reference works, including general and specialist dictionaries and encyclopedias.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Encyclopedia, Reference, Research
+
+***********************************
+
+TITLE: CRSP: Center for Research in Security Prices (Access via SmithApps - CRSPSift)
+
+LINK: http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+DESCRIPTION: Contains daily and monthly historical stock data on more than 20,000 stocks (inactive and active companies) from the NYSE (from 1926), AMEX (from 1962), and NASDAQ (from 1972) markets. Includes U.S. market indices, treasuries, mutual funds.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Financial Information, Industry Ratios, Mutual Funds, Stocks, Stock Exchange
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+2) INDUSTRY
+
+***********************************
+
+TITLE: D&B Key Business Ratios
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.mergentonline.com/KBR
+
+DESCRIPTION: Provides key business ratios for industries searchable by industry name and SIC code.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Financial Information, Industry, Ratios
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+2) INDUSTRY
+
+***********************************
+
+TITLE: Data and Statistics: USA.gov
+
+LINK: http://www.usa.gov/Topics/Reference_Shelf/Data.shtml
+
+DESCRIPTION: Data and statistics by listed by topic from U.S government agencies.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States, Demographics
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Datastream Advance - Access via SmithApps
+
+LINK: http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+DESCRIPTION: Provides index related financial data across global markets.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Accounting, Annual Reports, Bonds, Dow Jones Industrial Average, Economic Indicators, Financial Information, Industry Ratios, Investment and Securities, Mergers and Acquisitions, S&P 500, Stocks, Stock Exchange, Stock Trades Quotes
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) ECONOMICS
+3) FINANCE AND INVESTMENT
+4) INDUSTRY
+
+***********************************
+
+TITLE: Directory of American Firms Operating in Foreign Countries/Foreign Firms Operating in U.S
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=https://www.uniworldbp.com/search.php
+
+DESCRIPTION: Two directories -- one lists American companies with a substantial investment in overseas operations; one provides information about foreign-owned companies in the U.S.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Doing Business In, International Business, Worldwide
+
+***********************************
+
+TITLE: Dissertations & Theses: Full Text
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.proquest.com/pqdtft?accountid=14696
+
+DESCRIPTION: An authoritative source about doctoral dissertations and master's theses. Full text from 1997 to the present.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Theses, Master's Theses, Dissertations
+
+***********************************
+
+TITLE: Doing Business Database
+
+LINK: http://www.doingbusiness.org/
+
+DESCRIPTION: Provides objective measures of business regulations and their enforcement across 183 economies and selected cities at the subnational and regional level.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Research, Doing Business In
+
+***********************************
+
+TITLE: E-Stats: Measuring the Electronic Economy
+
+LINK: http://www.census.gov/econ/estats/
+
+DESCRIPTION: Site managed by the U.S. Census Bureau and devoted exclusively to "Measuring the Electronic Economy."
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics, Statistics: United States
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: EconLit
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&defaultdb=ecn&profile=ehost
+
+DESCRIPTION: The source for economic research from major scholarly economic journals, working papers, over 400 books and dissertations.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics, Economic Forecasting, Econometrics, Labor Economics, Urban Economics, Labor Economics, S&P 500, Globalization
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: Economagic
+
+LINK: http://www.economagic.com/
+
+DESCRIPTION: Free, easily available mostly government economic time series data useful for economic research and economic forecasting.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Consumer Price Index, Economic Indicators
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: Economic and Financial Crisis - MSU LibGuide
+
+LINK: http://guides.library.msstate.edu/content.php?pid=38283&sid=281174
+
+DESCRIPTION: From Mississippi State University, this comprehensive guide provides an "introduction to resources and research available from the federal government and academic community concerning the recent Economic Stimulus Plans and ongoing economic and financial crisis." Includes sections on "Understanding the Crisis" - with a timeline of events, as well as on housing and foreclosures and the global impact of the economic crisis.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Economic Census
+
+LINK: http://www.census.gov/econ/census07/
+
+DESCRIPTION: From the U.S. Census Bureau, Provides a detailed portrait of the United States economy once every five years from the national to the local level covers most of the U.S. economy in its basic collection of establishment statistics such as sales receipts revenue annual payroll number of employees. Related programs include statistics on minority and womenowned businesses. Site contains data on most recent economic census, held in2007.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Labor Economics, Statistics: United States, Business Planning
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: Economics Research Guide
+
+LINK: http://lib.guides.umd.edu/content.php?pid=348208&sid=2851221
+
+DESCRIPTION: [Maintained by Zaida Diaz and Lily Griner from the UMD Libraries] This guide lists sources of information for researching Economics.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Economist Historical Archive
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=ECON
+
+DESCRIPTION: A complete searchable copy of every issue of The Economist from 1843 to 2006. With a global circulation of more than 1.2 million, The Economist has consistently delivered a highly intelligent and comprehensive report of international political, business, scientific, technological and cultural developments, with dispatches from all over the world. Includes new full-color images, multiple search indexes, exportable financial tables, a gallery of front covers, supplements, special reports and surveys.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Economy at a Glance
+
+LINK: http://www.bls.gov/eag/home.htm
+
+DESCRIPTION: From the Bureau of Labor Statistics, this site provides data on unemployment rates, average hourly earnings,the consumer price index and producer price index. Historical data is available from 1999 to the present. Data is available by state or at the national level.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States, Business Planning
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: EDGAR
+
+LINK: http://www.sec.gov/edgar.shtml
+
+DESCRIPTION: From the U.S. Securities and Exchange Commission (SEC). Contains all of the filings required of public companies by the SEC.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Financial Information, Sec Filings, Annual Reports
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: EIU Country Commerce
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://db.eiu.com/topic_view.asp?pubcode=IT&title=Country+Commerce
+
+DESCRIPTION: From The Economist Intelligence Unit, "A practical guide to regulations, operating conditions and corporate practices in 60 countries." A good place to start when looking for information on doing business in other countries, covers business information from a regulatory perspective.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background, Doing Business In, Regulations
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: EIU Country Finance
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://db.eiu.com/topic_view.asp?pubcode=FF&title=Country+Finance
+
+DESCRIPTION: 
+
+NOTES: 
+
+KEYWORDS (separated by commas): Regulations, Taxation, Doing Business In
+
+***********************************
+
+TITLE: EIU Viewswire
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.viewswire.com/
+
+DESCRIPTION: From The Economist Intelligence Unit, provides economic, political, and market developments for 195 countries as well as analysis on the implications for business.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background, Exports, Imports, Foreign Direct Investment, Globalization, News, Statistics: International
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Encyclopedia of Business and Finance
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps/infomark.do?action=interpret&source=library&actionString=DO_DISPLAY_ABOUT_PAGE&tabID=T002&prodId=GVRL&userGroupName=umd_um&docId=CX3402799999&type=aboutBook&version=1.0&authCount=1&u=umd_um
+
+DESCRIPTION: A complete business reference covering five general areas: finance and banking; accounting; marketing; management; and information systems. Designed for the nonspecialist, providing practical professional expertise as well as the work of noted scholars. Contributors include executives, government administrators and scholars from leading business programs from around the United States.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Finance
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Encyclopedia of E-Commerce
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&inPS=true&prodId=GVRL&userGroupName=umd_um&searchType=BasicSearchForm&docId=GALE%7C9780787677039&contentSegment=9780787677039
+
+DESCRIPTION: Provides access to the world of Internet commerce and addresses the concerns of those who want to join the ranks of the Internet business community. Presents answers to common questions about website development, financing, advertising, and more. Features 470 essays covering topics and terms, profiles of the top e-commerce companies, biographies of e-commerce innovators, and coverage of events and legislation related to e-commerce.
+
+NOTES: 
+
+KEYWORDS (separated by commas): E-Commerce
+
+***********************************
+
+TITLE: Encyclopedia of Small Business
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&inPS=true&prodId=GVRL&userGroupName=umd_um&searchType=BasicSearchForm&docId=GALE%7C9780787677251&contentSegment=9780787677251
+
+DESCRIPTION: Designed to provide entrepreneurs with how-to information that they can apply to their own business. The Encyclopedia contains 600 detailed articles and overviews of all the key information needs of small business owners, including financing; financial planning; business plan creation; market analysis; sales strategy; tax planning, human resource issues and more.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Small Business
+
+***********************************
+
+TITLE: Enterprise Surveys
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.enterprisesurveys.org
+
+DESCRIPTION: Provides the world's most comprehensive firm-level data in emerging markets and developing economies for over 120,000 countries and expanding. Data are used to create indicators that benchmark the quality of the business and investment climate across countries.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Indicators, Statistics: United States, Country Background
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) DEMOGRAPHICS AND STATISTICS
+3) ECONOMICS
+
+***********************************
+
+TITLE: Everything International
+
+LINK: http://faculty.philau.edu/russowl/russow.html
+
+DESCRIPTION: Developed and Maintained by Lloyd C. Russow, Philadelphia University. Provides links to a wide variety of international business, education, and research internet sites.
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Business
+
+***********************************
+
+TITLE: Export.Gov
+
+LINK: http://www.export.gov/
+
+DESCRIPTION: Managed by the International Trade Administration of the U.S. Department of Commerce in collaboration with other Cabinet units. Brings resources from across U.S. Government to assist American businesses in planning their international sales strategies.
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Trade, International Business
+
+***********************************
+
+TITLE: Factiva
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003Wvf1WFo5DEs5DEmM9YuNTAvODFyMHmnRsIuMcNG1pRRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQAA
+
+DESCRIPTION: From Dow Jones. Provides full text access to over 8,000 business sources including national and international newspapers, magazines, wire services, web sites and industry (trade) sources. Includes coverage of the Wall Street Journal. NOTE: Licensing restrictions limit use to 12 simlutaneous users. If you are unable to access this database, please try again later.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Auditing, Benefits and Compensation, Bonds, Brands, Company Profiles, Competitors, Corporate Culture, Dow Jones Industrial Average, Employment, Ethics, Financial Information, Foreign Language Sources, Globalization, Industry Classification, Industry Ratios, International Trade, Labor Relations, Mergers and Acquisitions, News, Operations Management, Quality Control, S&P 500, Stocks, Stock Trades Quotes, Taxation, Wall Street Journal
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+2) FINANCE AND INVESTMENT
+3) INDUSTRY
+
+***********************************
+
+TITLE: FedBizOpps.gov (Federal Business Opportunities)
+
+LINK: http://www.fbo.gov/
+
+DESCRIPTION: A single point of entry for announcements of federal contract opportunities over $25,000, both in both the civilian and military sectors.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Business Opportunities
+
+***********************************
+
+TITLE: Federal Reserve Economic Data (FRED)
+
+LINK: http://research.stlouisfed.org/fred2/
+
+DESCRIPTION: From the Federal Reserve Bank of St. Louis, FRED is a database of over 45,000 U.S. economic time series in such areas as money, banking, finance, population, employment, labor markets, business activity, national debt, and prices. Data are also available via an Excel download add-in.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Federation of International Trade Associations
+
+LINK: http://www.fita.org/webindex/index.html
+
+DESCRIPTION: Searchable database of international trade Web resources on the Internet. Includes over 8,000 annotated links to International Trade/Import-Export Web sites.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Exports, Imports
+
+***********************************
+
+TITLE: Fedstats
+
+LINK: http://www.fedstats.gov/
+
+DESCRIPTION: From the Federal Interagency Council on Statistical Policy. Provides access to Federal government statistics from more than 100 Federal agencies.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Demographics and Statistics, Economics, Government
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: Financial Times Historical Archive (1882-2006)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=FTHA
+
+DESCRIPTION: An important interdisciplinary, global resource that provides important knowledge and understanding of global history, business, finance and politics over the last 120 years. The archive includes all articles, advertisements, photographs and market listings as shown in the context of the regular full page and issue of the day.
+
+NOTES: 
+
+KEYWORDS (separated by commas): News
+
+***********************************
+
+TITLE: FindLaw Small Business Center
+
+LINK: http://smallbusiness.findlaw.com/
+
+DESCRIPTION: Contains an extensive offering of featured articles about how to start up a small business including legal issues, business plans and funding.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Small Business
+
+***********************************
+
+TITLE: Forbes Lists
+
+LINK: http://www.forbes.com/lists/
+
+DESCRIPTION: Includes listings of popular business topics.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Rankings
+
+***********************************
+
+TITLE: Fortune 500
+
+LINK: http://money.cnn.com/magazines/fortune/fortune500/index.html
+
+DESCRIPTION: Annual ranking of America's largest companies.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Rankings
+
+***********************************
+
+TITLE: Fortune's 100 Best Companies to Work For (R)
+
+LINK: http://www.greatplacetowork.com/best-companies/100-best-companies-to-work-for
+
+DESCRIPTION: Workplace rankings by Great Places to Work
+
+NOTES: 
+
+KEYWORDS (separated by commas): Rankings
+
+***********************************
+
+TITLE: Foundation Center
+
+LINK: http://www.foundationcenter.org/
+
+DESCRIPTION: Leading source of information about philanthropy worldwide. The Find Funders section links to funding and statistics data; the Gain Knowledgelinks to reports on global issues on different subjects, as well as trends.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: Franchise Direct
+
+LINK: http://www.franchisedirect.com/
+
+DESCRIPTION: A comprehensive franchise opportunity listing, providing views, news and advice to entrepreneurs and franchisors alike. Browse through their profiles or read about the latest featured franchises.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Franchising
+
+***********************************
+
+TITLE: FRB Beige Book
+
+LINK: http://www.federalreserve.gov/monetarypolicy/beigebook/default.htm
+
+DESCRIPTION: Provides an assessment of the economic performance of each of the 12 regional Federal Reserve districts. The report examines economic activity, specifically employment trends, construction and housing activity, retail sales, consumer confidence, and any other relevant information. Archival data is also available.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Indicators
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: Freight World
+
+LINK: http://www.freightworld.com/
+
+DESCRIPTION: Web links to all of the different transportation modes and services related to these modes.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Transportation Modes
+
+***********************************
+
+TITLE: Gallup Brain
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://institution.gallup.com
+
+DESCRIPTION: Searchable database of Gallup Poll questions and answers, with data from 1935-present.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Polls
+
+***********************************
+
+TITLE: Gartner Group
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=https://researchport.umd.edu/shib/CP/Gartner/gartner.cgi
+
+DESCRIPTION: The Gartner Group is a leading provider of market research reports, specializing in the information technology (IT) industries. Gartner provides statistics, forecasts and market analysis on all categories of Information Technology. It covers vendors, end-users, technology, markets and trends. NOTE: Use of the Gartner Group database is restricted to UMCP current faculty, staff and students and requires a secondary authentication.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Industry Overview, Industry Trends, Technology
+
+CATEGORIES (w/ rankings): 
+1) INDUSTRY
+
+***********************************
+
+TITLE: Global Development Finance
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://databank.worldbank.org/ddp/home.do?Step=12&id=4&CNO=2
+
+DESCRIPTION: From the World Bank. Provides direct access to more than 200 debt and financial flows indicators for the 129 countries that report public and publicly-guaranteed debt to the World Bank Debtor Reporting System. These data begin in 1970.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Finance, International Business, Debt, Country Background
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Global Economic Monitor (GEM)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://externalization.worldbank.org/external/default/main?contentMDK=21119307&menuPK=2880787&pagePK=64691887&piPK=64691875&theSitePK=2880771
+
+DESCRIPTION: From the World Bank. Provides daily and monthly commentary on global economic conditions along with direct access to high frequency data that is refreshed daily. It provides analysis of current economic trends, economic, financial and commodity data indicators, an extensive database including growth and commodity forecasts.
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Business
+
+***********************************
+
+TITLE: Global Insight (IHS) DataInsight Web
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://myinsight.globalinsight.com/servlet/cats?pageContent=home&imask=1
+
+DESCRIPTION: Provides coverage of U.S. and international financial, economic, and industry data, with analysis by more than 225 analysts, researchers, and economists on over 120 industries and 200 countries. Data available covers balance of payments, cyclical indicators, finance and financial markets, government finance, housing and construction, output/capacity/capacity utilization, merchandise trade, national accounts, labor market, population, prices, and wholesale and retail trade. Also available through MySmithApps.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Consumer Price Index, Economic Indicators, Employment, Exports, Imports, Foreign Direct Investment, Gdp, Gross Domestic Product, Gni, Gross National Income, International Trade
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+2) PRODUCT
+
+***********************************
+
+TITLE: Global Issues in Context
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=GIC
+
+DESCRIPTION: Portal pages organize and present full-text articles from newspapers, magazines, and academic journals, encyclopedia entries, primary resources such as podcasts and speeches, videos, maps, images, websites, and statistics.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Teaching Resources
+
+***********************************
+
+TITLE: GlobalEdge
+
+LINK: http://globaledge.msu.edu/
+
+DESCRIPTION: From Michigan State University's Broad College of Business. A "Web portal connecting international business professionals worldwide." Contains a wealth of information on all countries, in-depth analysis of selected industries, teaching resources, etc. Free access, but registration will provide additional information.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Culture, Doing Business In, Economic Indicators, Exports, Imports, International Law, International Trade, News, Statistics: United States
+
+***********************************
+
+TITLE: Globalization Website
+
+LINK: http://www.sociology.emory.edu/globalization/
+
+DESCRIPTION: From Emory University. Developed by sociology faculty. Use the table of contents to find news items as well as information on people, issues and organizations related to globalization.
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Business
+
+***********************************
+
+TITLE: Google Scholar
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://scholar.google.com
+
+DESCRIPTION: Searches selected scholarly information across many disciplines and sources, including books, articles, theses. Use the "FindIt@UMCP" link to obtain full text of an article or to find out how else to access it. See also: Making Google Scholar Work for You.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Management, Marketing, Operations Management, Organization Theory, Public Relations, Decision Theory, Economics, Social Entrepreneurship, Technology, Human Resource Management, Industry Analysis Models, Labor Economics, Labor Relations, Leadership
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+2) ENTREPRENEURSHIP
+3) INDUSTRY
+4) MARKETING
+
+***********************************
+
+TITLE: Google Translator
+
+LINK: http://translate.google.com/
+
+DESCRIPTION: Online translation service. Translate website, abstracts, phrases, etc. from one language to another.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Translations
+
+CATEGORIES (w/ rankings): 
+1) labor economics, economic indicators
+
+***********************************
+
+TITLE: Great American Business Leaders of the Twentieth Century
+
+LINK: http://www.hbs.edu/leadership/database/
+
+DESCRIPTION: From the Harvard Business School, this resources is "an effort to identify and chronicle the lives of 20th century men and women whose business leadership shaped the ways that people live, work, and interact". Data is available in Excel format by request.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Biographical Information
+
+***********************************
+
+TITLE: GuideStar
+
+LINK: http://www2.guidestar.org/
+
+DESCRIPTION: Searchable database with information on nonprofits, including their "mission, programs, leaders, goals, accomplishments, and needs."
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits, Rankings
+
+***********************************
+
+TITLE: Handbooks in Economics
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.elsevier.com/wps/find/S04.cws_home/books
+
+DESCRIPTION: Full text of the handbooks, which primarily include survey articles by leading economics scholars. Arranged into 28 different series by broad topic. NOTE: To access volumes, click on "full text access" below the title, NOT on the volume number.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Labor Economics, Economic Indicators
+
+***********************************
+
+TITLE: Harmonized Tariff Schedule (HTF) Codes
+
+LINK: http://www.usitc.gov/tata/hts/bychapter/index.htm
+
+DESCRIPTION: From the United States International Trade Commission.HTS codes are 6-digit identification codes assigned to all products imported into the United States.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Product Codes
+
+CATEGORIES (w/ rankings): 
+1) PRODUCT
+
+***********************************
+
+TITLE: Historical Statistics of the United States
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://hsus.cambridge.org
+
+DESCRIPTION: The standard source for quantitative indicators of American history. Includes statistics from over 1000 sources.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Hoovers Online
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.mergentonline.com/Hoovers
+
+DESCRIPTION: One of the leading directories for quick access to company and industry information. Provides comprehensive profiles, in-depth financials, company overviews and histories, their competitors, products, services and operations.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Annual Reports, Biographical Information, Company Profiles, Competitors, Financial Information, Industry Classification, Industry Overview, Industry Trends, Manufacturers, Ownership Status, Sec Filings, Stocks, Stock Trades Quotes
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+2) FINANCE AND INVESTMENT
+3) INDUSTRY,3
+
+***********************************
+
+TITLE: Human Development Report
+
+LINK: http://hdr.undp.org/en/countries/
+
+DESCRIPTION: From the United Nations. An annual "In depth analysis and policy recommendations on a specific and important aspect of international development". Includes statistical factsheets on many of the world's countries.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background, Doing Business In, International Business, Statistics: International
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: IBIS World
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.ibisworld.com/
+
+DESCRIPTION: Provides industry market research reports on over 700 U.S. industries, and brief company reports on about 8000 companies as well as economic and demographic reports with focus on the U.S. economy. Also available through MySmithApps.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Competitors, Consumer Analysis, Economic Indicators, Industry Classification, Industry Overview, Industry Trends, Marketing, Market Share, Market Size
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+2) INDUSTRY,1
+3) MARKETING
+
+***********************************
+
+TITLE: Idealist
+
+LINK: http://www.idealist.org/
+
+DESCRIPTION: Links to nonprofit, volunteering, career, and funding resources. Includes job and internship opportunities.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Associations, Nonprofits, Job Source
+
+***********************************
+
+TITLE: IHS Global Insight
+
+LINK: http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+DESCRIPTION: 
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Independent Sector
+
+LINK: http://www.independentsector.org/
+
+DESCRIPTION: Independent Sector is the leadership network for nonprofits, foundations, and corporate giving programs.Helps organizations maintain the highest standards of ethics and accountability in an new online Resource Center for Good Governance and Ethical Practice. Offers organizations hundreds of free examples of effective practice and tools, as well as other resources from around the country to guide their work. Collects data on nonprofit organizations.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits
+
+***********************************
+
+TITLE: Information and Communication Technologies (ICT) At-A-Glance Tables
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://go.worldbank.org/7S1VU9WNZ0
+
+DESCRIPTION: From the World Bank. Provides key data on information and communications technologies, with sections on economic and social context, ICT sector structure, and ICT sector performance.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: International, Technology
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Institute for the Study of Security Markets (ISSM) - Via WRDS - Wharton Research Data Service in MySmithApps
+
+LINK: http://smithapps.rhsmith.umd.edu/
+
+DESCRIPTION: Access via WRDS NYSE/AMEX/NASD Trade and Quote Database covering 1983-1992. NOTE: Access to WRDS is available by account only for Ph.D. students, faculty and faculty-sponsored class research. Request account at https://wrds.wharton.upenn.edu - Follow instructions.)
+
+NOTES: 
+
+KEYWORDS (separated by commas): Investment and Securities, Stock Exchange
+
+***********************************
+
+TITLE: International Business and Technology @ Brint
+
+LINK: http://www.brint.com/International.htm
+
+DESCRIPTION: 
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Business, Doing Business In
+
+***********************************
+
+TITLE: International Business, Etiquette and Manners
+
+LINK: http://cyborlink.com/besite/
+
+DESCRIPTION: 
+
+NOTES: 
+
+KEYWORDS (separated by commas): Culture, Doing Business In
+
+***********************************
+
+TITLE: International Comparison Program
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.worldbank.org/data/icp
+
+DESCRIPTION: From the World Bank. Provides a collection of comparative price data and detailed expenditure values of countries gross domestic products (GDP), and purchasing power parities (PPPs) estimates of the worlds economies.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Gdp
+
+***********************************
+
+TITLE: International Financial Statistics
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.imfstatistics.org
+
+DESCRIPTION: From the International Monetary Fund. All aspects of international and domestic finance, with history to 1948. Includes full-text statistical data from 1996-present.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: International
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Joint External Debt Hub (JEDH)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.jedh.org/jedh_home.html
+
+DESCRIPTION: From the World Bank. Provides external debt data and selected foreign assets from international creditor/market and national debtor sources.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Debt, Country Data, Statistics: International, Economics
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) DEMOGRAPHICS AND STATISTICS
+3) ECONOMICS
+
+***********************************
+
+TITLE: JSTOR
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.jstor.org/
+
+DESCRIPTION: Electronic archive of core journals in the humanities, social sciences, and sciences. Includes complete runs of journals with full-text of all articles published prior to the most current five years.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Management, Marketing, Operations Management, Organization Theory, Public Relations, Decision Theory, Social Entrepreneurship, Technology, Human Resource Management, Industry Analysis Models, Labor Economics, Labor Relations, Leadership
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+2) ENTREPRENEURSHIP
+3) INDUSTRY,7
+4) MARKETING
+
+***********************************
+
+TITLE: Kwintessential Country Profiles
+
+LINK: http://www.kwintessential.co.uk/resources/country-profiles.html
+
+DESCRIPTION: Guide to international etiquette, culture, customs and protocol.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Culture
+
+***********************************
+
+TITLE: LANIC
+
+LINK: http://lanic.utexas.edu/las.html
+
+DESCRIPTION: Maintained by the University of Texas at Austin. The Latin American Network Information Center. Provides access to country information for Mexico, Central America, South America and the Caribbean.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Doing Business In, Culture, International Business
+
+***********************************
+
+TITLE: Laws and Regulations: General Reference Sources
+
+LINK: http://www.usa.gov/Topics/Reference_Shelf/Laws.shtml
+
+DESCRIPTION: From USA.Gov. Links to federal, state and local laws and regulations.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Regulations
+
+***********************************
+
+TITLE: Legal Information Institute at Cornell University
+
+LINK: http://www.law.cornell.edu/
+
+DESCRIPTION: The Legal Information Institute (LII) provides electronic versions of core materials in numerous areas of the law both online and packaged for download.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Tort, Regulations
+
+***********************************
+
+TITLE: LexisNexis Academic
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.lexisnexis.com/us/lnacademic
+
+DESCRIPTION: Time covered varies by source. Covers a wide range of business and business-related topics. Almost all full-text. Covers business topics from local, regional and national newspapers, some trade publications, business magazines, SEC filings, some reference sources, key accounting sources, legal information as well as SWOT analysis. To access SWOT information, click on Companies and then Company Profiles. Type name of company in first box, select "company name" from drop down box; in second box, type SWOT. To access business news, click on News and then Business.
+
+NOTES: Does NOT include access the Wall Street Journal (WSJ). The WSJ is contained in Factiva.
+
+KEYWORDS (separated by commas): Accounting, Annual Reports, Biographical Information, Foreign Language Sources, Labor Relations, Mergers and Acquisitions, News
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: LexisNexis State Capital
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.lexisnexis.com/stcapuniv
+
+DESCRIPTION: Full-text of bills and laws, constitutions, proposed and enacted regulations, legislature membership, newspapers of record, for all 50 states. May be searched by individual state, any combination of states, or all 50 states at once.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Regulations
+
+***********************************
+
+TITLE: Logistics Performance Index (LPI)
+
+LINK: http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTTRANSPORT/EXTTLF/0,,contentMDK:21514122~menuPK:3875957~pagePK:210058~piPK:210062~theSitePK:515434,00.html
+
+DESCRIPTION: An interactive benchmarking tool created to help countries identify the challenges and opportunities they face in their performance of trade logistics and what they can do to improve their performance.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Logistics
+
+CATEGORIES (w/ rankings): 
+1) LOGISTICS, BUSINESS and PUBLIC POLICY
+
+***********************************
+
+TITLE: Making of the Modern World: The Goldsmiths-Kress Library of Economic Literature 1450-1850
+
+LINK: http://researchport.umd.edu/V/N9TF6DDJ5Q69HV4XY44IQQNER1KVEHDAP2KPYJV12I4U43U1EA-39686?func=native-link&resource=UMD08056
+
+DESCRIPTION: The most comprehensive and valuable collection in existence for researching the literature of economics and business dating from the last half of the 15th century to the early 20th century. The collection combines two pre-eminent collections: the Goldsmiths' Library of Economic Literature at the University of London, England, and the Kress Library of Business and Economics at the Harvard University Graduate School of Business Administration.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Market Research Library
+
+LINK: http://www.buyusainfo.net/
+
+DESCRIPTION: From the U.S. Commercial Service. Provides market research reports searchable by industry, region or country.Note: You must create a free account in order to access these reports.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Accounting, Annual Reports, Biographical Information, Foreign Language Sources, Labor Relations, Mergers and Acquisitions, News, Marketing
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+2) MARKETING
+
+***********************************
+
+TITLE: Media Freedom: Freedom House - Nations in Transit - Country Reports
+
+LINK: http://www.freedomhouse.org/report/nations-transit/nations-transit-2012
+
+DESCRIPTION: Comprehensive, comparative, and multidimensional study of reform in the former Communist states of Europe and Eurasia - tracking the reform record. [Note: Formerly called Freedom of the Press.]
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Mediamark (MRI+)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.mriplus.com/
+
+DESCRIPTION: Use to find detailed information about the demographics and lifestyles of consumers and media audiences. Information includes consumer demographics, psychographics/lifestyles, product and brand usage, and media preferences. (Also available SmithApps)Note: First time users must register using UMD email domain. To register, go to Mediamark, click on Register for a FREE Account, and follow instructions.A brief tutorial is available from Mediamark Research.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Consumer Analysis, Lifestyles
+
+***********************************
+
+TITLE: Mergent Online - Access via SmithApps
+
+LINK: http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+DESCRIPTION: Offers a wealth of detail including business description, history, property, subsidiaries, officers and directors, long-term debt and capital stock.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Financial Information, Company Profiles, Competitors
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+2) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Mergent WebReports- Access via SmithApps
+
+LINK: http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+DESCRIPTION: Offers a comprehensive library of documents that includes company annual reports, prospectuses, industry reports and other company related documents. Also covers 50,000 global companies from over 100 countries.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Company Profiles, Competitors, Industry Overview, Industry Trends
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+2) INDUSTRY,8
+
+***********************************
+
+TITLE: Metropolitan New Economy Index
+
+LINK: http://www.research.fsu.edu/techtransfer/documents/mnei.pdf
+
+DESCRIPTION: Provides metropolitan rankings list by population, income, unemployment rate, federal funds and grants, and housing, etc. Report uses a set of 16 economic indicators to assess the 50 largest metropolitan areas' progress.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Index
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: Mintel
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://academic.mintel.com/sinatra/oxygen_academic/academic_logon/
+
+DESCRIPTION: Provides full-text reports on a wide range of market research studies, analyzing market sizes and trends, market segmentation, consumer attitudes and purchasing habits, opportunities, weaknesses and the future of the market. Note: To download reports, authorized users are required to create a personal account.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Advertising, Competitors, Consumer Analysis, Industry Overview, Industry Trends, Lifestyles, Market Size, Marketing
+
+CATEGORIES (w/ rankings): 
+1) INDUSTRY,8
+2) MARKETING
+
+***********************************
+
+TITLE: Morningstar
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://library.morningstar.com/
+
+DESCRIPTION: Licensing restrictions limit use to 4 simlutaneous users. If you are unable to access this database, please try again later. [Date range: Historical data back to 1996]Find a stock or fund to meet your needs, research current or prospective holdings or see how your investments work together. Morningstar's data reports cover more than 20,000 securities.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Analyst Reports, Company Profiles, Finance, Company, Investment and Securities, Mutual Funds, Stocks Trades Quotes
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+2) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: NASDAQ
+
+LINK: http://www.nasdaq.com/
+
+DESCRIPTION: The official web site for the Nasdaq electronic stock market.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Stock Exchange
+
+***********************************
+
+TITLE: National Bureau of Economic Research (NBER)
+
+LINK: http://www.nber.org/
+
+DESCRIPTION: "Nation's leading nonprofit economic research organization." -- Provides current economic indicators. Concentrates on developing "new statistical measurements, assessing the effects of public policies on the U.S. economy, estimating quantitative models of economic behavior, assessing the effects of public policies on the U.S. economy, and projecting the effects of alternative policy proposals."
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Indicators
+
+***********************************
+
+TITLE: National Center for Charitable Statistics (NCCS)
+
+LINK: http://nccs.urban.org/
+
+DESCRIPTION: National clearinghouse of data on the nonprofit sector in the United States.""
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits
+
+***********************************
+
+TITLE: National Council of Nonprofits
+
+LINK: http://www.councilofnonprofits.org/salocator
+
+DESCRIPTION: The National Council of Nonprofits serves as the national voice for its nonprofit members before Congressand within the Administration, promoting the interests of the nonprofit community. The council conducts research and analyzes information to improve the public's understanding about nonprofits.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits
+
+***********************************
+
+TITLE: National Newspapers
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://proquest.umi.com/login?COPT=SU5UPTAmVkVSPTImREJTPUc1&clientId =41143
+
+DESCRIPTION: Full text articles from the Wall Street Journal, Christian Science Monitor, The New York Times, The Sun (Baltimore), and The Washington Post.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Wall Street Journal
+
+***********************************
+
+TITLE: NationMaster.com
+
+LINK: http://www.nationmaster.com/index.php
+
+DESCRIPTION: National statistics for just about any country in the world, presented in over 20 categories and 10 regions, including Asia and South East Asia.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Indicators, Globalization
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: NBER Working Papers
+
+LINK: http://www.nber.org/custom?#navDiv=1
+
+DESCRIPTION: Full text of the working papers of the National Bureau of Economic Research.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Netpreneur Program
+
+LINK: http://netpreneur.com/
+
+DESCRIPTION: Information about Potomac KnowledgeWay's program for entrepreneurs. Get informed aboutnetworking events, news, and more. Visit the Netpreneur Exchange, a virtual meeting place for entrepreneurs, to find information on funding and finance and other necessities for entrepreneurs.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Small Business
+
+***********************************
+
+TITLE: New Palgrave Dictionary of Economics
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.dictionaryofeconomics.com/advanced_search
+
+DESCRIPTION: Considered one of the most extensive and authoritative economics reference resources available. It contains over 1,850 articles by more than 1,500 of the world's leading economists.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Dictionaries
+
+***********************************
+
+TITLE: Nonprofits: USA.gov
+
+LINK: http://www.usa.gov/Business/Nonprofit.shtml
+
+DESCRIPTION: "information and services for nonprofits, including grants, loans, assistance, taxes, management and more".
+
+NOTES: 
+
+KEYWORDS (separated by commas): Nonprofits
+
+***********************************
+
+TITLE: North American Industry Classification System (NAICS)
+
+LINK: http://www.census.gov/eos/www/naics/
+
+DESCRIPTION: [U.S. Census Bureau]NAICS is the current industry classification that was developed jointly by the U.S., Canada, and Mexico to provide new comparability in statistics about business activity across North America. There is a 2002 version of NAICS and the initial 1997 version of NAICS.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Industry Classification
+
+CATEGORIES (w/ rankings): 
+1) INDUSTRY,9
+
+***********************************
+
+TITLE: NYSE - New York Stock Exchange
+
+LINK: http://nyse.nyx.com/
+
+DESCRIPTION: Official website of the New York stock exchange.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Stock Exchange
+
+***********************************
+
+TITLE: Occupational Outlook Handbook
+
+LINK: http://stats.bls.gov/ooh/
+
+DESCRIPTION: By the Bureau of Labor Statistics, this online handbook provides information on starting salaries within a variety of occupational categories as well as information on working conditions, nature of the work, training, and more.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Jobs, Employment, Training
+
+CATEGORIES (w/ rankings): 
+1) CAREER
+
+***********************************
+
+TITLE: OffStats- Official Statistics on the Web
+
+LINK: http://www.offstats.auckland.ac.nz/
+
+DESCRIPTION: Collection of "free statistics from official sources" from around the world. Can be searched by country, region and topic or industry.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: One World- Nations Online
+
+LINK: http://www.nationsonline.org/
+
+DESCRIPTION: A portal to the countries of the world - each country listed contains a country profile with facts and figures, geography, flag, statistics, maps, images, plus links to sources that provide you with information about a nation, such as: official government web sites, newspapers, tourism and visa information, travel advice, etc.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Background
+
+***********************************
+
+TITLE: Opposing Viewpoints in Context
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=OVIC
+
+DESCRIPTION: Fulltext database covering social issues with topic overviews and pro/con viewpoints. Sources include news journal articles magazines media maps websites and statistics.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Overview of BLS Statistics by Industry
+
+LINK: http://www.bls.gov/bls/industry.htm
+
+DESCRIPTION: An overview of Bureau of Labor Statistics data.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Oxford Encyclopedia of Economic History
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780195105070.001.0001/acref-9780195105070
+
+DESCRIPTION: Fully searchable text of the encyclopedia, including over 900 articles from leading scholars with extensive bibliographies. Covers all time periods of human history and includes strong coverage of individual countries, regions, industries and economic concepts.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Panel Study of Income Dynamics (PSID)
+
+LINK: http://psidonline.isr.umich.edu/default.aspx
+
+DESCRIPTION: The Panel Study of Income Dynamics - PSID - is the longest running longitudinal household survey in the world. The PSID began in 1968 with a nationally representative sample of over 18,000 individuals living in 5,000 families in the United States. Information on these individuals and their descendants has been obtained through various data collection efforts. Data includes employment, income, wealth, expenditures, health, marriage, childbearing, child development, philanthropy, education, and numerous other topics. A majority of data is publicly available for free.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Polls, Surveys
+
+***********************************
+
+TITLE: Patents and Trademarks
+
+LINK: http://lib.guides.umd.edu/patent_tm
+
+DESCRIPTION: [Compiled by James C. Miller, Patent and Trademark Librarian at UMD] Lists University of Maryland collections, Internet resources, and DVD/CD-ROM databases on patent and trademark.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Patents and Trademarks
+
+***********************************
+
+TITLE: Population and Household
+
+LINK: http://www.census.gov/people/
+
+DESCRIPTION: [U.S. Census Bureau]Statistics on births, education, income, immigration, income, industry, language use, occupation, etc.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Population, Housing Data
+
+***********************************
+
+TITLE: Porter's Five Forces: Assessing the Balance of in a Business Situation
+
+LINK: http://www.mindtools.com/pages/article/newTMC_08.htm
+
+DESCRIPTION: Explanation of Michael Porter's Five Forces
+
+NOTES: 
+
+KEYWORDS (separated by commas): Business Plans, Business Planning, Competitors, Human Resource Management, Industry Analysis Models
+
+CATEGORIES (w/ rankings): 
+1) INDUSTRY,10
+
+***********************************
+
+TITLE: PortFocus - Ports Harbours Marinas Worldwide
+
+LINK: http://portfocus.com/
+
+DESCRIPTION: Comprehensive listing of marine transportation links by country.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Transportation Modes, Ports
+
+***********************************
+
+TITLE: PricewaterhouseCoopers - MoneyTree Report
+
+LINK: http://www.pwcmoneytree.com/MTPublic/ns/index.jsp
+
+DESCRIPTION: The MoneyTree Report is a quarterly study of venture capital investment activity in the United States. As a collaboration between PricewaterhouseCoopers and the National Venture Capital Association based upon data from Thomson Reuters, it is the only industry-endorsed research of its kind. The MoneyTree Report is the definitive source of information on emerging companies that receive financing and the venture capital firms that provide it.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Business Financing, Financing, Venture Capital
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: PsycInfo
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=PSYH
+
+DESCRIPTION: [Full-text, Date range : 1987 - present]PsycINFO provides one of the most comprehensive indexes in psychology and psychology-related fields. It provides citations and abstracts to journal articles, book chapters and books, technical reports, and dissertations. Some citations have links to the full-text articles in PsycARTICLES and in the Psychology & Behavioral Sciences Collection.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Leadership
+
+***********************************
+
+TITLE: Quarterly External Debt Statistics (QEDS/SDDS/GDDS)
+
+LINK: http://web.worldbank.org/WBSITE/EXTERNAL/DATASTATISTICS/EXTDECQEDS/0,,menuPK:1805431~pagePK:64168427~piPK:64168435~theSitePK:1805415,00.html
+
+DESCRIPTION: Provides detailed external debt data that are published individually by countries that subscribe to the IMF's Special Data Dissemination Standard (SDDS) as well as GDDS participating countries that are in a position to produce the external debt data prescribed by the SDDS.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Debt, Country Data
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: RAILindustry.com
+
+LINK: http://www.railindustry.com/
+
+DESCRIPTION: An A-Z index of industrial rail companies and organizations, listings of suppliers and vendors, and links to industrial railroad related web sites.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Transportation Modes, Trains
+
+***********************************
+
+TITLE: RDS Business Reference Suite
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.rdsinc.com/texis/rds/sessions?userid=umd&products=BNI,TBL,BMP
+
+DESCRIPTION: [Full-text, time coverage varies by title.]Provides access to three important database - RDS Business and Industry (covers industry trade journals,magazines and newspapers); RDS Business and Management Practices (covers journals and magazines dealing with business and management issues) and RDS Tablebase(provides business statistics, i.e., market share, market size, advertising expenditures, etc.).
+
+NOTES: 
+
+KEYWORDS (separated by commas): Industry Research, Company Research, Product, Country Research, Economics, Career, Marketing, Logistics, Advertising, Analyst Reports, Company Profiles, Competitors, Corporate Culture, Human Resource Management, Investment And Securities, Labor Relations, Management, Market Share, Mergers and Acquisitions, Product Development, Promotion, Public Relations, Research Development
+
+CATEGORIES (w/ rankings): 
+1) CAREER
+2) COMPANY
+3) COUNTRY RESEARCH
+4) ECONOMICS
+5) INDUSTRY,6
+6) LOGISTICS, BUSINESS and PUBLIC POLICY
+7) MARKETING
+8) PRODUCT
+
+***********************************
+
+TITLE: Reference Universe
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://refuniv.odyssi.com/cgi-bin/phtml?newsearch.htm
+
+DESCRIPTION: Best place to start research for an overview or background information on a topic. A web based research tool that provides a single search across more than 43,000 specialized subject encyclopedias and scholarly compendia. The database contains more than 26 million citations to both print and e-versions from all major and minor reference publishing houses.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Encyclopedia, Reference, Research
+
+***********************************
+
+TITLE: RefWorks
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=https://www.refworks.com/refworks2/?r=authentication::init&groupcode=RWUMCollegePark
+
+DESCRIPTION: Users must sign up for an individual account. Online bibliographic management program allows users to create a personal database of references and generate bibliographies in a variety of formats.For information on how to use and log into RefWorks use - RefWorks: Online Tool for Managing Citations
+
+NOTES: 
+
+KEYWORDS (separated by commas): Bibliographic Management, Citing
+
+***********************************
+
+TITLE: Regional Business News (EBSCO)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip&group=main&profile=ehost&defaultdb=bwh
+
+DESCRIPTION: [Some full-text, Date range: varies] This database provides comprehensive full text coverage for regional business publications. Regional Business News incorporates coverage of 75 business journals, newspapers and newswires from all metropolitan and rural areas within the United States. This database is updated on a daily basis
+
+NOTES: 
+
+KEYWORDS (separated by commas): Demographics and Statistics, Regional News, News
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Regional Economic Conditions (RECON)
+
+LINK: http://www2.fdic.gov/recon/index.asp
+
+DESCRIPTION: From the Federal Deposit Insurance Corporation (FDIC). Provides "an overview of economic conditions in the United States," offering 40,000-plus charts, maps, and tables of data at the state, Metropolitan Statistical Area (MSA), and county levels. Select the state of interest first, then select MSA and or/County of interest. Areas covered are Industry Activity, Labor Markets, Income, and Real Estate Activity.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics, Demographics and Statistics
+
+***********************************
+
+TITLE: Regulations.gov
+
+LINK: http://www.regulations.gov/#!home
+
+DESCRIPTION: Online access to U.S. government regulations from nearly 300 federal agencies. Browse by Category, or by topic.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Regulations
+
+***********************************
+
+TITLE: Reuters 3000 XTRA (Access via Smithapps)
+
+LINK: http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+DESCRIPTION: Contains current and historical financial data on individual companies, stock market indices, fixed-incomesecurities, currencies, commodities, and derivatives for both international and domestic markets, as well as business and financial news.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Finance, Investment, Stocks, Business News, Financial News, News
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: RFE: Resources for Economists on the Internet
+
+LINK: http://www.rfe.org
+
+DESCRIPTION: Organized links to valuable online resources in economics from the American Economics Association, including data resources, professional contacts for students and scholars, and reference and teaching resources.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics, Demographics and Statistics, Economic Data: United States, Economic Data: International
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: RIA Checkpoint
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=https://checkpoint.riag.com/login?iploc=UNTYOFMANDCOGEPARK
+
+DESCRIPTION: Accounting, auditing and tax database that provides access to a variety of tax information, including complete tax law, analysis, journals, news, cases, and rulings. It covers all aspects of tax law.Coverage varies, but most is from 1990 to the present.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Taxation, Accounting, Auditing
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: Schwab Foundation for Social Entrepreneurship
+
+LINK: http://www.schwabfound.org/sf/index.htm
+
+DESCRIPTION: "Purpose to advance social entrepreneurship and to foster social entrepreneurs as an important catalyst for societal innovation and progress." Publications link provides access to reports and case studies dealing with social entrepreneurship.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Social Entrepreneurship, Entrepreneurship Research
+
+CATEGORIES (w/ rankings): 
+1) ENTREPRENEURSHIP
+
+***********************************
+
+TITLE: Science Citation Index Expanded - Web of Science
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/?DestApp=WOS&editions=SCI
+
+DESCRIPTION: A multidisciplinary index covering the journal literature of the sciences. It indexes more than 5,700 majorjournals across 164 scientific disciplines. The best database for finding what papers have cited other papers. Cited references can be traced forward in time.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Cited References, Science
+
+***********************************
+
+TITLE: Small Business Administration
+
+LINK: http://www.sba.gov/
+
+DESCRIPTION: Small Business Administration provides information about how to start, finance, and manage small business
+
+NOTES: 
+
+KEYWORDS (separated by commas): Small Business, Business Plans, Business Planning
+
+***********************************
+
+TITLE: Social Enterprise Alliance
+
+LINK: http://www.se-alliance.org
+
+DESCRIPTION: Potomac, MD based organization for nonprofits involved in entrepreneurship; provides technical help and education.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Social Entrepreneurship
+
+CATEGORIES (w/ rankings): 
+1) ENTREPRENEURSHIP
+
+***********************************
+
+TITLE: Social Science Citation Index - Web of Science
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/WOS
+
+DESCRIPTION: Virtually the only index for finding which papers have cited other papers. Best for the Social Sciences.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics, Cited References, Social Science, Business, Entrepreneurship, Ethics, Leadership, Management
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+2) ENTREPRENEURSHIP
+
+***********************************
+
+TITLE: Source OECD
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.oecd-ilibrary.org
+
+DESCRIPTION: SourceOECD is the online library of the Organisation for Economic Co-operation and Development. It comprises 20 Book collections by theme, including monographs and reports; 24 periodicals; a reference title; and the OECD statistical databases.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economics, Globalization, Economic Indicators, Statistics: International
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: Springer eBooks (2005-2011)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.springerlink.com/
+
+DESCRIPTION: Accurate reproductions of over 30,000 Springer print book publications, with search capabilities and bookmarks, also includes Springer journals.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Ebooks, Ejournals
+
+***********************************
+
+TITLE: Standard & Poor's Net Advantage
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.netadvantage.standardpoor.com/
+
+DESCRIPTION: Provides full-text reports, forecast, analysis, statistics and ratios of major industries. Coverage is forcurrent and up to 4 years, depending on the industry.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Industry Research, Finance, Investment, Competitors, Industry Trends, Industry Ratios, Securities, Stocks
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+2) INDUSTRY,2
+
+***********************************
+
+TITLE: Standard & Poor's
+
+LINK: http://www.standardandpoors.com/home/en/us
+
+DESCRIPTION: Standard & Poor's is a major publisher of investment data, including bond ratings. (MUST REGISTER TO USE - FREE SUBSCRIPTION.) For bond ratings, after registration, click on United States, under Task Selector, select - Find a rating. Follow directions to get available S&P ratings.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Finance, Investment, Bonds, Stocks, Financial Information
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Standard Industrial Classification System (SIC)
+
+LINK: http://www.osha.gov/pls/imis/sicsearch.html
+
+DESCRIPTION: [U.S. Census Bureau]SIC was the industry classification for many years and was replaced by the NAICS system in 1997.The classification is still used in some business databases.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Industry Classification, Industry
+
+CATEGORIES (w/ rankings): 
+1) INDUSTRY,10
+
+***********************************
+
+TITLE: State Data Centers
+
+LINK: http://www.census.gov/sdc/
+
+DESCRIPTION: Provides access to U.S. Census Bureau data and information through a wide network of agencies in each state.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Demographics and Statistics
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Statistical Abstract of the United States
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.census.gov/compendia/statab/
+
+DESCRIPTION: The authoritative and comprehensive summary of statistics on the social, political, and economic organization of the United States.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Demographics and Statistics
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Statistical Classification of Domestic and Foreign Commodities Exported from the United States (Schedule B)
+
+LINK: http://www.census.gov/mp/www/cat/foreign_trade/schedule_b_--_statistical_classification_of_domestic_and_foreign_commodities_exported_from_the_unite.html
+
+DESCRIPTION: By the U.S. Census Bureau, the Statistical Classification of Domestic and Foreign Commodities, also known as Schedule B, is a 10-digit identification code assigned to every product exported from the United States. It contains the 9,000 export codes used to identify commodities. Schedule B has the official schedule of commodity classifications to be used by shippers in reporting export shipments from the United States and in compiling the official statistics on exports of merchandise from the United States. The export commodity classification system presented in this schedule reflects the adoption of the Harmonized Commodity Description and Coding System (Harmonized System).
+
+NOTES: 
+
+KEYWORDS (separated by commas): Product Codes
+
+CATEGORIES (w/ rankings): 
+1) PRODUCT
+
+***********************************
+
+TITLE: Statistical DataSets (ProQuest)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://web.lexis-nexis.com/statuniv?landingpage=datasets
+
+DESCRIPTION: Provides access to more than 14 billion data points from licensed and public domain datasets, including time series data. Select subjects and variables of interest, and view your data in side-by-side tables and charts, and perform basic statistical analysis of results. Please use browsers other than Firefox for best results. NOTE: Formerly called LexisNexis Statistical Datasets.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Consumer Price Index
+
+***********************************
+
+TITLE: Statistical Insight (ProQuest)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.lexisnexis.com/statuniv
+
+DESCRIPTION: Provides access to statistical reports produced by the U.S. government, major international and intergovernmental organizations, professional and trade organizations, state government agencies, and universities.
+
+NOTES: Formerly called LexisNexis Statistical Insight.
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Statistical Sites of the World Wide Web
+
+LINK: http://www.bls.gov/bls/other.htm
+
+DESCRIPTION: Bureau of Labor Statistics, US and other country statistical web sites.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Demographics and Statistics
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: Tax Policy Center
+
+LINK: http://www.taxpolicycenter.org/
+
+DESCRIPTION: From the Urban Institute and Brookings Institution, this site provides a comprehensive overview of US tax policy for the public, government officials, journalists, and researchers. Its major projects include "revenue and distribution estimates for the latest tax proposals and bills." It also provides issue briefs, discussion papers, summaries of facts published by government agencies, a primer on the tax system, and a blog discussing tax legislation.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Taxation
+
+***********************************
+
+TITLE: Testing and Education Reference Center
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=TERC
+
+DESCRIPTION: Testing and Education Reference Center provides users with indepth information on colleges and universities graduate and professional programs distance learning corporate training available scholarships and awards and preparatory entrance tests. Available online practice tests include entrance exams certification and licensing tests. Graduate school online pactice tests include GRE LSAT MCAT and MAT. There are even international tests covering TOEFL and TOEIC. The Career Module consists of the Career Assessment the Resume Builder and the Virtual Careers Library. The Career Assessment helps users map a career path through a brief multiplechoice exam which matches their answers to job categories industries and occupations that are most suitable to them. The Resume Builder helps users build outstanding appealing resumes based on the stage of their career and type of position they are applying for. The Virtual Careers Library provides resume cover letter and interviewing tips.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+CATEGORIES (w/ rankings): 
+1) CAREER
+
+***********************************
+
+TITLE: ThomasNet
+
+LINK: http://www.thomasnet.com/
+
+DESCRIPTION: A directory of manufacturers, distributors, and suppliers.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Manufacturers, Distributors
+
+***********************************
+
+TITLE: Thomson Reuters SDC Platinum (Access via Finance folder in SmithApps)
+
+LINK: http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+DESCRIPTION: Provides a common front end retrieval system for a collection of databases. They contain detailed information on new issues, mergers and acquisitions, syndicated loans, private equity, and more for the global financial marketplace. Click here for more information. https://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspxhttps://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx
+
+NOTES: 
+
+KEYWORDS (separated by commas): Financial Information, Mergers and Acquisitions
+
+***********************************
+
+TITLE: TIDE'S Directory of Transportation Information
+
+LINK: http://users.cs.jmu.edu/bernstdh/web/tide/index.html
+
+DESCRIPTION: Provides a directory of ground and air transportation resources, as well as listings of organizations and companies involved in the transportation industry. [The New Jersey TIDE Center is a multi-disciplinary, multi-university research center comprised of the New Jersey Institute of Technology, Princeton University, and Rutgers University.]
+
+NOTES: 
+
+KEYWORDS (separated by commas): Transportation Modes
+
+***********************************
+
+TITLE: Top U.S. Trading Partners
+
+LINK: http://www.trade.gov/mas/ian/build/groups/public/@tg_ian/documents/webcontent/tg_ian_003364.pdf
+
+DESCRIPTION: Ranked by U.S. Total Export Value for Goods (in millions of U.S. dollars). The Office of Trade and Industry Information (OTII), as part of the International Trade Administration, seeks to provide a solid foundation of trade and industry data to support the development of national trade policies.rankings
+
+NOTES: 
+
+KEYWORDS (separated by commas): Export, Import, International Trade, Rankings
+
+***********************************
+
+TITLE: U.S. Census Bureau
+
+LINK: http://www.census.gov/
+
+DESCRIPTION: Leading source of quality data about the nation's people and economy. It provides social, demographic, housing and economic statistics mainly for the U.S. Click on headings top of screen to find data sources of interest.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Business Planning, Demographics and Statistics, Economic Indicators
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+2) ECONOMICS
+
+***********************************
+
+TITLE: U.S. Commercial Service
+
+LINK: http://www.trade.gov/cs/index.asp
+
+DESCRIPTION: The U.S. Commercial Service is the trade promotion arm of the U.S. Department of Commerces International Trade Administration. U.S. Commercial Service trade professionals in over 100 U.S. cities and in more than 75 countries help U.S. companies get started in exporting or increase sales to new global markets. For details, see: Information for Exporters of U.S. Goods and Services http://export.gov/worldwide_us/index.asp and the Market Research Library http://www.buyusainfo.net/adsearch.cfm?search_type=int&loadnav=no.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Export, Trade, Trade Agreements, International Trade
+
+***********************************
+
+TITLE: U.S. Copyright Office
+
+LINK: http://www.copyright.gov/
+
+DESCRIPTION: By the Library of Congress, it provides online copyright records cataloged since 1978, copyright law, key publications and congressional testimony, etc.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Copyright
+
+***********************************
+
+TITLE: U.S. Customs and Borders Protection
+
+LINK: http://www.cbp.gov/xp/cgov/trade/basic_trade/export_docs/
+
+DESCRIPTION: It provides export documents, licenses and requirememnts. It is one of the Department of Homeland Securitys largest and most complex components, with a priority mission of keeping terrorists and their weapons out of the U.S. It also has a responsibility for securing and facilitating trade and travel while enforcing hundreds of U.S. regulations, including immigration and drug laws.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Exports, International Trade, Security, Regulations, Laws
+
+***********************************
+
+TITLE: U.S. Economy at a Glance: Perspectives from the U.S. Department of Commerce
+
+LINK: http://www.bea.gov/newsreleases/glance.htm
+
+DESCRIPTION: Bureau of Economic Analysis Accounts
+
+NOTES: statistics: united states, business planning
+
+KEYWORDS (separated by commas): The Bea Produces Some Of The Most Closely Watched Economic Statistics That Influence Decisions Of Government Officials, Business People, And Individuals. These Statistics Provide A Comprehensive, Up-To-Date Picture Of The U.S. Economy. The Regional Link Provides Wage Employment Compensation Personal Income Per Capita Personal Income Statistics Etc. At The State County And Metropolitan Level.
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: U.S. Trade Statistics
+
+LINK: http://www.trade.gov/mas/ian/tradestatistics/index.asp
+
+DESCRIPTION: The International Trade Administration, U.S. Department of Commerce, provides national and international trade statistics, small and medium-sized exporting companies, manufacturing and sub-national trade statistics (including metroplitan areas), laws, regulations and trade agreements.
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Trade, Regulations, Laws, Companies, Manufacturing, Jobs, Employment, Trade Agreements
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+
+***********************************
+
+TITLE: ValueLine (ValueLine Investment Survey)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www3.valueline.com/is/rc.aspx
+
+DESCRIPTION: Provides investment research on stocks, mutual funds, options and convertibles, and offers a family of no-load mutual funds.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Analyst Reports, Finance and Investment, Securities, Mutual Funds, Stocks, Finance, Company Profiles
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+2) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Volunteer Today
+
+LINK: http://www.volunteertoday.com/
+
+DESCRIPTION: The electronic gazette for volunteerism.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Volunteerism, Career
+
+CATEGORIES (w/ rankings): 
+1) CAREER
+
+***********************************
+
+TITLE: Wachowicz's Web World- Websites for Discerning Finance Students
+
+LINK: http://web.utk.edu/~jwachowi/wacho_world.html
+
+DESCRIPTION: Divided into eight sections: Introduction to Financial Management; Tools of Financial Analysis and Planning; Working Capital Management; Investment in Capital Assets; The Cost of Capital; Capital and Structure, and Dividend Policy; Intermediate and Long-Term Financing; and Special Areas of Financial Management.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Finance, Investment, Financial Analysis, Capital
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Wall Street Journal (Factiva)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003Wvf1WFo5DEs5DEmM9YuNTAvODFyMHmnRsIuMcNG1pRRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQAA
+
+DESCRIPTION: Click on News Pages (top of screen) to get access to major business newspapers. Factiva provides access to over 8,000 business sources, including national and international newspapers, magazines, newswire services, web sites and industry (trade) sources. It covers business news articles in a wide range of topic areas: companies, industries, markets, products, brands, and general financial articles.Factiva recommends using Internet Explorer 5.01 or higher. Licensing restrictions apply on subscription databases. This database has only 12 simutaneous users. If you are unable to access, please try again.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Industry Research, Company Research, Career, Finance Investment
+
+CATEGORIES (w/ rankings): 
+1) CAREER
+2) COMPANY
+3) FINANCE AND INVESTMENT
+4) INDUSTRY,5
+
+***********************************
+
+TITLE: Wall Street Journal (Proquest)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.proquest.com/wallstreetjournal/advanced?accountid=14696
+
+DESCRIPTION: A financial newspaper that provides citations, abstracts and full-text articles with in-depth coverage of national and international finance as well as political news.Full-text: January, 1984--present.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Finance, News, Articles, International, National
+
+CATEGORIES (w/ rankings): 
+1) FINANCE AND INVESTMENT
+
+***********************************
+
+TITLE: Wall Street Journal Historical (1889-1991)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://search.proquest.com/hnpwallstreetjournal/advanced?accountid=14696
+
+DESCRIPTION: In addition to the printed stories, researchers also can study the charts, stock tables, graphics, and illustrations featured in the publication.
+
+NOTES: 
+
+KEYWORDS (separated by commas): News, History
+
+***********************************
+
+TITLE: Wall Street Journal Interactive Edition: Franchising
+
+LINK: http://online.wsj.com/public/page/news-small-business-franchising.html
+
+DESCRIPTION: This site has links to franchisor company homepages where you will find franchising opportunities information.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Franchising, Companies
+
+CATEGORIES (w/ rankings): 
+1) COMPANY
+
+***********************************
+
+TITLE: Web of Science
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/WOS
+
+DESCRIPTION: This is the world's leading citation database with multidisciplinary coverage of over 17,000 high-impact journals in the sciences, social sciences, and arts and humanities, as well as international proceedings coverage for over 120,000 conferences. Indexes over 17,000 journals by subject keyword, author name, journal title and author affiliation. Search author abstracts when available. Powerful tools include cited reference searching, Citation Maps, and the Analyze Tool.Note: Currently works with the following browsers: IE 7 and 8, Firefox 3.6, and Safari 5.0.
+
+NOTES: 
+
+KEYWORDS (separated by commas): 
+
+***********************************
+
+TITLE: Westlaw Campus Search
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.westlaw.com/signon/default.wl?rs=IMP1.0&vr=2.0&sp=003372414%2D2000
+
+DESCRIPTION: Westlaw is an easy-to-use online research service that provides college and university students with access to a comprehensive collection of news and business information and law-related resources. It provides full-text access to cases from the courts of all 50 states and federal courts, statutes from all 50 states and federal statutes published in the /United States Code Annotated, American Jurisprudence 2d /legal encyclopedia, /American Law Reports, /federal regulations, law reviews and legal periodicals, plus the ability to update case law using /West's KeyCite/ system. It also covers: primary, secondary, and tertiary legal sources for U.S. federal and state jurisdictions.
+
+NOTES: 
+
+KEYWORDS (separated by commas): State, Federal, Law, Business Law, Regulations
+
+***********************************
+
+TITLE: Wholesale Distributors Net
+
+LINK: http://www.wholesaledistributorsnet.com/
+
+DESCRIPTION: Directory that provides links to domestic and international wholesale distributors and manufacturers direct.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Distributors, Wholesale, Manufacturers
+
+***********************************
+
+TITLE: World Business Culture
+
+LINK: http://worldbusinessculture.com/
+
+DESCRIPTION: Practical website that contains country profile information on a range of topics of immediate commercial relevance to anybody working in a global organisation, or studying international trade. The information contained in this site has been compiled by some of the world's leading experts on global business culture who have many years of practical international experience. Our experts have business experience across sectors and across functions from banking to the internet, from consumer electronics to computers.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Culture, International Business
+
+***********************************
+
+TITLE: World Development Indicators
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://databank.worldbank.org/ddp/home.do?Step=12&id=4&CNO=2
+
+DESCRIPTION: The World Bank Group provides direct access to more than 550 development indicators, with time series for 200 countries and 18 country groups from 1960, where data are available.It covers statistical data from 1960 through present in a wide range of areas, including social, economic, financial, natural resources, and environmental indicators.Data export options in Excel or ASCII.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Country Research
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH
+
+***********************************
+
+TITLE: World Economic Outlook
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://www.imf.org/external/ns/cs.aspx?id=28
+
+DESCRIPTION: This is a free online database updated biannually by the International Monetary Fund (IMF) with coverage back to 1993 is similar to World Development Indicators in providing basic statistics -- WEO is much more limited in both scope and history, but it includes commodity price data and regional data that's not easily available in WDI.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Indicators
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: World Investment Report
+
+LINK: http://unctad.org/en/Pages/DIAE/World%20Investment%20Report/World_Investment_Report.aspx
+
+DESCRIPTION: The United Nations Conference on Trade and Development (UNCTAD) World Investment Report focuses every year on the latest trends in foreign direct investment (FDI) around the world, at the regional and country levels and emerging measures to improve its contribution to development. Every issue of the Report includes: analysis of trends in FDI, ranking of the largest transnational corporations in the world, in-depth analysis of a selected topic related to FDI, policy analysis and recommendations, and statisstics with data on FDI flows and stocks for 196 economies.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: International, Direct Investment, Country Research
+
+CATEGORIES (w/ rankings): 
+1) COUNTRY RESEARCH,DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: World News Connection
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://wnc.dialog.com/
+
+DESCRIPTION: Provided by Thomson/Dialog, this is the Foreign Broadcast Information Service (FBIS) Reports online. It includes full-text summaries and translations from around the world of newspaper articles, conference proceedings, radio and television broadcasts, non-classified technical reports, and local media sources. Focus is on coverage of political, economic, environmental, and social issues and events. It covers a time span of 1994 to the present.
+
+NOTES: 
+
+KEYWORDS (separated by commas): News, International Business
+
+***********************************
+
+TITLE: World Trade Organization - WTO
+
+LINK: http://www.wto.org/
+
+DESCRIPTION: This "international body deals with rules of trade between nations".
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Trade
+
+***********************************
+
+TITLE: Worldbank Data Catalog
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://data.worldbank.org/data-catalog
+
+DESCRIPTION: World Bank Group datasets, including World Development Indicators (1960-present) and a listing of available World Bank data. This listing will continue to be updated as additional data resources are added. These resources include databases, pre-formatted tables and reports. Each of the listings includes a description of the data source and a direct link to that source. The search results can be exported in different formats. Users can also choose to download the entire database directly from the catalog.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Economic Indicators
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+
+***********************************
+
+TITLE: WorldCat (First Search)
+
+LINK: http://proxy-um.researchport.umd.edu/login?url=http://firstsearch.oclc.org/fsip?dbname=worldcat
+
+DESCRIPTION: OCLC catalog that contains more than 49 million records describing books, newspapers, maps, periodicals, government documents, etc., owned by libraries around the world. It includes material descriptions and holdings for OCLC member libraries.Time period covered: prior to 1501 - present.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: International
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************
+
+TITLE: WorldLII
+
+LINK: http://www.worldlii.org/
+
+DESCRIPTION: Information provided by the World Legal Information Institute (WorldLII) a free, independent and non-profit global legal research facility in partnership with other legal organizations from around the world. Aims to provide free, independent access to world wide laws.
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Law
+
+***********************************
+
+TITLE: WRDS (Wharton Research Data Service)
+
+LINK: http://wrds.wharton.upenn.edu/
+
+DESCRIPTION: Provides a common front end retrieval system for a large collection of databases.
+
+NOTES: Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only - request account at https://wrds.wharton.upenn.edu - Follow instructions. See also About WRDS.
+
+KEYWORDS (separated by commas): Annual Reports, Dow Jones Industrial Average, Economic Indicators, Financial Information, Industry Ratios, Investment and Securities, Market Share, Mergers and Acquisitions, Ownership Status, S&P 500, Stocks, Stock Exchange, Stock Trades Quotes
+
+CATEGORIES (w/ rankings): 
+1) ECONOMICS
+2) FINANCE AND INVESTMENT
+3) INDUSTRY,11
+4) MARKETING
+
+***********************************
+
+TITLE: WWW Virtual Library: International Affairs Resources
+
+LINK: http://www2.etown.edu/vl/
+
+DESCRIPTION: "Two-thousand annotated links to high quality English language sources in a wide range of international affairs, international studies and international relations topics." Topics include media, organizations, country/regions, business/economics, relations, etc.
+
+NOTES: 
+
+KEYWORDS (separated by commas): International Business, International Affairs
+
+***********************************
+
+TITLE: Zanran- Your Source for Data and Statistics, Graphs, Charts and Tables
+
+LINK: http://zanran.com/q/
+
+DESCRIPTION: Zanran is the Google for data searches. Provides numerical data as graphs, tables and charts. This huge amount of info can be difficult to find using conventional search engines.
+
+NOTES: 
+
+KEYWORDS (separated by commas): Statistics: United States
+
+CATEGORIES (w/ rankings): 
+1) DEMOGRAPHICS AND STATISTICS
+
+***********************************

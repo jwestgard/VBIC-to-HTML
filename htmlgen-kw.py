@@ -5,7 +5,7 @@ import os, csv
 
 # Generates HTML from a line of CSV data
 # -- Title w/ hotlink, Description, Keywords
-def append_item(i):
+def make_html(i):
     result = ['\n<h3><a href="', i['Link'],'">']
     result.extend([i['Title'],'</a>:</h3>'])
     result.extend(['\n<p>',i['Description']])
@@ -13,8 +13,8 @@ def append_item(i):
         result.extend(["\n<br /><strong>NOTE: </strong>", i['Notes']])
     result.append("</p>")
         
-    if i['Tags'] != "":
-        keyList = i['Tags'].split(',')
+    if i['Keywords'] != "":
+        keyList = i['Keywords'].split(',')
         css = ['font-size: 90%','line-height: 110%']
         css.extend(['padding: 0px 20px','margin: 0px 25px 20px 25px'])
         result.extend(['\n<div style="','; '.join(css),'">'])
@@ -36,7 +36,7 @@ def make_list(myData, targetCat):
             catList = i['Categories'].split(';')
             for j in catList:
                 if j == targetCat:
-                    resultlist.extend(append_item(i))
+                    resultlist.extend(make_html(i))
     
     resultlist.append("\n\n</body>\n</html>")
     return resultlist
@@ -45,7 +45,6 @@ def make_list(myData, targetCat):
 # Prompts user to specify name of data file, opens the data file,
 # and reads data into a list of dictionaries, which is returns as myData
 def read_csv():
-    
     sourceFile = input("\nEnter the name of the data file: ")
     
     with open(sourceFile, 'r') as myFile:
@@ -61,7 +60,6 @@ def read_csv():
 # iterates through dataset finding matches for each category,
 # and creates and saves an HTML page for each category
 def generate_html(myData):
-    
     cats = ['CAREER','COMPANY','COUNTRY RESEARCH','DEMOGRAPHICS AND STATISTICS']
     cats.extend(['ECONOMICS','ENTREPRENEURSHIP','FINANCE AND INVESTMENT'])
     cats.extend(['INDUSTRY','LOGISTICS, BUSINESS & PUBLIC POLICY'])
@@ -91,7 +89,6 @@ def generate_html(myData):
 # Asks user to specify data file, and generates text file layed out for
 # easy editing
 def edit_data(myData):
-    
     spacer = "*" * 35
     result = [spacer, "\n* COMPLETE LIST OF VBIC RESOURCES *\n", spacer]
     
@@ -110,31 +107,73 @@ def edit_data(myData):
                 result.append(line)
         
         result.extend(["\n\n", spacer])
-        
-    path = os.path.join('output', 'edit_data' + '.txt') 
+    
+    return result
+    
+    
+def save_file(content):
+    filename = input('Enter the name (with extension) under which to save the results: ')
+    path = os.path.join('output', filename) 
     outputFile = open(path, mode='w')
-    outputFile.write(''.join(result))
+    outputFile.write('\n'.join(content))
     outputFile.close()
     print('File saved as {0}.'.format(path))
 
 
+# asks user to specify keyword list file, and loads the keywords into a list and returns it
+def load_keywords():
+    sourceFile = input("\nEnter the name of the keyword file: ")
+    
+    with open(sourceFile) as f:
+        keywords = f.read().splitlines()
+   
+    return keywords
 
+
+# iterate through keywords from keywords file, for each one, iterate through
+# data looking for matches in the keywords field, and if found, call
+# the html for that resource and append the html to the result list.
+def html_by_keywords(data, keywords):
+    result = ['<html>', '<head></head>', '<body>']
+    
+    for i in keywords:
+        print('Searching for resources related to {0}'.format(i))
+        result.append('<h3>Resources Related to {0}</h3>'.format(i))
+        
+        for j in data:
+            if i in j['Keywords']:
+                result.extend(make_html(j))
+            else:
+                pass
+    
+    result.extend(['</body>','</html>'])
+    return result
+    
+
+# The main control for the various function of this program
 def main():
-    
     print("What would you like to do today?")
-    task = input("Enter E to edit data, G to generate HTML: ")
+    task = input("Enter E to create file for editing data, C to generate HTML by categories, or K to generate HTML by keywords: ")
     
-    while (task not in ('E','G')):
-        task = input("You must enter either E or G!")
+    while (task not in ('E','C','K')):
+        task = input("You must enter E, C, or K!")
     
-    if (task == 'G'):
+    if (task == 'C'):
         myData = read_csv()
         generate_html(myData)
     
     elif (task == 'E'):
         print("You indicated that you want to edit your data!")
         myData = read_csv()
-        edit_data(myData)
+        result = edit_data(myData)
+        save_file(result)
+        
+    if (task == 'K'):
+        print("You indicated that you want to create a keyword list!")
+        myData = read_csv()
+        keywords = load_keywords()
+        result = html_by_keywords(myData, keywords)
+        save_file(result)
     
     print('\nThanks for using the HTML generator. Goodbye!')
  

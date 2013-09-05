@@ -25,7 +25,7 @@ def make_html(i):
     return result
 
 
-# Creates HTML page for given keyword, finds matching resources in dataset
+# Creates HTML page for given category, finds matching resources in dataset
 # and invokes append_item function for each matching line of data
 def make_list(myData, targetCat):
     resultlist = ['<html>\n', '<head></head>\n', '<body>\n']
@@ -137,18 +137,43 @@ def html_by_keywords(data, keywords):
     result = ['<html>', '<head></head>', '<body>']
     
     for i in keywords:
-        print('Searching for resources related to {0}'.format(i))
-        result.append('<h3>Resources Related to {0}</h3>'.format(i))
+        print("Searching for resources related to {0}".format(i))
+        link = "".join(i.split()).lower()
+        result.append("<a id='{0}'><h3>Resources Related to {1}</h3></a>".format(link, i))
         
         for j in data:
             if i in j['Keywords']:
-                result.extend(make_html(j))
+                result.extend(html_kw_item(j))
             else:
                 pass
     
     result.extend(['</body>','</html>'])
     return result
+
     
+# create html individual resource listing    
+def html_kw_item(resource):
+    result = ["<h4><a href='{0}'>{1}</a>:</h4>".format(resource['Link'], resource['Title'])]
+    result.extend(["<p>{0}</p>".format(resource['Description'])])
+    if resource['Notes'] != "":
+        result.extend(["<p><strong>NOTE: {0}</strong></p>".format(resource['Notes'])])
+        
+    if resource['Keywords'] != "":
+        keylist = resource['Keywords'].split(',')
+        css = ['font-size: 90%','line-height: 110%']
+        css.extend(['padding: 0px 20px','margin: 0px 25px 20px 25px'])
+        result.extend(['\n<div style="','; '.join(css),'">'])
+        result.append('\n<p><strong>Keywords</strong>: ')
+        
+        for keyword in keylist:
+            link = "".join(keyword.split()).lower()
+            item = "<a href='#{0}'>{1}</a>, ".format(link, keyword)
+            result.append(item)
+            
+        result.append("</p>\n</div>")
+        
+    return result
+
 
 # The main control for the various function of this program
 def main():

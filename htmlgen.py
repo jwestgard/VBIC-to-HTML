@@ -5,6 +5,7 @@ import os, csv
 
 # Generates HTML from a line of CSV data
 # -- Title w/ hotlink, Description, Keywords
+
 def make_html(i):
     result = ['\n<h3><a href="', i['Link'],'">']
     result.extend([i['Title'],'</a>:</h3>'])
@@ -27,6 +28,7 @@ def make_html(i):
 
 # Creates HTML page for given category, finds matching resources in dataset
 # and invokes append_item function for each matching line of data
+
 def make_list(myData, targetCat):
     resultlist = ['<html>\n', '<head></head>\n', '<body>\n']
     resultlist.extend(['<h1>Resources Related to ', targetCat, '</h1>\n'])
@@ -43,22 +45,21 @@ def make_list(myData, targetCat):
 
 
 # Prompts user to specify name of data file, opens the data file,
-# and reads data into a list of dictionaries, which is returns as myData
+# and reads data into a list of dictionaries, which it returns as myData
+
 def read_csv():
     sourceFile = input("\nEnter the name of the data file: ")
-    
     with open(sourceFile, 'r') as myFile:
         myData = []
-        
         for row in csv.DictReader(myFile):
             myData.append(row)
-    
     return myData
 
 
 # Creates menu of categories that can be searched, gets user selection,
 # iterates through dataset finding matches for each category,
 # and creates and saves an HTML page for each category
+
 def generate_html(myData):
     cats = ['CAREER','COMPANY','COUNTRY RESEARCH','DEMOGRAPHICS AND STATISTICS']
     cats.extend(['ECONOMICS','ENTREPRENEURSHIP','FINANCE AND INVESTMENT'])
@@ -175,7 +176,7 @@ def html_kw_item(resource):
     return result
 
 
-# The main control for the various function of this program
+# The main control for the various functions of this program
 def main():
     print("What would you like to do today?")
     task = input("Enter E to create file for editing data, C to generate HTML by categories, or K to generate HTML by keywords: ")

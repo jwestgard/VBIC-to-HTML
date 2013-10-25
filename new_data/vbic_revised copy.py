@@ -888,7 +888,6 @@ vbic = [ {
 		'Description' : 'An interactive benchmarking tool created to help countries identify the challenges and opportunities they face in their performance of trade logistics and what they can do to improve their performance.',
 		'Notes' : '',
 		'Keywords' : ['International Trade', 'Logistics'],
-
 		'Categories' : ['LOGISTICS, BUSINESS and PUBLIC POLICY']
 		},
 		{
@@ -1714,6 +1713,16 @@ vbic = [ {
 		'Categories' : ['Demographics and Statistics']
 		}]
 
-for x in vbic:
-	print("RESOURCE: " + x['Title'] + " LINK: " + x['Link'])
+keylist = []
 
+for x in vbic:
+    print("Checking " + x['Title'])
+    for i in x['Keywords']:
+        i = i.strip()
+        if i not in keylist:
+            print("Found: " + i)
+            keylist.append(i)
+
+keylist.sort()
+print(keylist)
+    

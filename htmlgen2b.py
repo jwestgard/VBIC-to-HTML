@@ -20,53 +20,49 @@ def write_list_to_file(filename, result):
 def matchkeys(key, data):
     result = []
     for x in data:
-        if key in x['Keywords']:
-            result.append(x)
+        for y in x['Keywords']:
+            if key in y.keys():
+                result.append(x)
     return result
     
-def generate_resourcelist_by_keyword(keys, data):
+def generate_resourcelist_by_keyword(allkeys, data):
     result = []
-    for k in keys:
-        hits = matchkeys(k, data)
-        result.append("<h1>" + k + "</h1>")
+    for key in allkeys:
+        hits = matchkeys(key, data)
+        result.append("<h1>" + key + "</h1>")
         for h in hits:
             result.append("<p><a href='" + h['Link'] + "'>"
                           + h['Title'] + "</a></p>")
             result.append("<p>" + h['Description'] + "</p>")
     return result
 
-def make_master_keylist(data):
-    for res in data:
-        
-
+def make_master_hitlist(data, sourcefield):
+    allhits = []
+    for resource in data:
+        for term in resource[sourcefield]:
+            for d in term.keys():
+                if d not in allhits:
+                    allhits.append(d)
+    return allhits
 
 vbic = load_json_dataset('vbic_data6.json')
 
-allkeys = []
-allcats = []
+allkeys = make_master_hitlist(vbic, 'Keywords')
+allkeys.sort()
+allcats = make_master_hitlist(vbic, 'Categories')
+allcats.sort()
 
-for x in vbic:
-    for cat in x['Categories']:
-        for c in cat:
-            if c not in allcats:
-                allcats.append(c)
-    for key in list(x['Keywords']):
-        for k in key:
-            if k not in allkeys:
-                allkeys.append(k)
+res_by_key = generate_resourcelist_by_keyword(allkeys, vbic)
+write_list_to_file('keywords.html', res_by_key)
 
 print('CATEGORIES:')
-allcats.sort()
 for c in allcats:
     print(c)
 
 print('KEYWORDS:')
-allkeys.sort()
 for k in allkeys:
     print(k)
 
-save_json_dataset('vbic_data7.json', vbic)
-
+# save_json_dataset('vbic_data7.json', vbic)
 # catlist = pickle.load(open('categories.p', 'rb'))
 # keys = pickle.load(open('keywords.p', 'rb'))
-# result = generate_keylist(keys, vbic)

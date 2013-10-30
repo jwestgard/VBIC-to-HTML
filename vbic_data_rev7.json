@@ -1,11 +1,10 @@
 [
     {
         "Categories": {
-            "Business and Public Policy": 0,
             "Company": 0,
             "Economics": 3,
             "Industry": 5,
-            "Logistics": 0
+            "Logistics, Business, and Public Policy": 0
         },
         "Description": "Very broad coverage, includes many topics of interest to business researchers.",
         "Keywords": {
@@ -241,7 +240,8 @@
             "Company": 3,
             "Economics": 2,
             "Industry": 4,
-            "Logistics": 2
+            "Logistics, Business, and Public Policy": 2,
+            "Product": 1
         },
         "Description": "Comprehensive database of business sources - includes over 3600 peer reviewed journals, trade publications/ magazines, books, case studies, Company profiles, SWOT analysis etc.",
         "Keywords": {
@@ -2119,9 +2119,7 @@
         "Title": "RFE: Resources for Economists on the Internet"
     },
     {
-        "Categories": {
-            "Accounting": 1
-        },
+        "Categories": {},
         "Description": "Accounting, auditing and tax database that provides access to a variety of tax information, including complete tax law, analysis, journals, news, cases, and rulings. It covers all aspects of tax law. ",
         "Keywords": {
             "Accounting": 99,

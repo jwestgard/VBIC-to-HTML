@@ -20,10 +20,20 @@ def write_list_to_file(filename, result):
 def matchkeys(key, data):
     result = []
     for x in data:
-        for y in x['Keywords']:
-            if key in y.keys():
-                result.append(x)
+        if key in x['Keywords'].keys():
+            result.append(x)
     return result
+
+def generate_resourcelist_by_category(category, data):
+    result = []
+    hitcount = 0
+    for x in data:
+        if category in x['Categories'].keys():
+            hitcount += 1
+            result.append("\n<p><a href='" + x['Link'] + "'>"
+                          + x['Title'] + "</a></p>")
+            result.append("<p>" + x['Description'] + "</p>")
+    return result, hitcount
     
 def generate_resourcelist_by_keyword(allkeys, data):
     result = []
@@ -38,30 +48,37 @@ def generate_resourcelist_by_keyword(allkeys, data):
 
 def make_master_hitlist(data, sourcefield):
     allhits = []
-    for resource in data:
-        for term in resource[sourcefield]:
-            for d in term.keys():
-                if d not in allhits:
-                    allhits.append(d)
+    for x in data:
+        for k in x[sourcefield].keys():
+            if k not in allhits:
+                allhits.append(k)
     return allhits
 
-vbic = load_json_dataset('vbic_data6.json')
-
+print("\n" + "*" * 50)
+print("\nWelcome to the HTML Generator!")
+print("Loading data...")
+vbic = load_json_dataset('vbic_data_rev7.json')
+print("\nGenerating keyword list...")
 allkeys = make_master_hitlist(vbic, 'Keywords')
 allkeys.sort()
+print("Generating categories list...")
 allcats = make_master_hitlist(vbic, 'Categories')
 allcats.sort()
 
+print("Finding resources by keyword...")
 res_by_key = generate_resourcelist_by_keyword(allkeys, vbic)
-write_list_to_file('keywords.html', res_by_key)
+write_list_to_file('output/keywords.html', res_by_key)
+print("File keywords.html written!\n")
 
-print('CATEGORIES:')
 for c in allcats:
-    print(c)
-
-print('KEYWORDS:')
-for k in allkeys:
-    print(k)
+    result, count = generate_resourcelist_by_category(c, vbic)
+    print("Finding resources for " + c + "..." + " found " + str(count))
+    filename = 'output/' + c[0:3] + '.html'
+    write_list_to_file(filename, result)
+    print("File " + filename + " written!")
+   
+print("\nThank you and goodbye!\n") 
+print("*" * 50)
 
 # save_json_dataset('vbic_data7.json', vbic)
 # catlist = pickle.load(open('categories.p', 'rb'))

@@ -39,7 +39,7 @@ def generate_resourcelist_by_keyword(allkeys, data):
     result = []
     for key in allkeys:
         hits = matchkeys(key, data)
-        result.append("<h1>" + key + "</h1>")
+        result.append("<a id='" + key + "'><h1>" + key + "</h1></a>")
         for h in hits:
             result.append("<p><a href='" + h['Link'] + "'>"
                           + h['Title'] + "</a></p>")
@@ -67,7 +67,7 @@ allcats.sort()
 
 print("Finding resources by keyword...")
 res_by_key = generate_resourcelist_by_keyword(allkeys, vbic)
-write_list_to_file('output/keywords.html', res_by_key)
+write_list_to_file('output/res-by-keyword.html', res_by_key)
 print("File keywords.html written!\n")
 
 for c in allcats:

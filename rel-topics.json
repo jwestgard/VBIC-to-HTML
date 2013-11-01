@@ -1,0 +1,94 @@
+{
+    "Career": [
+        "Company Research",
+        "Industry Research",
+        "Job Search Engines",
+        "Job Sources (US)",
+        "Job Sources (International)",
+        "Resume",
+        "Interview",
+        "Salary",
+        "Campus Resources"
+    ],
+    "Company": [
+        "Analyst Reports",
+        "Company Profiles",
+        "Competitors",
+        "Financial information",
+        "International Business",
+        "Investment & securities",
+        "Manufacturers",
+        "Market share",
+        "Mergers and acquisitions",
+        "Ownership status",
+        "Biographical Information",
+        "Rankings",
+        "Regulations: United States",
+        "SWOT analysis"
+    ],
+    "Country Research": [
+        "Country background",
+        "Culture",
+        "Doing Business In",
+        "Economic indicators",
+        "Globalization",
+        "International Law",
+        "Marketing",
+        "News",
+        "Statistics",
+        "Translations"
+    ],
+    "Demographics & Statistics": [
+        "Population and housing data",
+        "Labor economics",
+        "County and city data"
+    ],
+    "Economics": [
+        "Consumer Price Index",
+        "Demographics & Statistics",
+        "Economic Indicators",
+        "Industry Classification",
+        "Labor Economics",
+        "News"
+    ],
+    "Entrepreneurship": [
+        "Business plans",
+        "Business planning",
+        "Business financing",
+        "Franchising",
+        "Small business"
+    ],
+    "Finance & Investment": [
+        "Analyst/Investment Reports",
+        "Annual reports",
+        "Bonds",
+        "Industry ratios",
+        "Investment & securities",
+        "Mutual Funds",
+        "Stocks",
+        "Stock exchange"
+    ],
+    "Industry": [
+        "Industry classification",
+        "Overview and trends",
+        "SWOT analysis",
+        "Industry ratios",
+        "Statistics",
+        "Competitors",
+        "Market share",
+        "Industry Analysis Models",
+        "Regulations"
+    ],
+    "Logistics, Business & Public Policy": [
+        "Product codes",
+        "Transportation modes"
+    ],
+    "Marketing": [
+        "Advertising",
+        "Competitors",
+        "Consumer analysis",
+        "Product development",
+        "Promotion"
+    ],
+    "Product": []
+}

@@ -46,6 +46,24 @@ def generate_resourcelist_by_keyword(allkeys, data):
             result.append("<p>" + h['Description'] + "</p>")
     return result
 
+def generate_resourcelist_by_title(data):
+    result = []
+    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    for letter in alphabet:
+        link = "<a href='#{0}'>{0}</a>&nbsp;".format(letter)
+        result.append(link)
+    for letter in alphabet:
+        print('Looking for ' + letter + "...")
+        heading = "<h3><a name='{0}'>{0}</a></h3>".format(letter)
+        result.append(heading)
+        result.append("<ul>")
+        for x in data:
+            if x['Title'][0] in [letter]:
+                result.append("<li><a href='" + x['Link'] + "'>"
+                              + x['Title'] + "</a></li>")
+        result.append("</ul>")
+    return result
+
 def make_master_hitlist(data, sourcefield):
     allhits = []
     for x in data:
@@ -65,10 +83,15 @@ print("Generating categories list...")
 allcats = make_master_hitlist(vbic, 'Categories')
 allcats.sort()
 
+print("Finding resources by title...")
+res_by_title = generate_resourcelist_by_title(vbic)
+write_list_to_file('output/res-by-title.html', res_by_title)
+print("File res-by-title.html written!\n")
+
 print("Finding resources by keyword...")
 res_by_key = generate_resourcelist_by_keyword(allkeys, vbic)
 write_list_to_file('output/res-by-keyword.html', res_by_key)
-print("File keywords.html written!\n")
+print("File res-by-keyword.html written!\n")
 
 for c in allcats:
     result, count = generate_resourcelist_by_category(c, vbic)

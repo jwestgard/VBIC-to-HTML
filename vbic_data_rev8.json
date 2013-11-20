@@ -1,7 +1,6 @@
 [
     {
         "Categories": {
-            "Business and Public Policy": 0,
             "Company": 0,
             "Economics": 3,
             "Industry": 5,
@@ -598,7 +597,7 @@
             "Stocks": 7
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0 helpme@rhsmith.umd.edu.",
+        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to: helpme@rhsmith.umd.edu.",
         "Title": "Datastream Advance - Access via SmithApps"
     },
     {
@@ -1298,11 +1297,11 @@
         },
         "Description": "Provides Industry market research reports on over 700 U.S. industries, as well as economic and demographic reports with focus on the U.S. economy, also available through SmithApps.",
         "Keywords": {
-            "Competitors": 3
-            "Consumer Analysis": 3
-            "Economic Indicators": 5
-            "Industry Classification": 5
-            "Industry Overview": 1
+            "Competitors": 3,
+            "Consumer Analysis": 3,
+            "Economic Indicators": 5,
+            "Industry Classification": 5,
+            "Industry Overview": 1,
             "Industry Trends": 1,
             "Market Share": 2,
             "Market Size": 1,
@@ -1361,7 +1360,7 @@
     },
     {
         "Categories": {},
-        "Description": "Access via WRDS NYSE/AMEX/NASD Trade and Quote Database covering 1983-1992. NOTE: Access to WRDS is available by account only for Ph.D. students, faculty and faculty-sponsored class research. Request account at https://wrds.wharton.upenn.edu - Follow instructions.)",
+        "Description": "NYSE/AMEX/NASD Trade and Quote Database covering 1983-1992.",
         "Keywords": {
             "Financial Information": 99,
             "Investment and Securities": 7,
@@ -1369,8 +1368,8 @@
             "Stocks": 99
         },
         "Link": "http://smithapps.rhsmith.umd.edu/",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "Institute for the Study of Security Markets (ISSM) \u2013 Access via WRDS."
+        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "Institute for the Study of Security Markets (ISSM)"
     },
     {
         "Categories": {},
@@ -1862,8 +1861,8 @@
             "Options": 99
         },
         "Link": "",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "OptionMetrics (Access via \u2013 WRDS) "
+        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "OptionMetrics"
     },
     {
         "Categories": {},
@@ -2119,9 +2118,7 @@
         "Title": "RFE: Resources for Economists on the Internet"
     },
     {
-        "Categories": {
-            "Accounting": 1
-        },
+        "Categories": {},
         "Description": "Accounting, auditing and tax database that provides access to a variety of tax information, including complete tax law, analysis, journals, news, cases, and rulings. It covers all aspects of tax law. ",
         "Keywords": {
             "Accounting": 1,
@@ -2376,7 +2373,7 @@
             "Stocks": 99
         },
         "Link": "",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
         "Title": "Thomson Reuters Eikon (Access available only in Van Munching Hall Financial Markets Labs (Rooms 1318 and 3505)"
     },
     {
@@ -2400,8 +2397,8 @@
             "Investment": 99
         },
         "Link": "",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "Thomson Reuters LPC DealScan (Access via WRDS)"
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "Thomson Reuters LPC DealScan"
     },
     {
         "Categories": {},
@@ -2412,8 +2409,8 @@
             "Investment": 99
         },
         "Link": "",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "Thomson Reuters Institutional Holdings (13F) (Access via WRDS)"
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "Thomson Reuters Institutional Holdings (13F)"
     },
     {
         "Categories": {},
@@ -2424,8 +2421,8 @@
             "Investment": 99
         },
         "Link": "",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "Thomson Reuters Insider Filing Data Feed (Access via WRDS)"
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "Thomson Reuters Insider Filing Data Feed"
     },
     {
         "Categories": {},
@@ -2436,8 +2433,8 @@
             "Mutual Funds": 99
         },
         "Link": "",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "Thomson Reuters Mutual Fund Holdings (Access via WRDS)"
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "Thomson Reuters Mutual Fund Holdings"
     },
     {
         "Categories": {},
@@ -2583,7 +2580,7 @@
     },
     {
         "Categories": {},
-        "Description": "Factiva provides access to over 8,000 business sources, including national and international newspapers, magazines, newswire services, web sites and Industry (trade) sources, click on News Pages (top of screen) to get access to major business newspapers. Licensing restrictions apply \u2013 Access limited to 12 simultaneous users. If you are unable to access, please try again.",
+        "Description": "Factiva provides access to over 8,000 business sources, including national and international newspapers, magazines, newswire services, web sites and Industry (trade) sources, click on News Pages (top of screen) to get access to major business newspapers. Licensing restrictions apply. Access limited to 12 simultaneous users. If you are unable to access, please try again.",
         "Keywords": {
             "Company Research": 99,
             "Finance and Investment": 99,
@@ -2783,7 +2780,7 @@
             "Stocks": 8
         },
         "Link": "http://wrds.wharton.upenn.edu/",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
+        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
         "Title": "WRDS (Wharton Research Data Service)"
     },
     {
@@ -2794,8 +2791,8 @@
             "SEC Filings": 99
         },
         "Link": "",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "WRDS SEC Analytics Suite (Access via WRDS)"
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "WRDS SEC Analytics Suite"
     },
     {
         "Categories": {},
@@ -2817,6 +2814,6 @@
         },
         "Link": "http://zanran.com/q/",
         "Notes": "",
-        "Title": "Zanran- Key Source for Data and Statistics, Graphs, Charts and Tables"
+        "Title": "Zanran: Key Source for Data and Statistics, Graphs, Charts and Tables"
     }
 ]

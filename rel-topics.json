@@ -16,7 +16,7 @@
         "Competitors",
         "Financial information",
         "International Business",
-        "Investment & securities",
+        "Investment and securities",
         "Manufacturers",
         "Market share",
         "Mergers and acquisitions",
@@ -38,14 +38,14 @@
         "Statistics",
         "Translations"
     ],
-    "Demographics & Statistics": [
+    "Demographics and Statistics": [
         "Population and housing data",
         "Labor economics",
         "County and city data"
     ],
     "Economics": [
         "Consumer Price Index",
-        "Demographics & Statistics",
+        "Demographics and Statistics",
         "Economic Indicators",
         "Industry Classification",
         "Labor Economics",
@@ -58,12 +58,12 @@
         "Franchising",
         "Small business"
     ],
-    "Finance & Investment": [
+    "Finance and Investment": [
         "Analyst/Investment Reports",
         "Annual reports",
         "Bonds",
         "Industry ratios",
-        "Investment & securities",
+        "Investment and securities",
         "Mutual Funds",
         "Stocks",
         "Stock exchange"
@@ -79,7 +79,7 @@
         "Industry Analysis Models",
         "Regulations"
     ],
-    "Logistics, Business & Public Policy": [
+    "Logistics, Business and Public Policy": [
         "Product codes",
         "Transportation modes"
     ],
@@ -89,6 +89,5 @@
         "Consumer analysis",
         "Product development",
         "Promotion"
-    ],
-    "Product": []
+    ]
 }

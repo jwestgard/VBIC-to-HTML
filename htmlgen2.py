@@ -29,27 +29,33 @@ def generate_resourcelist_by_category(category, data):
     result = []
     hits = []
     hitcount = 0
+    summary = []
     for x in data:
         if category in x['Categories'].keys():
             hitcount += 1
             hits.append(x)
-    sorted_hits = sorted(hits, key=lambda k: k['Categories'][category])
+    sorted_hits = sorted(hits, key=lambda c: c['Categories'][category])
     for y in sorted_hits:
-        result.append("\n<p><a href='" + y['Link'] + "'>"
-                        + y['Title'] + "</a></p>")
-        result.append("<p>" + y['Description'] + "</p>")
-    return result, hitcount
+        result.append("\n<p><a href='{0}'>{1}</a></p>".format(y['Link'], y['Title']))
+        result.append("<p>{0}</p>".format(y['Description']))
+        summary.append("{0} = {1}".format(y['Title'], str(y['Categories'][category])))
+    return result, hitcount, summary
     
 def generate_resourcelist_by_keyword(allkeys, data):
     result = []
+    summary = ['<h1>All Keywords</h1>']
     for key in allkeys:
         hits = matchkeys(key, data)
-        result.append("<a id='" + key + "'><h3>" + key + "</h3></a>")
+        result.append("<a id='{0}'><h3>{0}</h3></a>".format(key))
+        summary.append('<h3>{0}</h3>'.format(key))
+        summary.append('<ul>')
         for h in hits:
             result.append("<p><a href='" + h['Link'] + "'>"
                           + h['Title'] + "</a></p>")
             result.append("<p>" + h['Description'] + "</p>")
-    return result
+            summary.append("<li>{0} = {1}</li>".format(h['Title'], str(h['Keywords'][key])))
+        summary.append("</ul>")
+    return result, summary
 
 def generate_resourcelist_by_title(data):
     result = []
@@ -92,10 +98,29 @@ def make_master_hitlist(data, sourcefield):
                 allhits.append(k)
     return allhits
 
+def create_index(allkeys, allcats):
+    allitems = allkeys + allcats
+    allitems.sort()
+    items = []
+    for i in allitems:
+        if i not in items:
+            if i in allcats:
+                link = i.lower()
+                items.append("<li><a href='/vbic/{0}'>{1}</a></li>".format(link, i))
+            elif i in allkeys:
+                link = re.sub(r'\W+', '', i).lower()
+                items.append("<li><a href='/vbic/keywords#{0}'>{1}</a></li>".format(link, i))
+    result = ["<h3>Index</h3>"]
+    result.append("<ul>")
+    result.extend(items)
+    result.append("</ul>")
+    return result
+    
+
 print("\n" + "*" * 50)
 print("\nWelcome to the HTML Generator!")
 print("\nLoading data...")
-vbic = load_json_dataset('vbic_data_rev8.json')
+vbic = load_json_dataset('vbic_data_rev9.json')
 
 print("\nGenerating keyword list...")
 allkeys = make_master_hitlist(vbic, 'Keywords')
@@ -114,16 +139,30 @@ write_list_to_file('output/res-by-title.html', res_by_title)
 print(" => File res-by-title.html written!\n")
 
 print("Finding resources by keyword...")
-res_by_key = generate_resourcelist_by_keyword(allkeys, vbic)
+res_by_key, summary_keys = generate_resourcelist_by_keyword(allkeys, vbic)
 write_list_to_file('output/res-by-keyword.html', res_by_key)
 print(" => File res-by-keyword.html written!\n")
+write_list_to_file('output/summary_keys.html', summary_keys)
+print(" => File summary_keys.html written!\n")
 
+summary_cats = ['<h1>List of All Categories</h1>']
 for c in allcats:
-    result, count = generate_resourcelist_by_category(c, vbic)
+    result, count, summary = generate_resourcelist_by_category(c, vbic)
+    summary_cats.append("<h2>{0}</h2>".format(c))
+    summary_cats.append("<ul>")
+    for x in summary:
+        summary_cats.append("<li>{0}</li>".format(x))
+    summary_cats.append("</ul>")
     print("Finding resources for " + c + "..." + " found " + str(count))
     filename = 'output/' + c[0:3].lower() + '.html'
     write_list_to_file(filename, result)
     print(" => File " + filename + " written!")
+    write_list_to_file('output/summary_cats.html', summary_cats)
+    print(" => File " + 'summary_cats.html' + " written!")
+    
+index = create_index(allkeys, allcats)
+write_list_to_file('output/index.html', index)
+print(" => File " + 'index.html' + " written!")
    
 print("\nThank you and goodbye!\n") 
 print("*" * 50)

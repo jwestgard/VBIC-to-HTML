@@ -1,14 +1,8 @@
 {
     "Career": [
         "Company Research",
-        "Industry Research",
-        "Job Search Engines",
-        "Job Sources (US)",
-        "Job Sources (International)",
-        "Resume",
-        "Interview",
-        "Salary",
-        "Campus Resources"
+        "Industry",
+        "Jobs"
     ],
     "Company": [
         "Analyst Reports",
@@ -16,21 +10,20 @@
         "Competitors",
         "Financial information",
         "International Business",
-        "Investment and securities",
-        "Manufacturers",
-        "Market share",
-        "Mergers and acquisitions",
-        "Ownership status",
-        "Biographical Information",
+        "Investments",
+        "Manufacturing",
+        "Market Share",
+        "Mergers and Acquisitions",
+        "Biography",
         "Rankings",
-        "Regulations: United States",
-        "SWOT analysis"
+        "Regulations",
+        "SWOT"
     ],
     "Country Research": [
-        "Country background",
+        "Country Background",
         "Culture",
         "Doing Business In",
-        "Economic indicators",
+        "Economic Indicators",
         "Globalization",
         "International Law",
         "Marketing",
@@ -39,55 +32,53 @@
         "Translations"
     ],
     "Demographics and Statistics": [
-        "Population and housing data",
-        "Labor economics",
-        "County and city data"
+	"Labor Economics",
+	"Population and Housing Data"
     ],
     "Economics": [
         "Consumer Price Index",
-        "Demographics and Statistics",
+        "Demographics",
         "Economic Indicators",
         "Industry Classification",
         "Labor Economics",
         "News"
     ],
     "Entrepreneurship": [
-        "Business plans",
-        "Business planning",
-        "Business financing",
+        "Business Plans",
+        "Business Planning",
+        "Business Financing",
         "Franchising",
-        "Small business"
+        "Small Business"
     ],
     "Finance and Investment": [
-        "Analyst/Investment Reports",
-        "Annual reports",
+        "Analyst Reports",
         "Bonds",
-        "Industry ratios",
-        "Investment and securities",
+        "Industry Ratios",
+        "Investments",
         "Mutual Funds",
         "Stocks",
-        "Stock exchange"
+        "Stock Exchange"
     ],
     "Industry": [
-        "Industry classification",
-        "Overview and trends",
-        "SWOT analysis",
-        "Industry ratios",
-        "Statistics",
+        "Industry Classification",
+        "SWOT",
+        "Industry Ratios",
+        "Statistics: International",
+	"Statistics: United States",
         "Competitors",
-        "Market share",
+        "Market Share",
         "Industry Analysis Models",
         "Regulations"
     ],
     "Logistics, Business and Public Policy": [
-        "Product codes",
-        "Transportation modes"
+        "Product Codes",
+        "Transportation Modes"
     ],
     "Marketing": [
         "Advertising",
         "Competitors",
-        "Consumer analysis",
-        "Product development",
+        "Consumer Analysis",
+        "Product Development",
         "Promotion"
     ]
 }

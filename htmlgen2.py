@@ -36,7 +36,12 @@ def generate_resourcelist_by_category(category, data):
             hits.append(x)
     sorted_hits = sorted(hits, key=lambda c: c['Categories'][category])
     for y in sorted_hits:
-        result.append("\n<p><a href='{0}'>{1}</a></p>".format(y['Link'], y['Title']))
+        if y['Link']:
+            result.append("<p><b><a href='{0}'>{1}</a></b></p>".format(y['Link'], y['Title']))
+        else:
+            result.append("<p><b>{0}</b></p>".format(y['Title']))
+        if y["Notes"]:
+            result.append("<div style='font-size: 90%'><p><em>Note: {0}</em></p></div>".format(y["Notes"]))
         result.append("<p>{0}</p>".format(y['Description']))
         summary.append("{0} = {1}".format(y['Title'], str(y['Categories'][category])))
     return result, hitcount, summary
@@ -67,19 +72,36 @@ def generate_resourcelist_by_keyword(allkeys, data):
 
 def generate_resourcelist_by_title(data):
     result = []
+    alpha_menu = "<p>"
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     for letter in alphabet:
-        link = "<a href='#{0}'>{0}</a>&nbsp;".format(letter)
-        result.append(link)
+        link = " <a href='#{0}'>{0}</a> |".format(letter)
+        if letter == 'A':
+            alpha_menu += link[1:]
+        elif letter == 'Z':
+            alpha_menu += link[:-1]
+        else:
+            alpha_menu += link
+    alpha_menu += "</p>"
+    result.append(alpha_menu)
     for letter in alphabet:
         print('   • Looking for ' + letter + '...')
         heading = "<h3 id='{0}'>{0}</h3>".format(letter)
         result.append(heading)
         result.append("<ul>")
         for x in data:
-            if x['Title'][0] in [letter]:
-                result.append("<li><a href='" + x['Link'] + "'>"
-                              + x['Title'] + "</a></li>")
+            print(x)
+            if x['Title'][0] in [letter, letter.lower()]:
+                item = ''
+                if x['Link']:
+                    item += "<li><a href='{0}'>{1}</a>".format(x['Link'], x['Title'])
+                else:
+                    item += "<li>{0}".format(x['Title'])
+                if x['Notes']:
+                    item += " <div style='font-size: 90%'>[<em>Note: {0}</em>]</div></li>".format(x['Notes'])
+                else:
+                    item += "</li>"
+                result.append(item)
         result.append("</ul>")
         result.append("<div style='font-size: 80%'><p>[<a href='#'>back to top</a>]</p></div>")
     return result

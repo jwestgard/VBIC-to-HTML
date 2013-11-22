@@ -141,7 +141,7 @@
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://elibrary-data.imf.org",
         "Notes": "To download data, authorized users are required to create a free personal account.",
-        "Title": "Balance of Payments Statistics &mdash; IMF eLibrary &mdash; Data"
+        "Title": "Balance of Payments Statistics &ndash; IMF eLibrary &ndash; Data"
     },
     {
         "Categories": {},
@@ -197,7 +197,7 @@
             "Stocks": 6
         },
         "Link": "",
-        "Notes": "(Access via the Bloomberg terminals in 1318 Van Munching Hall)",
+        "Notes": "Access via the Bloomberg terminals in 1318 Van Munching Hall.",
         "Title": "Bloomberg"
     },
     {
@@ -244,7 +244,7 @@
             "Logistics": 2,
             "Product": 1
         },
-        "Description": "Comprehensive database of business sources - includes over 3600 peer reviewed journals, trade publications/ magazines, books, case studies, Company profiles, SWOT analysis etc.",
+        "Description": "Comprehensive database of business sources &mdash; includes over 3600 peer reviewed journals, trade publications, magazines, books, case studies, Company profiles, SWOT analysis, etc.",
         "Keywords": {
             "Advertising": 2,
             "Auditing": 3,
@@ -532,8 +532,8 @@
             "Stocks": 5
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
-        "Title": "CRSP: Center for Research in Security Prices (Access via SmithApps - CRSPSift)"
+        "Notes": "Access via SmithApps &mdash; CRSPSift. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
+        "Title": "CRSP: Center for Research in Security Prices"
     },
     {
         "Categories": {},
@@ -599,8 +599,8 @@
             "Stocks": 7
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to: helpme@rhsmith.umd.edu.",
-        "Title": "Datastream Advance - Access via SmithApps"
+        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to: helpme@rhsmith.umd.edu.",
+        "Title": "Datastream Advance"
     },
     {
         "Categories": {},
@@ -687,7 +687,7 @@
         },
         "Link": "http://guides.library.msstate.edu/content.php?pid=38283&sid=281174",
         "Notes": "",
-        "Title": "Economic and Financial Crisis - MSU LibGuide"
+        "Title": "Economic and Financial Crisis &ndash; MSU LibGuide"
     },
     {
         "Categories": {},
@@ -708,6 +708,7 @@
         "Description": " A complete searchable copy of every issue of The Economist from 1843 to 2006, with a global circulation of more than 1.2 million. The Economist has consistently delivered a highly intelligent and comprehensive report of international political, business, scientific, technological and cultural development, with dispatches from all over the world. ",
         "Keywords": {},
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=ECON",
+        "Notes": "",
         "Title": "Economist Historical Archive"
     },
     {
@@ -1000,7 +1001,7 @@
         },
         "Link": "http://www.greatplacetowork.com/best-companies/100-best-companies-to-work-for",
         "Notes": "",
-        "Title": "Fortune's 100 Best Companies to Work For (R)"
+        "Title": "Fortune's 100 Best Companies to Work For &reg;"
     },
     {
         "Categories": {},
@@ -1601,8 +1602,8 @@
             "Investments": 99
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
-        "Title": "Mergent Online - Access via SmithApps"
+        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
+        "Title": "Mergent Online"
     },
     {
         "Categories": {},
@@ -1617,8 +1618,8 @@
             "Investments": 99
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu",
-        "Title": "Mergent WebReports- Access via SmithApps"
+        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu",
+        "Title": "Mergent WebReports"
     },
     {
         "Categories": {},
@@ -1806,7 +1807,7 @@
         },
         "Link": "http://nyse.nyx.com/",
         "Notes": "",
-        "Title": "NYSE - New York Stock Exchange"
+        "Title": "NYSE &ndash; New York Stock Exchange"
     },
     {
         "Categories": {},
@@ -1830,7 +1831,7 @@
         },
         "Link": "http://www.offstats.auckland.ac.nz/",
         "Notes": "",
-        "Title": "OffStats- Official Statistics on the Web"
+        "Title": "OffStats &ndash; Official Statistics on the Web"
     },
     {
         "Categories": {},
@@ -1843,7 +1844,7 @@
         },
         "Link": "http://www.nationsonline.org/",
         "Notes": "",
-        "Title": "One World - Nations Online"
+        "Title": "One World &ndash; Nations Online"
     },
     {
         "Categories": {},
@@ -1965,7 +1966,7 @@
         },
         "Link": "http://portfocus.com/",
         "Notes": "",
-        "Title": "PortFocus - Ports Harbours Marinas Worldwide"
+        "Title": "PortFocus: Ports Harbours Marinas Worldwide"
     },
     {
         "Categories": {},
@@ -1976,7 +1977,7 @@
         },
         "Link": "http://www.pwcmoneytree.com/MTPublic/ns/index.jsp",
         "Notes": "",
-        "Title": "PricewaterhouseCoopers - MoneyTree Report"
+        "Title": "PricewaterhouseCoopers: MoneyTree Report"
     },
     {
         "Categories": {},
@@ -2152,7 +2153,7 @@
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/?DestApp=WOS&editions=SCI",
         "Notes": "",
-        "Title": "Science Citation Index Expanded - Web of Science"
+        "Title": "Science Citation Index Expanded &ndash; Web of Science"
     },
     {
         "Categories": {
@@ -2177,7 +2178,7 @@
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/WOS",
         "Notes": "",
-        "Title": "Social Science Citation Index - Web of Science"
+        "Title": "Social Science Citation Index &ndash; Web of Science"
     },
     {
         "Categories": {},
@@ -2213,8 +2214,8 @@
             "Investments": 3
         },
         "Link": "",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu",
-        "Title": "S&amp;P Capital IQ (Access available on PCs in Van Munching Hall, Room 1318, and Smith School DC, Baltimore and Shady Grove campuses."
+        "Notes": "Access available on PCs in Van Munching Hall, Room 1318, and Smith School DC, Baltimore, and Shady Grove campuses. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu",
+        "Title": "S&amp;P Capital IQ"
     },
     {
         "Categories": {},
@@ -2223,8 +2224,8 @@
             "Compensation": 99
         },
         "Link": "",
-        "Notes": "",
-        "Title": "S&amp;P ExecuComp (Access available in Van Munching Hall Financial Labs and via SmithApps)"
+        "Notes": "Access available in Van Munching Hall Financial Labs and via SmithApps.",
+        "Title": "S&amp;P ExecuComp"
     },
     {
         "Categories": {

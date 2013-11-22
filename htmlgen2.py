@@ -46,27 +46,34 @@ def generate_resourcelist_by_keyword(allkeys, data):
     summary = ['<h1>All Keywords</h1>']
     for key in allkeys:
         hits = matchkeys(key, data)
-        result.append("<a id='{0}'><h3>{0}</h3></a>".format(key))
+        link = re.sub(r'\W+', '', key).lower()
+        result.append("<h3 id='{0}'>{1}</h3>".format(link, key))
+        result.append("<ul>")
         summary.append('<h3>{0}</h3>'.format(key))
         summary.append('<ul>')
         for h in hits:
-            result.append("<p><a href='" + h['Link'] + "'>"
-                          + h['Title'] + "</a></p>")
-            result.append("<p>" + h['Description'] + "</p>")
-            summary.append("<li>{0} = {1}</li>".format(h['Title'], str(h['Keywords'][key])))
-        summary.append("</ul>")
+            if h['Notes']:
+                myNote = " [<em>Note: {}</em>]".format(h['Notes'])
+            else:
+                myNote = ""
+            result.append("<li><b><a href='{0}'>{1}</a></b>{2}: {3}</li>".format(h['Link'],
+                                                                       h['Title'],
+                                                                       myNote,
+                                                                       h['Description']))
+            summary.append('<li>{0} = {1}</li>'.format(h['Title'], str(h['Keywords'][key])))
+        result.append('</ul>')
+        summary.append('</ul>')
     return result, summary
 
 def generate_resourcelist_by_title(data):
     result = []
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    return_top = "[<a href='#'>back to top</a>]"
     for letter in alphabet:
         link = "<a href='#{0}'>{0}</a>&nbsp;".format(letter)
         result.append(link)
     for letter in alphabet:
         print('   • Looking for ' + letter + '...')
-        heading = "<h3 id='{0}'>{0}</h3> {1}".format(letter, return_top)
+        heading = "<h3 id='{0}'>{0}</h3>".format(letter)
         result.append(heading)
         result.append("<ul>")
         for x in data:
@@ -74,6 +81,7 @@ def generate_resourcelist_by_title(data):
                 result.append("<li><a href='" + x['Link'] + "'>"
                               + x['Title'] + "</a></li>")
         result.append("</ul>")
+        result.append("<div style='font-size: 80%'><p>[<a href='#'>back to top</a>]</p></div>")
     return result
 
 def generate_related_topic_lists(sourcefile):
@@ -100,19 +108,22 @@ def make_master_hitlist(data, sourcefield):
 
 def create_index(allkeys, allcats):
     allitems = allkeys + allcats
-    allitems.sort()
-    items = []
+    items = {}
     for i in allitems:
-        if i not in items:
+        if i not in items.keys():
             if i in allcats:
                 link = i.lower()
-                items.append("<li><a href='/vbic/{0}'>{1}</a></li>".format(link, i))
-            elif i in allkeys:
+                items[i] = "<li><a href='/vbic/{0}'>{1}</a></li>".format(link, i)
+            else:
                 link = re.sub(r'\W+', '', i).lower()
-                items.append("<li><a href='/vbic/keywords#{0}'>{1}</a></li>".format(link, i))
-    result = ["<h3>Index</h3>"]
-    result.append("<ul>")
-    result.extend(items)
+                items[i] = "<li><a href='/vbic/keywords#{0}'>{1}</a></li>".format(link, i)
+    print(items)
+    result = ["<ul>"]
+    sortlist = sorted(items.keys())
+    print(sortlist)
+    for i in sortlist:
+        print(i)
+        result.append(items[i])
     result.append("</ul>")
     return result
     

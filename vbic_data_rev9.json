@@ -9,7 +9,7 @@
         "Description": "Very broad coverage, includes many topics of interest to business researchers.",
         "Keywords": {
             "Biography": 99,
-            "Business Ethics": 99,
+            "Ethics": 99,
             "Career": 99,
             "Economics": 99,
             "Employment": 99,
@@ -17,7 +17,7 @@
             "Logistics": 99,
             "Management": 99,
             "Outsourcing": 99,
-            "Public Policy Statistics": 99
+            "Public Policy": 99
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph",
         "Notes": "",
@@ -53,7 +53,8 @@
         "Keywords": {
             "Business Planning": 1,
             "Consumer Analysis": 4,
-            "Population and Housing Data": 99,
+            "Population": 99,
+            "Housing Data": 99,
             "Statistics: United States": 1
         },
         "Link": "http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml",
@@ -97,7 +98,7 @@
     },
     {
         "Categories": {},
-        "Description": "Global association of the world\u2019s leading social entrepreneurs.",
+        "Description": "Global association of the world's leading social entrepreneurs.",
         "Keywords": {
             "Social Entrepreneurship": 2
         },
@@ -113,8 +114,8 @@
             "Auditing": 99
         },
         "Link": "http://wrds.wharton.upenn.edu",
-        "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
-        "Title": "AuditAnalytics (Access via WRDS.)"
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
+        "Title": "AuditAnalytics"
     },
     {
         "Categories": {
@@ -131,9 +132,9 @@
     },
     {
         "Categories": {},
-        "Description": "From the International Monetary Fund, includes full-text statistical data from 1996 \u2013 present on total goods, services, factor income, and current transfers an economy receives from or provides to the rest of the world.",
+        "Description": "From the International Monetary Fund, includes full-text statistical data from 1996 to present on total goods, services, factor income, and current transfers an economy receives from or provides to the rest of the world.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Doing Business In": 99,
             "Economics": 99,
             "Statistics: International": 99
@@ -189,7 +190,7 @@
             "Dow Jones Industrial Average": 2,
             "Economic Indicators": 6,
             "Financial Information": 99,
-            "Investment": 5,
+            "Investments": 5,
             "Mergers and Acquisitions": 1,
             "S&amp;P 500": 2,
             "Stock Exchange": 4,
@@ -240,7 +241,8 @@
             "Company": 3,
             "Economics": 2,
             "Industry": 4,
-            "Logistics": 2
+            "Logistics": 2,
+            "Product": 1
         },
         "Description": "Comprehensive database of business sources - includes over 3600 peer reviewed journals, trade publications/ magazines, books, case studies, Company profiles, SWOT analysis etc.",
         "Keywords": {
@@ -250,9 +252,9 @@
             "Biography": 2,
             "Bonds": 4,
             "Brands": 1,
-            "Business Ethics": 99,
+            "Ethics": 99,
             "Business Plans": 3,
-            "Case Study": 99,
+            "Case Studies": 99,
             "Company Profiles": 2,
             "Competitors": 7,
             "Corporate Culture": 1,
@@ -397,7 +399,7 @@
         "Description": "U.S. Census Bureau. To facilitate time series use, the U.S. Census Bureau has prepared correspondence tables of NAICS to SIC. See also: SIC Codes (from U.S. Department of Labor) &mdash; http://www.osha.gov/pls/imis/sicsearch.html and NAICS &mdash; http://www.census.gov/eos/www/naics/http://www.osha.gov/pls/imis/sicsearch.html",
         "Keywords": {
             "Industry Classification": 99,
-            "NAICS": 99,
+            "NAICS Code": 99,
             "SIC": 99
         },
         "Link": "http://www.census.gov/epcd/www/naicstab.htm",
@@ -408,7 +410,7 @@
         "Categories": {},
         "Description": "From Transparency International, a \"global civil society organization leading the fight against corruption.\" The Global Corruption Barometer explores general public opinion around the world on corruption. Note: Formerly called Global Corruption Report.",
         "Keywords": {
-            "Business Ethics": 99,
+            "Ethics": 99,
             "Doing Business In": 99,
             "International Business": 99
         },
@@ -454,7 +456,7 @@
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.prsgroup.com/prsgroup_shoppingcart/cdSub4.aspx",
         "Notes": "",
-        "Title": "Country Data(PRS)"
+        "Title": "Country Data (PRS)"
     },
     {
         "Categories": {},
@@ -484,8 +486,8 @@
         "Categories": {},
         "Description": "Provides comprehensive analysis of popular topics, including history, current status, relevant pro and con arguments, bibliographies, contact information.",
         "Keywords": {
-            "Benefits": 99,
-            "Business Ethics": 99,
+            "Benefits and Compensation": 99,
+            "Ethics": 99,
             "Compensation": 99,
             "Corporate Culture": 2,
             "Economics": 5,
@@ -506,7 +508,7 @@
         "Categories": {},
         "Description": "Online versions of 500+ published reference works, including general and specialist dictionaries and encyclopedias.",
         "Keywords": {
-            "Business Ethics": 99,
+            "Ethics": 99,
             "Economics": 99,
             "Employment": 99,
             "Encyclopedia": 99,
@@ -530,7 +532,7 @@
             "Stocks": 5
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0helpme@rhsmith.umd.edu.",
+        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
         "Title": "CRSP: Center for Research in Security Prices (Access via SmithApps - CRSPSift)"
     },
     {
@@ -548,7 +550,7 @@
         "Categories": {},
         "Description": "Data and statistics listed by topic from U.S government agencies.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Statistics: United States": 5
         },
         "Link": "http://www.usa.gov/Topics/Reference_Shelf/Data.shtml",
@@ -559,7 +561,7 @@
         "Categories": {},
         "Description": "Statistics produced by the U.S. Government and international and intergovernmental agencies",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Statistics: International": 99,
             "Statistics: United States": 99
         },
@@ -571,7 +573,7 @@
         "Categories": {},
         "Description": "Same data as the Data-Plant Statistical Datasets, but designed for quick lookup. Link directly to Data-Planet Statistical Datasets to compare and contrast multiple indicators.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Statistics: International": 99,
             "Statistics: United States": 99
         },
@@ -767,7 +769,7 @@
         "Description": "From The Economist Intelligence Unit, provides economic, political, and market developments for 195 countries as well as analysis on the implications for business.",
         "Keywords": {
             "Country Background": 2,
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Export": 2,
             "Foreign Direct Investment": 1,
             "Globalization": 4,
@@ -786,7 +788,7 @@
             "Accounting": 99,
             "Encyclopedia": 99,
             "Finance &amp; Investment": 1,
-            "Management and Investment ": 99,
+            "Management": 99,
             "Marketing": 99
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps/infomark.do?action=interpret&source=library&actionString=DO_DISPLAY_ABOUT_PAGE&tabID=T002&prodId=GVRL&userGroupName=umd_um&docId=CX3402799999&type=aboutBook&version=1.0&authCount=1&u=umd_um",
@@ -809,7 +811,7 @@
         "Description": "Designed to provide entrepreneurs with information that can be applied to their own business. Contains detailed articles and overviews of all the key information needs of small business owners &mdash; financing; financial planning; business plan creation; market analysis; sales strategy; tax planning, human resource issues etc.",
         "Keywords": {
             "Entrepreneurship": 99,
-            "Human Resource management": 99,
+            "Human Resource Management": 99,
             "Small Business": 1,
             "Taxation": 99
         },
@@ -866,7 +868,7 @@
             "Benefits and Compensation": 2,
             "Bonds": 5,
             "Brands": 2,
-            "Business Ethics": 99,
+            "Ethics": 99,
             "Company Profiles": 3,
             "Competitors": 2,
             "Corporate Culture": 3,
@@ -909,7 +911,7 @@
         "Description": "From the Federal Reserve Bank of St. Louis, FRED is a database of over 45,000 U.S. economic time series in such areas as money, banking, finance, population, employment, labor markets, business activity, national debt, and prices. Data are also available via an Excel download add-in.",
         "Keywords": {
             "Debt": 99,
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Econometrics": 2,
             "Economics": 10,
             "Employment": 99,
@@ -935,7 +937,7 @@
         "Categories": {},
         "Description": "From the Federal Interagency Council on Statistical Policy, provides access to Federal government statistics from more than 100 Federal agencies.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Economics": 99,
             "Federal Government": 99,
             "Statistics: United States": 99
@@ -1030,7 +1032,7 @@
         "Description": "Provides an assessment of the economic performance of each of the 12 regional Federal Reserve districts. The report examines economic activity, specifically employment trends, construction and housing activity, retail sales, consumer confidence, and any other relevant information. Archival data is also available.",
         "Keywords": {
             "Economic Indicators": 4,
-            "Economic data: United States": 99,
+            "Economic Data: United States": 99,
             "Economics": 99,
             "Employment": 99
         },
@@ -1115,7 +1117,7 @@
             "International Trade": 4
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://myinsight.globalinsight.com/servlet/cats?pageContent=home&imask=1",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0 helpme@rhsmith.umd.edu.",
+        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
         "Title": "Global Insight (IHS) DataInsight Web"
     },
     {
@@ -1334,7 +1336,7 @@
             "Financial Information": 99
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0 helpme@rhsmith.umd.edu.",
+        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
         "Title": "IHS Global Insight DataInsight Web"
     },
     {
@@ -1363,7 +1365,7 @@
         "Description": "NYSE/AMEX/NASD Trade and Quote Database covering 1983-1992.",
         "Keywords": {
             "Financial Information": 99,
-            "Investment and Securities": 7,
+            "Investments": 7,
             "Stock Exchange": 5,
             "Stocks": 99
         },
@@ -1384,7 +1386,7 @@
     },
     {
         "Categories": {},
-        "Description": "From the World Bank, provides a collection of comparative price data and detailed expenditure values of countries gross domestic Products (GDP), and purchasing power parities (PPPs) estimates of the world\u2019s economies.",
+        "Description": "From the World Bank, provides a collection of comparative price data and detailed expenditure values of countries gross domestic Products (GDP), and purchasing power parities (PPPs) estimates of the world's economies.",
         "Keywords": {
             "Country Data": 99,
             "Economics": 12,
@@ -1596,10 +1598,10 @@
             "Competitors": 4,
             "Debt": 99,
             "Financial Information": 8,
-            "Investment": 99
+            "Investments": 99
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0 helpme@rhsmith.umd.edu.",
+        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
         "Title": "Mergent Online - Access via SmithApps"
     },
     {
@@ -1612,10 +1614,10 @@
             "Industry": 99,
             "Industry Overview": 4,
             "International Business": 99,
-            "Investment": 99
+            "Investments": 99
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0 helpme@rhsmith.umd.edu",
+        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu",
         "Title": "Mergent WebReports- Access via SmithApps"
     },
     {
@@ -1653,8 +1655,8 @@
             "Analyst Reports": 1,
             "Company Profiles": 5,
             "Company Research": 99,
-            "Finance": 99,
-            "Investment": 1,
+            "Finance &amp; Investment": 99,
+            "Investments": 1,
             "Mutual Funds": 99,
             "Stocks": 1
         },
@@ -1664,32 +1666,32 @@
     },
     {
         "Categories": {},
-        "Description": "\"Global investment analysis uniting all of Morningstar\u2019s data and institutional research\"; software allows for the creation of customized reports and presentations.",
+        "Description": "\"Global investment analysis uniting all of Morningstar's data and institutional research\"; software allows for the creation of customized reports and presentations.",
         "Keywords": {
             "Analyst Reports": 99,
             "Company Research": 99,
-            "Company profiles": 99,
-            "Finance": 99,
-            "Investment": 99,
+            "Company Profiles": 99,
+            "Finance &amp; Investment": 99,
+            "Investments": 99,
             "Mutual Funds": 99,
             "Stocks": 99
         },
         "Link": "",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0helpme@rhsmith.umd.edu.",
-        "Title": "Morningstar Direct (Access available in Van Munching Hall Finance Labs and via SmithApps)"
+        "Notes": "Access available in Van Munching Hall Finance Labs and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
+        "Title": "Morningstar Direct"
     },
     {
         "Categories": {},
         "Description": "This Product is geared more for the \"institutional investment professionals conducting in-depth portfolio research\".",
         "Keywords": {
-            "Finance": 99,
-            "Investment": 99,
+            "Finance &amp; Investment": 99,
+            "Investments": 99,
             "Mutual Funds": 99,
             "Stocks": 99
         },
         "Link": "",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0helpme@rhsmith.umd.edu.",
-        "Title": "Morningstar EnCorr (Access available in Van Munching Hall Financial Labs and via SmithApps)"
+        "Notes": "Access available in Van Munching Hall Financial Labs and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
+        "Title": "Morningstar EnCorr"
     },
     {
         "Categories": {},
@@ -1786,7 +1788,7 @@
     },
     {
         "Categories": {},
-        "Description": "[U.S. Census Bureau]NAICS is the current Industry classification that was developed jointly by the U.S., Canada, and Mexico to provide new comparability in statistics about business activity across North America. There is a 2002 version of NAICS and the initial 1997 version of NAICS.",
+        "Description": "[U.S. Census Bureau] NAICS is the current Industry classification that was developed jointly by the U.S., Canada, and Mexico to provide new comparability in statistics about business activity across North America. There is a 2002 version of NAICS and the initial 1997 version of NAICS.",
         "Keywords": {
             "Industry Classification": 1,
             "NAICS Code": 99
@@ -1857,7 +1859,7 @@
         "Categories": {},
         "Description": "\"Comprehensive source of historical price and implied volatility data for the US equity and index options markets\".",
         "Keywords": {
-            "Investment": 99,
+            "Investments": 99,
             "Options": 99
         },
         "Link": "",
@@ -1930,7 +1932,7 @@
         "Categories": {},
         "Description": "[U.S. Census Bureau] Statistics on births, education, income, immigration, Industry, language use, occupation, etc.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Housing Data": 99,
             "Population": 99,
             "Statistics: United States": 99
@@ -1947,7 +1949,7 @@
             "Competitors": 8,
             "Human Resource Management": 99,
             "Industry Analysis Models": 1,
-            "Industry Research": 99
+            "Industry": 99
         },
         "Link": "http://www.mindtools.com/pages/article/newTMC_08.htm",
         "Notes": "",
@@ -1978,7 +1980,7 @@
     },
     {
         "Categories": {},
-        "Description": "Provides comprehensive coverage in psychology and psychology-related fields \u2013 brand preferences, consumer attitudes and behavior, decision making, leadership, management, training - are just some business related topics. ",
+        "Description": "Provides comprehensive coverage in psychology and psychology-related fields: brand preferences, consumer attitudes and behavior, decision making, leadership, management, training - are just some business related topics. ",
         "Keywords": {
             "Brands": 99,
             "Consumer Research": 99,
@@ -2019,8 +2021,10 @@
         "Title": "RAILIndustry.com"
     },
     {
-        "Categories": {},
-        "Description": "Provides access to three important database - RDS Business and Industry (covers Industry trade journals, magazines and newspapers); RDS Business and Management Practices (covers journals and magazines dealing with business and management issues) and RDS Tablebase (provides business statistics, i.e., market share, market size, advertising expenditures, etc.).",
+        "Categories": {
+            "Product": 2
+            },
+        "Description": "Provides access to three important databases: RDS Business and Industry (covers Industry trade journals, magazines and newspapers); RDS Business and Management Practices (covers journals and magazines dealing with business and management issues) and RDS Tablebase (provides business statistics, i.e., market share, market size, advertising expenditures, etc.).",
         "Keywords": {
             "Advertising": 1,
             "Analyst Reports": 3,
@@ -2031,8 +2035,8 @@
             "Country Research": 99,
             "Economics": 99,
             "Human Resource Management": 1,
-            "Industry Research": 99,
-            "Investment": 4,
+            "Industry": 99,
+            "Investments": 4,
             "Labor Relations": 4,
             "Logistics": 99,
             "Management": 2,
@@ -2085,7 +2089,7 @@
         "Categories": {},
         "Description": "From the Federal Deposit Insurance Corporation (FDIC). Provides \"an overview of economic conditions in the United States,\" offering 40,000-plus charts, maps, and tables of data at the state, Metropolitan Statistical Area (MSA), and county levels. Select the state of interest first, then select MSA and or/County of interest. Areas covered are Industry Activity, Labor Markets, Income, and Real Estate Activity.",
         "Keywords": {
-            "Demographics and Statistics": 1,
+            "Demographics": 1,
             "Economics": 99,
             "Industry": 99,
             "Statistics: United States": 99
@@ -2108,7 +2112,7 @@
         "Categories": {},
         "Description": "Organized links to valuable online resources in Economics from the American Economic Association, including data resources, professional contacts for students and scholars, reference and teaching resources.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Economic Data: International": 99,
             "Economic Data: United States": 99,
             "Economics": 99
@@ -2133,7 +2137,7 @@
         "Categories": {},
         "Description": "\"Purpose to advance social Entrepreneurship and to foster social entrepreneurs as an important catalyst for societal innovation and progress.\" Publications link provides access to reports and case studies dealing with social Entrepreneurship.",
         "Keywords": {
-            "Entrepreneurship Research": 99,
+            "Entrepreneurship": 99,
             "Social Entrepreneurship": 3
         },
         "Link": "http://www.schwabfound.org/sf/index.htm",
@@ -2151,7 +2155,9 @@
         "Title": "Science Citation Index Expanded - Web of Science"
     },
     {
-        "Categories": {},
+        "Categories": {
+            "Entrepreneurship": 1
+            },
         "Description": "Small Business Administration information about how to start, finance, and manage small business",
         "Keywords": {
             "Business Planning": 99,
@@ -2190,8 +2196,8 @@
         "Categories": {},
         "Description": "ReProductions of over 30,000 Springer print book publications, with search capabilities and bookmarks, also includes Springer journals.",
         "Keywords": {
-            "Ebooks": 99,
-            "Ejournals": 99
+            "E-Books": 99,
+            "E-Journals": 99
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.springerlink.com/",
         "Notes": "",
@@ -2201,13 +2207,13 @@
         "Categories": {},
         "Description": "\"Provides global Company information, credit ratings and research, and market research with tools for risk assessments\". Access to both \"real-time and historical information on companies, markets, transactions and people worldwide\"",
         "Keywords": {
-            "Company research": 99,
+            "Company Research": 99,
             "Finance &amp; Investment": 99,
             "International Business": 99,
-            "Investment": 3
+            "Investments": 3
         },
         "Link": "",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0helpme@rhsmith.umd.edu",
+        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu",
         "Title": "S&amp;P Capital IQ (Access available on PCs in Van Munching Hall, Room 1318, and Smith School DC, Baltimore and Shady Grove campuses."
     },
     {
@@ -2227,12 +2233,11 @@
         "Description": "Provides reports, forecasts, analysis, statistics and ratios of major industries. Coverage is for current and up to 4 years, depending on the Industry.",
         "Keywords": {
             "Competitors": 10,
-            "Finance": 99,
+            "Finance &amp; Investment": 99,
             "Industry Ratios": 3,
-            "Industry Research": 99,
+            "Industry": 99,
             "Industry Trends": 2,
-            "Investment": 99,
-            "Investment and Securities": 99,
+            "Investments": 99,
             "Stocks": 99
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.netadvantage.standardpoor.com/",
@@ -2241,7 +2246,7 @@
     },
     {
         "Categories": {},
-        "Description": "Official Company website \u2013 provides some investment data including bond ratings. (MUST REGISTER TO USE - FREE SUBSCRIPTION.) For bond ratings, after registration, click on United States, under Task Selector, select - Find a rating. Follow directions to get available S&amp;P ratings.",
+        "Description": "Official Company website &mdash; provides some investment data including bond ratings. (MUST REGISTER TO USE - FREE SUBSCRIPTION.) For bond ratings, after registration, click on United States, under Task Selector, select 'Find a rating'. Follow directions to get available S&amp;P ratings.",
         "Keywords": {
             "Bonds": 99,
             "Financial Information": 99,
@@ -2257,7 +2262,7 @@
         "Description": "From the U.S. Census Bureau. SIC Industry classification system was used for many years, replaced in 1997 by the NAICS system. The SIC classification is still used in some business databases and for historical Industry comparisons.",
         "Keywords": {
             "Industry Classification": 2,
-            "Industry Research": 99
+            "Industry": 99
         },
         "Link": "http://www.osha.gov/pls/imis/sicsearch.html",
         "Notes": "",
@@ -2267,7 +2272,7 @@
         "Categories": {},
         "Description": "Provides access to U.S. Census Bureau data and information through a wide network of agencies in each state.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Statistics: United States": 99
         },
         "Link": "http://www.census.gov/sdc/",
@@ -2278,7 +2283,7 @@
         "Categories": {},
         "Description": "The authoritative and comprehensive summary of statistics on the social, political, and economic organization of the United States.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Statistics: United States": 11
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.census.gov/compendia/statab/",
@@ -2302,7 +2307,7 @@
         "Keywords": {},
         "Link": "",
         "Notes": "",
-        "Title": "Statistical DataSets (ProQuest) \u2013 Replaced by Data-Planet Statistical Datasets."
+        "Title": "Statistical DataSets (ProQuest) &mdash; Replaced by Data-Planet Statistical Datasets."
     },
     {
         "Categories": {},
@@ -2319,7 +2324,7 @@
         "Categories": {},
         "Description": "Bureau of Labor Statistics, US and other country statistical web sites.",
         "Keywords": {
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Statistics: International": 99,
             "Statistics: United States": 12
         },
@@ -2368,13 +2373,13 @@
             "Finance &amp; Investment": 99,
             "Financial Information": 99,
             "Financial News": 99,
-            "Investment": 99,
+            "Investments": 99,
             "News": 99,
             "Stocks": 99
         },
         "Link": "",
-        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
-        "Title": "Thomson Reuters Eikon (Access available only in Van Munching Hall Financial Markets Labs (Rooms 1318 and 3505)"
+        "Notes": "Access available only in Van Munching Hall Financial Markets Labs (Rooms 1318 and 3505). Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Title": "Thomson Reuters Eikon"
     },
     {
         "Categories": {},
@@ -2385,16 +2390,16 @@
             "Mergers and Acquisitions": 6
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to\u00a0helpme@rhsmith.umd.edu",
-        "Title": "Thomson Reuters SDC Platinum (Access via SmithApps)"
+        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu",
+        "Title": "Thomson Reuters SDC Platinum"
     },
     {
         "Categories": {},
         "Description": "\"Provides extensive information on the global syndicated bank loan market. These transactions finance M&amp;A activity, working capital needs and other corporate purposes for loan participants world-wide\". Sources include regulatory filings, bank submissions and journalist contributions.",
         "Keywords": {
-            "Bank loans": 99,
+            "Bank Loans": 99,
             "Finance &amp; Investment": 99,
-            "Investment": 99
+            "Investments": 99
         },
         "Link": "",
         "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
@@ -2406,7 +2411,7 @@
         "Keywords": {
             "Finance &amp; Investment": 99,
             "Financial Information": 99,
-            "Investment": 99
+            "Investments": 99
         },
         "Link": "",
         "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
@@ -2418,7 +2423,7 @@
         "Keywords": {
             "Finance &amp; Investment": 99,
             "Financial Information": 99,
-            "Investment": 99
+            "Investments": 99
         },
         "Link": "",
         "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
@@ -2465,7 +2470,7 @@
         "Description": "Leading source of data about the nation's people and economy. It provides social, demographic, housing and economic statistics mainly for the U.S. Click on headings top of screen to find data sources of interest.",
         "Keywords": {
             "Business Planning": 99,
-            "Demographics and Statistics": 99,
+            "Demographics": 99,
             "Economics": 99,
             "Statistics: United States": 99
         },
@@ -2546,7 +2551,7 @@
             "Analyst Reports": 2,
             "Company Profiles": 6,
             "Financial Information": 99,
-            "Investment and Securities": 2,
+            "Investments": 2,
             "Mutual Funds": 2,
             "Stocks": 2
         },
@@ -2572,21 +2577,21 @@
             "Capital": 99,
             "Financial Analysis": 99,
             "Financial Information": 99,
-            "Investment": 99
+            "Investments": 99
         },
         "Link": "http://web.utk.edu/~jwachowi/wacho_world.html",
         "Notes": "",
-        "Title": "Wachowicz's Web World- Websites for Discerning Finance Students"
+        "Title": "Wachowicz's Web World: Websites for Discerning Finance Students"
     },
     {
         "Categories": {},
         "Description": "Factiva provides access to over 8,000 business sources, including national and international newspapers, magazines, newswire services, web sites and Industry (trade) sources, click on News Pages (top of screen) to get access to major business newspapers. Licensing restrictions apply. Access limited to 12 simultaneous users. If you are unable to access, please try again.",
         "Keywords": {
             "Company Research": 99,
-            "Finance and Investment": 99,
+            "Finance &amp; Investment": 99,
             "Financial Information": 99,
             "Foreign Language Sources": 99,
-            "Industry Research": 99,
+            "Industry": 99,
             "News": 5
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003Wvf1WFo5DEs5DEmM9YuNTAvODFyMHmnRsIuMcNG1pRRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQAA",
@@ -2602,7 +2607,7 @@
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.proquest.com/wallstreetjournal/advanced?accountid=14696",
         "Notes": "",
-        "Title": "Wall Street Journal \u2013 National Newspapers Core (Proquest)"
+        "Title": "Wall Street Journal, National Newspapers Core (Proquest)"
     },
     {
         "Categories": {},
@@ -2630,7 +2635,7 @@
         "Categories": {},
         "Description": "World's leading citation database with multidisciplinary coverage of over 17,000 high-impact journals in the sciences, social sciences, arts and humanities, as well as international proceedings coverage for over 120,000 conferences. Powerful tools include cited reference searching, Citation Maps, and the Analyze Tool. Note: Currently works with the following browsers: IE 7 and 8, Firefox 3.6, and Safari 5.0.",
         "Keywords": {
-            "Citation database": 99
+            "Citation Database": 99
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/WOS",
         "Notes": "",
@@ -2687,7 +2692,7 @@
     },
     {
         "Categories": {},
-        "Description": "From International Monetary Fund (IMF), time covered from 1993 \u2013 present. Coverage similar to World Development Indicators data, but more limited in scope and history, includes commodity price data and regional data that's not easily available in World Development Indicators.",
+        "Description": "From International Monetary Fund (IMF), time covered from 1993 to present. Coverage similar to World Development Indicators data, but more limited in scope and history, includes commodity price data and regional data that's not easily available in World Development Indicators.",
         "Keywords": {
             "Country Research": 99,
             "Economic Indicators": 99,
@@ -2773,7 +2778,7 @@
             "Economic Indicators": 11,
             "Financial Information": 10,
             "Industry Ratios": 5,
-            "Investment": 8,
+            "Investments": 8,
             "Mergers and Acquisitions": 8,
             "S&amp;P 500": 4,
             "Stock Exchange": 7,

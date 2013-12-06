@@ -4,13 +4,14 @@
         "Industry",
         "Jobs"
     ],
-    "Company": [
+    "Company Information": [
         "Analyst Reports",
+        "Annual Reports",
         "Company Profiles",
         "Competitors",
         "Financial information",
         "International Business",
-        "Investments",
+        "Investment and Securities",
         "Manufacturing",
         "Market Share",
         "Mergers and Acquisitions",
@@ -32,8 +33,8 @@
         "Translations"
     ],
     "Demographics and Statistics": [
-	"Labor Economics",
-	"Population and Housing Data"
+		"Labor Economics",
+		"Population and Housing Data"
     ],
     "Economics": [
         "Consumer Price Index",

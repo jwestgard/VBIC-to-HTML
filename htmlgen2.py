@@ -45,33 +45,8 @@ def generate_resourcelist_by_category(category, data):
         result.append("<p>{0}</p>".format(y['Description']))
         summary.append("{0} = {1}".format(y['Title'], str(y['Categories'][category])))
     return result, hitcount, summary
-    
-def generate_resourcelist_by_keyword(allkeys, data):
-    result = []
-    summary = ['<h1>All Keywords</h1>']
-    for key in allkeys:
-        hits = matchkeys(key, data)
-        link = re.sub(r'\W+', '', key).lower()
-        result.append("<h3 id='{0}'>{1}</h3>".format(link, key))
-        result.append("<ul>")
-        summary.append('<h3>{0}</h3>'.format(key))
-        summary.append('<ul>')
-        for h in hits:
-            if h['Notes']:
-                myNote = " [<em>Note: {}</em>]".format(h['Notes'])
-            else:
-                myNote = ""
-            result.append("<li><b><a href='{0}'>{1}</a></b>{2}: {3}</li>".format(h['Link'],
-                                                                       h['Title'],
-                                                                       myNote,
-                                                                       h['Description']))
-            summary.append('<li>{0} = {1}</li>'.format(h['Title'], str(h['Keywords'][key])))
-        result.append('</ul>')
-        summary.append('</ul>')
-    return result, summary
 
-def generate_resourcelist_by_title(data):
-    result = []
+def generate_alphamenu():
     alpha_menu = "<p>"
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     for letter in alphabet:
@@ -83,7 +58,42 @@ def generate_resourcelist_by_title(data):
         else:
             alpha_menu += link
     alpha_menu += "</p>"
-    result.append(alpha_menu)
+    return alpha_menu
+ 
+def generate_resourcelist_by_keyword(allkeys, data):
+    result = []
+    result.append(generate_alphamenu())
+    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    summary = ['<h1>All Keywords</h1>']
+    for letter in alphabet:
+        result.append("<h2 id='{0}'>{0}</h2>".format(letter))
+        for key in allkeys:
+            if key[0] == letter:
+                hits = matchkeys(key, data)
+                link = re.sub(r'\W+', '', key).lower()
+                result.append("<h3 id='{0}'>{1}</h3>".format(link, key))
+                result.append("<ul>")
+                summary.append('<h3>{0}</h3>'.format(key))
+                summary.append('<ul>')
+                for h in hits:
+                    if h['Notes']:
+                        myNote = " [<em>Note: {}</em>]".format(h['Notes'])
+                    else:
+                        myNote = ""
+                    result.append("<li><b><a href='{0}'>{1}</a></b>{2}: {3}</li>".format(h['Link'],
+                                                                               h['Title'],
+                                                                               myNote,
+                                                                               h['Description']))
+                    summary.append('<li>{0} = {1}</li>'.format(h['Title'], str(h['Keywords'][key])))
+                result.append('</ul>')
+        result.append("<div style='font-size: 80%'><p>[<a href='#'>back to top</a>]</p></div>")
+        summary.append('</ul>')
+    return result, summary
+
+def generate_resourcelist_by_title(data):
+    result = []
+    result.append(generate_alphamenu())
+    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     for letter in alphabet:
         print('   • Looking for ' + letter + '...')
         heading = "<h3 id='{0}'>{0}</h3>".format(letter)
@@ -153,7 +163,7 @@ def create_index(allkeys, allcats):
 print("\n" + "*" * 50)
 print("\nWelcome to the HTML Generator!")
 print("\nLoading data...")
-vbic = load_json_dataset('vbic_data_rev9.json')
+vbic = load_json_dataset('vbic_data_rev10.json')
 
 print("\nGenerating keyword list...")
 allkeys = make_master_hitlist(vbic, 'Keywords')

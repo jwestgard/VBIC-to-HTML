@@ -271,6 +271,16 @@
         "Title": "Business Source Complete"
     },
     {
+    	"Categories": {
+    		"Entrepreneurship": 3
+    	},
+    	"Description": "See \"Templates\" for guidance on developing a marketing plan, a business plan, and business checklists.",
+    	"Keywords": {},
+    	"Link": "http://www.morebusiness.com",
+    	"Notes": "",
+    	"Title": "Business Resource Center"
+	},
+    {
         "Categories": {},
         "Description": "From the Foundation Center. A searchable database of the literature of philanthropy.",
         "Keywords": {
@@ -582,6 +592,16 @@
         "Title": "Datastream Advance"
     },
     {
+    	"Categories": {
+    		"Entrepreneurship": 2
+    	},
+    	"Description": "From the R.H. Smith School of Business, University of Maryland, Dingman Center provides support for entrepreneurs including a resources page which links to University, State and Regional resources available to entrepreneurs.",
+    	"Keywords": {},
+    	"Link": "http://www.rhsmith.umd.edu//node/345",
+    	"Notes": {},
+    	"Title": "Dingman Center for Entrepreneurship"
+    },
+    {
         "Categories": {},
         "Description": "Two directories &mdash; one lists American companies with a substantial investment in overseas operations; one provides information about foreign-owned companies in the U.S.",
         "Keywords": {
@@ -874,7 +894,7 @@
         "Categories": {},
         "Description": "A single point of entry for announcements of federal contract opportunities over $25,000, both in both the civilian and military sectors.",
         "Keywords": {
-            "Business Opportunities": 99,
+            "Business Opportunities (Government)": 99,
             "Employment": 99,
             "Jobs": 99
         },

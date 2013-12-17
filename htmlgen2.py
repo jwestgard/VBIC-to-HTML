@@ -86,8 +86,8 @@ def generate_resourcelist_by_keyword(allkeys, data):
                                                                                h['Description']))
                     summary.append('<li>{0} = {1}</li>'.format(h['Title'], str(h['Keywords'][key])))
                 result.append('</ul>')
+                summary.append('</ul>')
         result.append("<div style='font-size: 80%'><p>[<a href='#'>back to top</a>]</p></div>")
-        summary.append('</ul>')
     return result, summary
 
 def generate_resourcelist_by_title(data):
@@ -123,7 +123,7 @@ def generate_related_topic_lists(sourcefile):
         result.append('<ul>')
         for y in rel_tops[x]:
             z = re.sub(r'\W+', '', y).lower()
-            item = "<li><a href='/vbic/keywords#{0}'>{1}</a></li>".format(z, y)
+            item = "<li><a href='/vbic/resources-by-topic#{0}'>{1}</a></li>".format(z, y)
             result.append(item)
         result.append("</ul>")
         filename = 'output/rel-' + x[0:3].lower() + '.html'
@@ -148,7 +148,7 @@ def create_index(allkeys, allcats):
                 items[i] = "<li><a href='/vbic/{0}'>{1}</a></li>".format(link, i)
             else:
                 link = re.sub(r'\W+', '', i).lower()
-                items[i] = "<li><a href='/vbic/keywords#{0}'>{1}</a></li>".format(link, i)
+                items[i] = "<li><a href='/vbic/resources-by-topic#{0}'>{1}</a></li>".format(link, i)
     print(items)
     result = ["<ul>"]
     sortlist = sorted(items.keys())
@@ -181,12 +181,12 @@ res_by_title = generate_resourcelist_by_title(vbic)
 write_list_to_file('output/res-by-title.html', res_by_title)
 print(" => File res-by-title.html written!\n")
 
-print("Finding resources by keyword...")
+print("Finding resources by topic...")
 res_by_key, summary_keys = generate_resourcelist_by_keyword(allkeys, vbic)
-write_list_to_file('output/res-by-keyword.html', res_by_key)
-print(" => File res-by-keyword.html written!\n")
-write_list_to_file('output/summary_keys.html', summary_keys)
-print(" => File summary_keys.html written!\n")
+write_list_to_file('output/res-by-topic.html', res_by_key)
+print(" => File res-by-topic.html written!\n")
+write_list_to_file('output/summary_topics.html', summary_keys)
+print(" => File summary_topics.html written!\n")
 
 summary_cats = ['<h1>List of All Categories</h1>']
 for c in allcats:

@@ -100,7 +100,6 @@ def generate_resourcelist_by_title(data):
         result.append(heading)
         result.append("<ul>")
         for x in data:
-            print(x)
             if x['Title'][0] in [letter, letter.lower()]:
                 item = ''
                 if x['Link']:
@@ -123,7 +122,7 @@ def generate_related_topic_lists(sourcefile):
         result.append('<ul>')
         for y in rel_tops[x]:
             z = re.sub(r'\W+', '', y).lower()
-            item = "<li><a href='/vbic/resources-by-topic#{0}'>{1}</a></li>".format(z, y)
+            item = "<li><a href='/vbic/topics#{0}'>{1}</a></li>".format(z, y)
             result.append(item)
         result.append("</ul>")
         filename = 'output/rel-' + x[0:3].lower() + '.html'
@@ -148,7 +147,7 @@ def create_index(allkeys, allcats):
                 items[i] = "<li><a href='/vbic/{0}'>{1}</a></li>".format(link, i)
             else:
                 link = re.sub(r'\W+', '', i).lower()
-                items[i] = "<li><a href='/vbic/resources-by-topic#{0}'>{1}</a></li>".format(link, i)
+                items[i] = "<li><a href='/vbic/topics#{0}'>{1}</a></li>".format(link, i)
     print(items)
     result = ["<ul>"]
     sortlist = sorted(items.keys())

@@ -1883,6 +1883,16 @@
         "Title": "Oxford Encyclopedia of Economic History"
     },
     {
+    	"Categories": {
+            "Business Financing": 1
+            },
+    	"Description": "This section will help entrepreneurs to explore different financing options. It lists descriptions of some of the major sources of financing options and when to use them.",
+    	"Keywords": {},
+    	"Link": "http://www.morebusiness.com/running_your_business/financing/overview.brc",
+    	"Notes": "",
+    	"Title": "An Overview of Financing Options"
+	},
+    {
         "Categories": {},
         "Description": "The Panel Study of Income Dynamics - PSID - is the longest running longitudinal household survey in the world. The PSID began in 1968 with a nationally representative sample of over 18,000 individuals living in 5,000 families in the United States. Information on these individuals and their descendants has been obtained through various data collection efforts. Data includes employment, income, wealth, expenditures, health, marriage, childbearing, child development, philanthropy, education, and numerous other topics. A majority of data is publicly available for free.",
         "Keywords": {
@@ -1956,6 +1966,16 @@
         "Notes": "",
         "Title": "PortFocus: Ports Harbours Marinas Worldwide"
     },
+    {
+    	"Categories": {
+            "Business Financing": 3
+            },
+    	"Description": "[Wellesley Hills, Mass. : Venture Economics, Inc., c1984- . Annual.]<br />\"Directory of over 800 American and Canadian venture capital companies\"<br />Mck Reference HG65.P73",
+    	"Keywords": {},
+    	"Link": "",
+    	"Notes": "Print only.",
+    	"Title": "Pratt's Guide to Venture Capital Sources"
+	},
     {
         "Categories": {},
         "Description": "The MoneyTree Report is a quarterly study of venture capital investment activity in the United States providing information on emerging companies that receive financing and the venture capital firms that provide it.",
@@ -2557,6 +2577,16 @@
         "Notes": "",
         "Title": "ValueLine (ValueLine Investment Survey)"
     },
+    {
+    	"Categories": {
+            "Business Financing": 2
+            },
+    	"Description": "Frequently updated list of venture capital firms in the United States.",
+    	"Keywords": {},
+    	"Link": "http://www.vfinance.com/home.asp?ToolPage=venca.asp",
+    	"Notes": "",
+    	"Title": "vFinance.com"
+	},
     {
         "Categories": {},
         "Description": "The electronic gazette for volunteerism.",

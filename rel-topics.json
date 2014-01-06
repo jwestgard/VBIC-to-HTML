@@ -9,7 +9,7 @@
         "Annual Reports",
         "Company Profiles and Research",
         "Competitors",
-        "Financial information",
+        "Financial Information",
         "International Business",
         "Investment and Securities",
         "Manufacturing",
@@ -22,26 +22,28 @@
     ],
     "Country Research": [
         "Country Background",
+        "Country Data",
+        "Country Research",
         "Culture",
         "Doing Business In",
         "Economic Indicators",
         "Globalization",
-        "International Law",
+        "International Trade",
         "Marketing",
         "News",
-        "Statistics",
-        "Translations"
+        "Statistics: International"
     ],
     "Demographics and Statistics": [
-		"Labor Economics",
-		"Population and Housing Data"
+		"Demographics",
+        "Statistics: International",
+        "Statistics: United States"
     ],
     "Economics": [
         "Consumer Price Index",
         "Demographics",
         "Economic Indicators",
+        "Economics Research",
         "Industry Classification",
-        "Labor Economics",
         "News"
     ],
     "Entrepreneurship": [
@@ -54,9 +56,11 @@
     ],
     "Finance and Investment": [
         "Analyst Reports",
+        "Annual Reports",
         "Bonds",
+        "Financial Information",
         "Industry Ratios",
-        "Investments",
+        "Investment and Securities",
         "Mutual Funds",
         "Stocks",
         "Stock Exchange"
@@ -69,7 +73,8 @@
 	    "Statistics: United States",
         "Competitors",
         "Market Share",
-        "Industry Analysis Models",
+        "Market Size",
+        "Industry Analysis",
         "Regulations"
     ],
     "Logistics, Business and Public Policy": [
@@ -80,8 +85,7 @@
         "Advertising",
         "Competitors",
         "Consumer Analysis",
-        "Product Development",
-        "Promotion"
+        "Product Development"
     ],
     "Product": [
         "Brands",

@@ -148,12 +148,11 @@ def create_index(allkeys, allcats):
             else:
                 link = re.sub(r'\W+', '', i).lower()
                 items[i] = "<li><a href='/vbic/topics#{0}'>{1}</a></li>".format(link, i)
-    print(items)
     result = ["<ul>"]
     sortlist = sorted(items.keys())
-    print(sortlist)
+    print("\nBuilding Index...")
     for i in sortlist:
-        print(i)
+        print("   • {0}".format(i))
         result.append(items[i])
     result.append("</ul>")
     return result
@@ -195,7 +194,7 @@ for c in allcats:
     for x in summary:
         summary_cats.append("<li>{0}</li>".format(x))
     summary_cats.append("</ul>")
-    print("Finding resources for " + c + "..." + " found " + str(count))
+    print("/nFinding resources for " + c + "..." + " found " + str(count))
     filename = 'output/' + c[0:3].lower() + '.html'
     write_list_to_file(filename, result)
     print(" => File " + filename + " written!")

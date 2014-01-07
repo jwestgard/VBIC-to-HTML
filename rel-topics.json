@@ -1,9 +1,4 @@
 {
-    "Career": [
-        "Company Profiles and Research",
-        "Industry",
-        "Jobs"
-    ],
     "Company Information": [
         "Analyst Reports",
         "Annual Reports",
@@ -77,21 +72,10 @@
         "Industry Analysis",
         "Regulations"
     ],
-    "Logistics, Business and Public Policy": [
-        "Product Codes",
-        "Transportation Modes"
-    ],
     "Marketing": [
         "Advertising",
         "Competitors",
         "Consumer Analysis",
         "Product Development"
-    ],
-    "Product": [
-        "Brands",
-        "Manufacturing",
-        "Patents and Trademarks",
-        "Product Codes",
-        "Product Development" 
     ]
 }

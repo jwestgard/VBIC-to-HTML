@@ -26,7 +26,7 @@ def matchkeys(key, data):
     return sorted_result
 
 def generate_resourcelist_by_category(category, data):
-    result = []
+    result = ["<h2>Frequently Used Sources</h2>"]
     hits = []
     hitcount = 0
     summary = []

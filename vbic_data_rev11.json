@@ -1,8 +1,7 @@
 [
     {
         "Categories": {
-            "Economics": 3,
-            "Logistics": 1
+            "Economics": 3
         },
         "Description": "Very broad coverage, includes many topics of interest to business researchers.",
         "Keywords": {
@@ -12,7 +11,7 @@
             "Economics Research": 99,
             "Employment": 99,
             "Leadership": 99,
-            "Logistics": 99,
+            "Logistics": 1,
             "Management": 99,
             "Outsourcing": 99,
             "Public Policy": 99
@@ -270,13 +269,10 @@
     },
     {
         "Categories": {
-            "Career": 2,
             "Company Information": 2,
             "Economics": 2,
             "Industry": 4,
-            "Logistics": 2,
-            "Marketing": 4,
-            "Product": 1
+            "Marketing": 4
         },
         "Description": "Comprehensive database of business sources &mdash; includes over 3600 peer reviewed journals, trade publications, magazines, books, case studies, Company profiles, SWOT analysis, etc.",
         "Keywords": {
@@ -285,6 +281,7 @@
             "Biography": 2,
             "Bonds": 4,
             "Brands": 1,
+            "Career": 2,
             "Ethics": 99,
             "Business Plans": 3,
             "Case Studies": 99,
@@ -299,6 +296,7 @@
             "Industry Overview": 2,
             "International Trade": 3,
             "Leadership": 1,
+            "Logistics": 3,
             "Management": 1,
             "Market Share": 3,
             "Mergers and Acquisitions": 2,
@@ -558,7 +556,7 @@
         "Categories": {},
         "Description": "Contains daily and monthly historical stock data on more than 20,000 stocks (inactive and active companies) from the NYSE (from 1926), AMEX (from 1962), and NASDAQ (from 1972) markets. Includes U.S. market indices, treasuries, mutual funds.",
         "Keywords": {
-            "Financial Information": 6,
+            "Financial Information": 8,
             "Industry Ratios": 99,
             "Mutual Funds": 3,
             "Stock Exchange": 3,
@@ -928,7 +926,6 @@
     },
     {
         "Categories": {
-        	"Career": 4,
             "Company Information": 3,
             "Finance &amp; Investment": 5,
             "Industry": 5
@@ -939,6 +936,7 @@
             "Bonds": 5,
             "Brands": 2,
             "Ethics": 99,
+        	"Career": 4,
             "Company Profiles and Research": 5,
             "Competitors": 2,
             "Corporate Culture": 3,
@@ -1364,13 +1362,13 @@
     },
     {
         "Categories": {
-        	"Career": 3,
             "Economics": 4,
             "Industry": 1,
             "Marketing": 2
         },
         "Description": "Provides Industry market research reports on over 700 U.S. industries, as well as economic and demographic reports with focus on the U.S. economy, also available through SmithApps.",
         "Keywords": {
+            "Career": 3,
             "Competitors": 3,
             "Consumer Analysis": 5,
             "Economic Indicators": 5,
@@ -1380,7 +1378,6 @@
             "Industry Trends": 1,
             "Market Share": 2,
             "Market Size": 1,
-            "Marketing": 3,
             "Risk": 99
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.ibisworld.com/",
@@ -1576,7 +1573,7 @@
     },
     {
         "Categories": {
-            "Company": 4,
+            "Company Information": 4,
             "Finance &amp; Investment": 6
             },
         "Description": "Covers business topics from local, regional and national newspapers, some trade publications, business magazines, SEC filings, some reference sources, key accounting sources, legal information as well as SWOT analysis. To access SWOT information, click on Companies and then Company Profiles. Type name of Company in first box, select \"Company name\" from drop down box; in second box, type SWOT. To access business news, click on News and then Business.",
@@ -1613,7 +1610,7 @@
         "Description": "An interactive benchmarking tool created to help countries identify the challenges and opportunities they face in their performance of trade logistics and what they can do to improve their performance.",
         "Keywords": {
             "International Trade": 99,
-            "Logistics": 1
+            "Logistics": 2
         },
         "Link": "http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTTRANSPORT/EXTTLF/0,,contentMDK:21514122~menuPK:3875957~pagePK:210058~piPK:210062~theSitePK:515434,00.html",
         "Notes": "",
@@ -1660,8 +1657,7 @@
         "Description": "Raw data about the demographics and lifestyles of consumers and media audiences. Information includes consumer demographics, psychographics/lifestyles, Product and brand usage, media preferences. Note: First time users must register using UMD email domain. To register, go to Mediamark, click on Register for a FREE Account, and follow instructions. A brief tutorial, (http://www.gfkmri.com/PDF/University%20Internet%20Reporter%20Tutorial.pdf) is available from Mediamark Research.",
         "Keywords": {
             "Consumer Analysis": 4,
-            "Lifestyles": 2,
-            "Marketing": 99
+            "Lifestyles": 2
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.mriplus.com/",
         "Notes": "",
@@ -1678,7 +1674,7 @@
             "Investment and Securities": 8
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to helpme@rhsmith.umd.edu.",
+        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
         "Title": "Mergent Online"
     },
     {
@@ -1719,8 +1715,7 @@
             "Consumer Analysis": 1,
             "Industry Trends": 4,
             "Lifestyles": 1,
-            "Market Size": 2,
-            "Marketing": 2
+            "Market Size": 2
         },
         "Link": "http://proxy-um.researchport.umd.edu/login?url=http://academic.mintel.com/sinatra/oxygen_academic/academic_logon/",
         "Notes": "",
@@ -1747,7 +1742,7 @@
         "Categories": {},
         "Description": "\"Global investment analysis uniting all of Morningstar's data and institutional research\"; software allows for the creation of customized reports and presentations.",
         "Keywords": {
-            "Analyst Reports": 99,
+            "Analyst Reports": 5,
             "Company Profiles and Research": 8,
             "Investment and Securities": 10,
             "Mutual Funds": 99,
@@ -1884,11 +1879,10 @@
         "Title": "NYSE &ndash; New York Stock Exchange"
     },
     {
-        "Categories": {
-        	"Career": 1
-        },
+        "Categories": { },
         "Description": "From the Bureau of Labor Statistics, provides information on a variety of occupational categories - starting salaries, working conditions, nature of the work, training, and more.",
         "Keywords": {
+            "Career": 1,
             "Employment": 99,
             "Jobs": 99,
             "Training": 99
@@ -2046,7 +2040,7 @@
         "Categories": {},
         "Description": "Comprehensive listing of marine transportation links by country.",
         "Keywords": {
-            "Logistics": 99,
+            "Logistics": 4,
             "Ports": 99,
             "Transportation Modes": 2
         },
@@ -2117,13 +2111,11 @@
         "Title": "RAILIndustry.com"
     },
     {
-        "Categories": {
-            "Product": 2
-            },
+        "Categories": {},
         "Description": "Provides access to three important databases: RDS Business and Industry (covers Industry trade journals, magazines and newspapers); RDS Business and Management Practices (covers journals and magazines dealing with business and management issues) and RDS Tablebase (provides business statistics, i.e., market share, market size, advertising expenditures, etc.).",
         "Keywords": {
             "Advertising": 1,
-            "Analyst Reports": 3,
+            "Analyst Reports": 4,
             "Career": 99,
             "Company Profiles and Research": 11,
             "Competitors": 9,
@@ -2132,7 +2124,7 @@
             "Economics Research": 99,
             "Human Resource Management": 1,
             "Industry Analysis": 99,
-            "Logistics": 99,
+            "Logistics": 5,
             "Management": 2,
             "Market Share": 1,
             "Marketing": 99,
@@ -2302,7 +2294,7 @@
     },
     {
         "Categories": {},
-        "Description": "ReProductions of over 30,000 Springer print book publications, with search capabilities and bookmarks, also includes Springer journals.",
+        "Description": "Reproductions of over 30,000 Springer print book publications, with search capabilities and bookmarks, also includes Springer journals.",
         "Keywords": {
             "E-Books": 99,
             "E-Journals": 99
@@ -2449,12 +2441,10 @@
         "Title": "Tax Policy Center"
     },
     {
-        "Categories": {
-        	"Career": 5
-        },
+        "Categories": {},
         "Description": "Testing and Education Reference Center provides in depth information on colleges and universities graduate and professional programs, distance learning, corporate training, available scholarships and awards and preparatory entrance tests. Available online practice tests include entrance exams certification and licensing tests. Graduate school online practice tests include GRE LSAT MCAT and MAT. There are even international tests covering TOEFL and TOEIC. The Career Module consists of the Career Assessment the Resume Builder and the Virtual Careers Library. The Career Assessment helps users map a Career path through a brief multiple choice exam which matches their answers to job categories industries and occupations that are most suitable to them. The Resume Builder helps build resumes based on the stage of user Career and type of position applying for. The Virtual Careers Library provides resume cover letter and interviewing tips.",
         "Keywords": {
-            "Career": 99,
+            "Career": 5,
             "Tests": 99,
             "Training": 99
         },
@@ -2545,7 +2535,7 @@
         "Categories": {},
         "Description": "Provides a wealth of financial information including broad selection of analyst reports.",
         "Keywords": {
-            "Analyst Reports": 5,
+            "Analyst Reports": 3,
             "Annual Reports": 7,
             "Financial Information": 6
         },
@@ -2557,7 +2547,7 @@
         "Categories": {},
         "Description": "Provides a directory of ground and air transportation resources, as well as listings of organizations and companies involved in the transportation Industry. [The New Jersey TIDE Center is a multi-disciplinary, multi-university research center comprised of the New Jersey Institute of Technology, Princeton University, and Rutgers University.]",
         "Keywords": {
-            "Logistics": 99,
+            "Logistics": 6,
             "Transportation Modes": 4
         },
         "Link": "http://users.cs.jmu.edu/bernstdh/web/tide/index.html",

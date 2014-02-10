@@ -161,11 +161,11 @@ def create_index(allkeys, allcats):
 print("\n" + "*" * 50)
 print("\nWelcome to the HTML Generator!")
 print("\nLoading data...")
-vbic = load_json_dataset('vbic_data_rev11.json')
+vbic = load_json_dataset('vbic_data_rev12.json')
 
 print("\nGenerating keyword list...")
 allkeys = make_master_hitlist(vbic, 'Keywords')
-allkeys.sort()
+allkeys.sort(key=lambda k: k.lower())
 
 print("Generating categories list...")
 allcats = make_master_hitlist(vbic, 'Categories')

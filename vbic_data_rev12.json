@@ -1485,7 +1485,7 @@
             "Associations": 3
         	},
         "Link": "http://www.ipl.org/div/aon/",
-        "Notes": "[The Regents of the University of Michigan] ",
+        "Notes": "The Regents of the University of Michigan",
         "Title": "Internet Public Library Associations on the Net"
     },
     {
@@ -1575,7 +1575,7 @@
             "Company Information": 4,
             "Finance &amp; Investment": 6
             },
-        "Description": "Covers business topics from local, regional and national newspapers, some trade publications, business magazines, SEC filings, some reference sources, key accounting sources, legal information as well as SWOT analysis. To find company SWOT analysis: (1) From 'Search by Content Type' (top right side of screen above search box), click on down arrow to select 'Company Profiles'; (2) click on 'Advanced Options'; (3) in the 'Build Your Own Segment' search box, enter the company of your choice and the type of publication in the following form (for example): 'Company(Microsoft) and Publication(SWOT)'; (4) click 'Apply'; (5) click 'Search'.",
+        "Description": "Covers business topics from local, regional and national newspapers, some trade publications, business magazines, SEC filings, some reference sources, key accounting sources, legal information as well as SWOT analysis. To access SWOT information, click on Companies and then Company Profiles. Type name of Company in first box, select \"Company name\" from drop down box; in second box, type SWOT. To access business news, click on News and then Business.",
         "Keywords": {
             "Accounting": 2,
             "Annual Reports": 3,
@@ -2146,7 +2146,7 @@
     },
     {
         "Categories": {},
-        "Description": "Users must sign up for an individual account. Online bibliographic management program allows users to create a personal database of references and generate bibliographies in a variety of formats. For information on how to use and log into RefWorks, see 'RefWorks: Online Tool for Managing Citations'",
+        "Description": "Users must sign up for an individual account. Online bibliographic management program allows users to create a personal database of references and generate bibliographies in a variety of formats.For information on how to use and log into RefWorks use - RefWorks: Online Tool for Managing Citations",
         "Keywords": {
             "Citations": 99
         },
@@ -2219,7 +2219,7 @@
             "Associations": 7
         	},
         "Link": "http://www.scholarly-societies.org/",
-        "Notes": "[University of Waterloo Library]",
+        "Notes": "University of Waterloo Library",
         "Title": "The Scholarly Societies Project"
     },
     {

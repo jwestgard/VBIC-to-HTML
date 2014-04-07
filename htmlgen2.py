@@ -1,4 +1,7 @@
-import json, re
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import json, re, sys
 
 def load_json_dataset(filename):
     f = open(filename, 'r')
@@ -143,7 +146,7 @@ def create_index(allkeys, allcats):
     for i in allitems:
         if i not in items.keys():
             if i in allcats:
-                link = i.lower()
+                link = i.lower().split(' ')[0]
                 items[i] = "<li><a href='/vbic/{0}'>{1}</a></li>".format(link, i)
             else:
                 link = re.sub(r'\W+', '', i).lower()
@@ -161,7 +164,7 @@ def create_index(allkeys, allcats):
 print("\n" + "*" * 50)
 print("\nWelcome to the HTML Generator!")
 print("\nLoading data...")
-vbic = load_json_dataset('vbic_data_rev12.json')
+vbic = load_json_dataset(sys.argv[1])
 
 print("\nGenerating keyword list...")
 allkeys = make_master_hitlist(vbic, 'Keywords')
@@ -207,7 +210,3 @@ print(" => File " + 'index.html' + " written!")
    
 print("\nThank you and goodbye!\n") 
 print("*" * 50)
-
-# save_json_dataset('vbic_data7.json', vbic)
-# catlist = pickle.load(open('categories.p', 'rb'))
-# keys = pickle.load(open('keywords.p', 'rb'))

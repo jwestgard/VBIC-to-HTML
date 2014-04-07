@@ -143,13 +143,13 @@
     },
     {
         "Categories": {},
-        "Description": "Contains primary data for \"tracking and analysis of public Company disclosures related to the audit, compliance, governance, corporate actions and federal litigation.\" Audit and Compliance datasets cover all SEC registrants. ",
+        "Description": "Contains primary data for \"tracking and analysis of public Company disclosures related to the audit, compliance, governance, corporate actions and federal litigation.\" Audit and Compliance datasets cover all SEC registrants.",
         "Keywords": {
             "Accounting": 99,
             "Auditing": 99
         },
         "Link": "http://wrds.wharton.upenn.edu",
-        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research.) Access is available by account only - request account at https://wrds.wharton.upenn.edu",
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
         "Title": "AuditAnalytics"
     },
     {
@@ -215,7 +215,7 @@
         "Categories": {
             "Finance &amp; Investment": 1
         },
-        "Description": "Contains news, current and historical financial data and analysis for individual companies, stock market indices, fixed-income securities, currencies, commodities, economics, and derivatives for both international and domestic markets.",
+        "Description": "Contains news, current and historical financial data and analysis for individual companies, stock market indices, fixed-income securities, currencies, commodities, economics, and derivatives for both international and domestic markets. ",
         "Keywords": {
             "Accounting": 3,
             "Annual Reports": 4,
@@ -232,6 +232,14 @@
         "Link": "",
         "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and Smith School DC, Baltimore, and Shady Grove campuses.",
         "Title": "Bloomberg"
+    },
+    {
+        "Categories": {},
+        "Description": "Contains expert analysis, news, practice tools, and guidance. Bloomberg BNA’s authoritative coverage spans the full range of legal practice areas, including <a href='http://www.bna.com/tax-accounting-t5000/'>tax &amp; accounting</a>, <a href='http://www.bna.com/labor-employment-law-t5956/'>labor &amp; employment</a>, <a href='http://www.bna.com/intellectual-property-law-t5946/'>intellectual property</a>, <a href='http://www.bna.com/banking-finance-securities-t5922/'>banking &amp; securities</a>, <a href='http://www.bna.com/employee-benefits-news-t5989/'>employee benefits</a>, <a href='http://www.bna.com/health-care-law-t5938/'>health care</a>, <a href='http://www.bna.com/privacy-security-law-t5991/'>privacy &amp; data security</a>, <a href='http://www.bna.com/human-resources-t5010/'>human resources</a>, and <a href='http://www.bna.com/environment-health-safety-t4957/'>environment, health &amp; safety</a>.",
+     	"Keywords": {},
+        "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall) using the url http://www.bna.com, and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+        "Title": "Bloomberg BNA"
     },
     {
         "Categories": {},
@@ -562,7 +570,7 @@
             "Stocks": 5
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "Access via SmithApps &mdash; CRSPSift. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+        "Notes": "Access via WRDS or SmithApps &mdash; CRSPSift. WRDS access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research.) Access is available by account at <a href='https://wrds.wharton.upenn.edu'>wrds.wharton.upenn.edu</a>. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps at <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
         "Title": "CRSP: Center for Research in Security Prices"
     },
     {
@@ -632,7 +640,7 @@
     },
     {
         "Categories": {},
-        "Description": "Provides index related financial data across global markets.",
+        "Description": "Contains historical financial data on individual companies, stock market indices, fixed-income securities, currencies, commodities, economics, and derivatives for both international and domestic markets.",
         "Keywords": {
             "Accounting": 4,
             "Annual Reports": 5,
@@ -647,8 +655,8 @@
             "Stocks": 7
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to: <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
-        "Title": "Datastream Advance"
+        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to: <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+        "Title": "Thomson Reuters Datastream Advance"
     },
     {
     	"Categories": {
@@ -1365,7 +1373,7 @@
             "Industry": 1,
             "Marketing": 2
         },
-        "Description": "Provides Industry market research reports on over 700 U.S. industries, as well as economic and demographic reports with focus on the U.S. economy, also available through SmithApps.",
+        "Description": "Provides Industry market research reports on U.S. industries, US Specialized Industries, China Industries, Global Industries, U.S. Risk Ratings, and U.S. Business Environment Profilles, also available through SmithApps.",
         "Keywords": {
             "Career": 3,
             "Competitors": 3,
@@ -1397,7 +1405,7 @@
     },
     {
         "Categories": {},
-        "Description": "Economic Forecasts, data and analysis on more than 200 economies and over 170 industries",
+        "Description": "Provides coverage of U.S. and international financial, economic, and Industry data, covering 120 industries and 200 countries. Data available covers balance of payments, cyclical indicators, finance and financial markets, government finance, housing and construction, output/capacity/capacity utilization, merchandise trade, national accounts, labor market, population, prices, and wholesale and retail trade.",
         "Keywords": {
             "Economic Data: International": 99,
             "Economic Data: United States": 99,
@@ -1405,8 +1413,8 @@
             "Financial Information": 10
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
-        "Title": "IHS Global Insight DataInsight Web"
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+        "Title": "IHS Global Insight &ndash; DataInsight Web"
     },
     {
         "Categories": {},
@@ -1575,7 +1583,7 @@
             "Company Information": 4,
             "Finance &amp; Investment": 6
             },
-        "Description": "Covers business topics from local, regional and national newspapers, some trade publications, business magazines, SEC filings, some reference sources, key accounting sources, legal information as well as SWOT analysis. To access SWOT information, click on Companies and then Company Profiles. Type name of Company in first box, select \"Company name\" from drop down box; in second box, type SWOT. To access business news, click on News and then Business.",
+        "Description": "Covers business topics from local, regional and national newspapers, some trade publications, business magazines, SEC filings, some reference sources, key accounting sources, legal information as well as SWOT analysis. To find SWOT analysis information: (1) From 'Search by Content Type' (top right side of screen above search box), click on down arrow to select 'Company Profiles'; (2) click on 'Advanced Options'; (3) in the 'Build Your Own Segment' search box, enter the company of your choice and the type of publication in the following form (for example): 'Company(Microsoft) and Publication(SWOT)'; (4) click 'Apply'; (5) click 'Search'.",
         "Keywords": {
             "Accounting": 2,
             "Annual Reports": 3,
@@ -1664,7 +1672,7 @@
     },
     {
         "Categories": {},
-        "Description": "Offers a wealth of detail Company information, history, property, subsidiaries, officers and directors, long-term debt and capital stock.",
+        "Description": "Offers a wealth of detailed company information: history, property, subsidiaries, officers and directors, long-term debt, fixed income and capital stock for U.S. and international companies.  Mergent Online also has economic data and information on over 20 million private companies from Dun &amp; Bradstreet's Private Company Database. Financial statements going back 15 years are presented in \"as-reported\" form and in native currencies. Financial statements going back 15 years are presented in \"as-reported\" form and in native currencies. Also includes the D&amp;B Private Company database.",
         "Keywords": {
             "Company Profiles and Research": 9,
             "Competitors": 4,
@@ -1673,12 +1681,12 @@
             "Investment and Securities": 8
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
         "Title": "Mergent Online"
     },
     {
         "Categories": {},
-        "Description": "Offers a comprehensive library of documents that includes Company annual reports, prospectuses, Industry reports and other Company related documents. Also covers 50,000 global companies from over 100 countries.",
+        "Description": "Offers a comprehensive library of documents that includes Company annual reports, prospectuses, Industry reports and other Company related documents. Also covers 50,000 global companies from over 100 countries.  Data begins in 1910.",
         "Keywords": {
             "Annual Reports": 6,
             "Company Profiles and Research": 10,
@@ -1689,7 +1697,7 @@
             "Investment and Securities": 9
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
         "Title": "Mergent WebReports"
     },
     {
@@ -1739,7 +1747,7 @@
     },
     {
         "Categories": {},
-        "Description": "\"Global investment analysis uniting all of Morningstar's data and institutional research\"; software allows for the creation of customized reports and presentations.",
+        "Description": "\"Global investment analysis uniting all of Morningstar's data and institutional research\"; software allows for the creation of customized reports and presentations. Morningstar Direct provides complete coverage of Morningstar's global investment database and analytics, including worldwide investment data and global market indexes. It has hundreds of financial variables including portfolio and ownership data for thousands of worldwide hedge-funds, open and closed-end funds, exchange traded funds, insurance/life products, U.S. variable annuities and life policies, and 529 plans. In addition, it includes details on 28,000 publicly traded stocks.",
         "Keywords": {
             "Analyst Reports": 5,
             "Company Profiles and Research": 8,
@@ -1748,7 +1756,7 @@
             "Stocks": 99
         },
         "Link": "",
-        "Notes": "Access available in Van Munching Hall Finance Labs and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
         "Title": "Morningstar Direct"
     },
     {
@@ -1760,7 +1768,7 @@
             "Stocks": 99
         },
         "Link": "",
-        "Notes": "Access available in Van Munching Hall Financial Labs and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
         "Title": "Morningstar EnCorr"
     },
     {
@@ -2304,24 +2312,34 @@
     },
     {
         "Categories": {},
-        "Description": "\"Provides global Company information, credit ratings and research, and market research with tools for risk assessments\". Access to both \"real-time and historical information on companies, markets, transactions and people worldwide\"",
+        "Description": "Find profiles of public and private firms worldwide including financials, officers and directors, ownership, advisory relationships, transactions, securities, key developments, estimates, key documents, credit ratings and research, filings, news and more. Generate comparables analysis and market analysis using Capital IQ's analytical and screening tools. Access to both \"real-time and historical information on companies, markets, transactions and people worldwide\"",
         "Keywords": {
             "Company Profiles and Research": 12,
             "International Business": 99,
             "Investment and Securities": 4
         },
         "Link": "",
-        "Notes": "Access available on PCs in Van Munching Hall, Room 1318, and Smith School DC, Baltimore, and Shady Grove campuses. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
         "Title": "S&amp;P Capital IQ"
     },
     {
+    	"Categories": {},
+    	"Description": "Contains U.S. and Canadian fundamental and market information on active and inactive publicly held companies. It provides more than 300 annual and 100 quarterly Income Statement, Balance Sheet, Statement of Cash Flows, and supplemental data items. Find profiles of public and private firms worldwide including financials, officers and directors, ownership, advisory relationships, transactions, securities, key developments, estimates, key documents, credit ratings and research, filings, news and more. Generate comparables analysis and market analysis using Capital IQ's analytical and screening tools.",
+     	"Keywords": {
+            "Accounting": 99
+        },
+        "Link": "http://wrds.wharton.upenn.edu/",
+        "Notes": "Access via WRDS or SmithApps &mdash; CRSPSift. WRDS access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research.) Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>wrds.wharton.upenn.edu</a>. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps at <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+        "Title": "S&amp;P Capital IQ's Compustat North America"
+    },
+    {
         "Categories": {},
-        "Description": "Tracks executive compensation in S&amp;P 1000 firms",
+        "Description": "Tracks executive compensation in S&amp;P 1000 firms from 1992.",
         "Keywords": {
             "Compensation": 99
         },
         "Link": "",
-        "Notes": "Access available in Van Munching Hall Financial Labs and via SmithApps.",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
         "Title": "S&amp;P ExecuComp"
     },
     {
@@ -2464,7 +2482,7 @@
     },
     {
         "Categories": {},
-        "Description": "Contains current and historical financial data on individual companies, stock market indices, fixed-income securities, currencies, commodities, and derivatives for both international and domestic markets, as well as business and financial news.",
+        "Description": "Contains current and historical financial data and analysis for individual companies, stock market indices, fixed-income securities, currencies, commodities, economics, and derivatives for both international and domestic markets, as well as business and financial news.",
         "Keywords": {
             "Financial Information": 13,
             "Investment and Securities": 14,
@@ -2472,29 +2490,29 @@
             "Stocks": 99
         },
         "Link": "",
-        "Notes": "Access available only in Van Munching Hall Financial Markets Labs (Rooms 1318 and 3505). Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and Smith School DC, Baltimore, and Shady Grove campuses.",
         "Title": "Thomson Reuters Eikon"
     },
     {
         "Categories": {},
-        "Description": "Provides a common front end retrieval system for a collection of databases. They contain detailed information on new issues, mergers and acquisitions, syndicated loans, private equity, and more for the global financial marketplace. Click here for more information. https://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspxhttps://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+        "Description": "Provides a common front end retrieval system for a collection of databases. They contain detailed information on new issues, mergers and acquisitions, syndicated loans, private equity, venture capital, and more for the global financial marketplace.",
         "Keywords": {
             "Financial Information": 14,
             "Mergers and Acquisitions": 6
         },
         "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
-        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>",
+        "Notes": "Access available in Van Munching Hall Financial Markets Lab (1318 Van Munching Hall), and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
         "Title": "Thomson Reuters SDC Platinum"
     },
     {
         "Categories": {},
-        "Description": "\"Provides extensive information on the global syndicated bank loan market. These transactions finance M&amp;A activity, working capital needs and other corporate purposes for loan participants world-wide\". Sources include regulatory filings, bank submissions and journalist contributions.",
+        "Description": "\"Provides extensive information on the global syndicated bank loan market. These transactions finance M&A activity, working capital needs and other corporate purposes for loan participants world-wide\". Sources include regulatory filings, bank submissions and journalist contributions.",
         "Keywords": {
             "Bank Loans": 99,
             "Investment and Securities": 15
         },
         "Link": "",
-        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
         "Title": "Thomson Reuters LPC DealScan"
     },
     {
@@ -2505,7 +2523,7 @@
             "Investment and Securities": 16
         },
         "Link": "",
-        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
         "Title": "Thomson Reuters Institutional Holdings (13F)"
     },
     {
@@ -2516,7 +2534,7 @@
             "Investment and Securities": 17
         },
         "Link": "",
-        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
         "Title": "Thomson Reuters Insider Filing Data Feed"
     },
     {
@@ -2527,19 +2545,19 @@
             "Mutual Funds": 99
         },
         "Link": "",
-        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
         "Title": "Thomson Reuters Mutual Fund Holdings"
     },
     {
         "Categories": {},
-        "Description": "Provides a wealth of financial information including broad selection of analyst reports.",
+        "Description": "Provides a wealth of individual company financial information including broad selection of analyst reports.",
         "Keywords": {
             "Analyst Reports": 3,
             "Annual Reports": 7,
             "Financial Information": 6
         },
         "Link": "",
-        "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+        "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.   If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
         "Title": "ThomsonOne.com"
     },
     {
@@ -2883,7 +2901,7 @@
     },
     {
         "Categories": {},
-        "Description": "From the University of Pennsylvania, Wharton School of Business this Internet based business data and business intelligence service provides via a single interface, access to data across several disciplines, including Accounting, Banking Economics, Finance, Marketing and Public Policy. Databases include: AuditAnalytics, Bank Regulatory, Blockholders, CBOE Indexes, CISDM Hedge Fund, COMPUSTAT, CRSP, CSMAR, CUSIP, DMEF Academic Data, Dow Jones, Eventus, FDIC, FAMA French &amp; Liquidity Factors, Federal Reserve Bank, IBES, IHS Global Insight, ISSM, KLD, MFLINKS, Markit Trial, Option Metrics, PHLX, Penn World Tables, Risk Metrics, SEC Order Execution, TRACE, Thomson Reuters, WRDS SEC Analytics Suite, Zacks Trial",
+        "Description": "From the University of Pennsylvania, Wharton School of Business this Internet based business data and business intelligence service provides via a single interface, access to data across several disciplines, including Accounting, Banking Economics, Finance, Marketing and Public Policy. Databases include: AuditAnalytics, Bank Regulatory, Blockholders, CBOE Indexes, CISDM Hedge Fund, COMPUSTAT, CRSP, CSMAR, CUSIP, DMEF Academic Data, Dow Jones, Eventus, FDIC, FAMA French &amp; Liquidity Factors, Federal Reserve Bank, IBES, IHS Global Insight, ISSM, KLD, MFLINKS, Markit Trial, Option Metrics, PHLX, Penn World Tables, Risk Metrics, SEC Order Execution, TRACE, Thomson Reuters, WRDS SEC Analytics Suite, Zacks Trial.",
         "Keywords": {
             "Dow Jones Industrial Average": 4,
             "Economic Indicators": 11,
@@ -2901,13 +2919,13 @@
     },
     {
         "Categories": {},
-        "Description": "Provides information from all SEC filings which can be customized for specific dataset retrieval. ",
+        "Description": "Provides information from all SEC filings which can be customized for specific dataset retrieval.",
         "Keywords": {
             "Financial Information": 23,
             "SEC Filings": 99
         },
         "Link": "",
-        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+        "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
         "Title": "WRDS SEC Analytics Suite"
     },
     {

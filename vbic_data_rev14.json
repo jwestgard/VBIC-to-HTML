@@ -915,7 +915,7 @@
     "Categories": {
       "Company Information": 3,
       "Finance &amp; Investment": 5,
-      "Industry": 5
+      "Industry": 7
     },
     "Description": "From Dow Jones. Provides full text access to over 8,000 business sources including national and international newspapers, magazines, wire services, web sites and Industry (trade) sources. Includes coverage of the Wall Street Journal. NOTE: Licensing restrictions limit use to 12 simlutaneous users. If you are unable to access this database, please try again later.",
     "Keywords": {
@@ -1693,7 +1693,8 @@
   },
   {
     "Categories": {
-      "Marketing": 1
+      "Marketing": 1,
+      "Industry": 6
       },
     "Description": "Provides full-text reports on a wide range of market research studies, analyzing market sizes and trends, market segmentation, consumer attitudes and purchasing habits, opportunities, weaknesses and the future of the market. Note: To download reports, authorized users are required to create a personal account.",
     "Keywords": {
@@ -1974,7 +1975,8 @@
   },
   {
     "Categories": {
-      "Country Information": 3
+      "Country Information": 3,
+      "Industry": 5
       },
     "Description": "Provides comparative statistics for 205 countries on economic indicators, health, foreign trade, environment, lifestyle, industrial and agricultural output, communications, and more. Also includes market size data for over 300 consumer products and services.",
     "Keywords": {

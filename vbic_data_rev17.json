@@ -1,0 +1,2992 @@
+[
+  {
+    "Categories": {
+      "Economics": 3
+    },
+    "Description": "Very broad coverage, includes many topics of interest to business researchers.",
+    "Keywords": {
+      "Biography": 99,
+      "Ethics": 99,
+      "Career": 99,
+      "Economics Research": 99,
+      "Employment": 99,
+      "Leadership": 4,
+      "Logistics": 3,
+      "Management": 99,
+      "Outsourcing": 99,
+      "Public Policy": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph",
+    "Notes": "",
+    "Title": "Academic Search Premier"
+  },
+  {
+  	"Categories": {},
+  	"Description": "From Duke University, 7000 digitized ads published between 1911 and 1965.",
+  	"Keywords": {
+      "Advertising": 5
+      },
+  	"Link": "http://library.duke.edu/digitalcollections/adaccess/",
+  	"Notes": "",
+  	"Title": "Ad*Access"
+	},
+  {
+  	"Categories": {},
+  	"Description": "Includes public service campaigns. Click on PSA Central to screen for type of media ads of interest.",
+  	"Keywords": {
+      "Advertising": 6
+      },
+  	"Link": "http://www.adcouncil.org/About-Us/",
+  	"Notes": "",
+  	"Title": "Ad Council"
+	},
+  {
+  	"Categories": {},
+  	"Description": "From Duke University, digital collection of old TV ads, 1950s to 1980s.",
+  	"Keywords": {
+      "Advertising": 7
+      },
+  	"Link": "http://library.duke.edu/digitalcollections/adviews/",
+  	"Notes": "",
+  	"Title": "Ad View"
+	},
+  {
+  	"Categories": {},
+  	"Description": "Database of classic print ads, searchable by year.",
+  	"Keywords": {
+      "Advertising": 9
+      },
+  	"Link": "http://www.adflip.com",
+  	"Notes": "",
+  	"Title": "AdFlip"
+	},
+  {
+    "Categories": {},
+    "Description": "Detailed collection of data on Africa &mdash; includes social, economic, natural resources, infrastructure, governance and environmental indicators.",
+    "Keywords": {
+      "International Business": 99,
+      "Statistics: International": 1
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://data.worldbank.org/data-catalog/africa-development-indicators",
+    "Notes": "",
+    "Title": "Africa Development Indicators, World Bank"
+  },
+  {
+    "Categories": {},
+    "Description": "Archive of full text articles in agricultural and applied Economics. Note: Most of these journals are also in Econlit.",
+    "Keywords": {
+      "Agricultural Economics": 99,
+      "Economics Research": 1
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://ageconsearch.umn.edu/",
+    "Notes": "",
+    "Title": "AgEcon Search"
+  },
+  {
+    "Categories": {
+      "Demographics and Statistics": 1
+    },
+    "Description": "From the U.S. Census Bureau. Provides U.S. population, housing, economic and geographic data.",
+    "Keywords": {
+      "Business Planning": 1,
+      "Consumer Analysis": 3,
+      "Demographics": 1,
+      "Statistics: United States": 1
+    },
+    "Link": "http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml",
+    "Notes": "",
+    "Title": "American FactFinder"
+  },
+  {
+    "Categories": {},
+    "Description": "A \"nonprofit charity watchdog\" that \"provides donors with information to make more informed giving decisions\".",
+    "Keywords": {
+      "Nonprofits": 4,
+      "Philanthropy": 99
+    },
+    "Link": "http://www.charitywatch.org/toprated.html",
+    "Notes": "",
+    "Title": "American Institute for Philanthropy"
+  },
+  {
+    "Categories": {
+      "Economics": 5
+    },
+    "Description": "Authoritative critical reviews evaluate the most significant research developments in the field of Economics.",
+    "Keywords": {
+      "Economics Research": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://arjournals.annualreviews.org/loi/Economics",
+    "Notes": "",
+    "Title": "Annual Review of Economics"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides authoritative critical reviews evaluating the most significant research developments in the field, focusing on agricultural Economics, environmental Economics, renewable resources, exhaustible resources, and economic development.",
+    "Keywords": {
+      "Agricultural Economics": 99,
+      "Economics Research": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://arjournals.annualreviews.org/loi/resource",
+    "Notes": "",
+    "Title": "Annual Review of Resource Economics"
+  },
+  {
+    "Categories": {},
+    "Description": "Global association of the world's leading social entrepreneurs.",
+    "Keywords": {
+      "Social Entrepreneurship": 2
+    },
+    "Link": "http://www.ashoka.org/home/index.cfm",
+    "Notes": "",
+    "Title": "Ashoka"
+  },
+  {
+    "Categories": {},
+    "Description": "Contains primary data for \"tracking and analysis of public Company disclosures related to the audit, compliance, governance, corporate actions and federal litigation.\" Audit and Compliance datasets cover all SEC registrants.",
+    "Keywords": {
+      "Accounting": 99,
+      "Auditing": 99
+    },
+    "Link": "http://wrds.wharton.upenn.edu",
+    "Notes": "Access via WRDS. Access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
+    "Title": "AuditAnalytics"
+  },
+  {
+    "Categories": {
+      "Country Information": 5
+    },
+    "Description": "From the U.S. Department of State facts about the land, people, history, government, political conditions, economy, etc.",
+    "Keywords": {
+      "Country Background": 1,
+      "Doing Business In": 99
+    },
+    "Link": "http://www.state.gov/r/pa/ei/bgn/",
+    "Notes": "",
+    "Title": "Background Notes"
+  },
+  {
+    "Categories": {},
+    "Description": "From the International Monetary Fund, includes full-text statistical data from 1996 to present on total goods, services, factor income, and current transfers an economy receives from or provides to the rest of the world.",
+    "Keywords": {
+      "Doing Business In": 99,
+      "Economics Research": 99,
+      "Statistics: International": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://elibrary-data.imf.org",
+    "Notes": "To download data, authorized users are required to create a free personal account.",
+    "Title": "Balance of Payments Statistics &ndash; IMF eLibrary &ndash; Data"
+  },
+  {
+    "Categories": {},
+    "Description": "Authoritative news blog \"dedicated to explaining some of the key issues in the global economy ...\"",
+    "Keywords": {
+      "Doing Business In": 99,
+      "Economics Research": 99,
+      "Globalization": 6,
+      "News": 99
+    },
+    "Link": "http://baselinescenario.com/",
+    "Notes": "",
+    "Title": "Baseline Scenario.com"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides access to interactive charts, quotes, Industry analysis and intraday stock screeners, market news and commentary.",
+    "Keywords": {
+      "Statistics: United States": 2,
+      "Stocks": 99
+    },
+    "Link": "http://bigcharts.marketwatch.com/",
+    "Notes": "",
+    "Title": "Big Charts"
+  },
+  {
+    "Categories": {},
+    "Description": "Index to more than 13 million biographical sketches, to works which cover individuals from every field of activity and from all areas of the world.",
+    "Keywords": {
+      "Biography": 3
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://galenet.galegroup.com/servlet/BGMI/form?l=1&u=BGMI&s=1&locID=umd_um&o=DocTitle",
+    "Notes": "",
+    "Title": "Biography and Genealogy Master Index"
+  },
+  {
+    "Categories": {
+      "Finance &amp; Investment": 1
+    },
+    "Description": "Contains news, current and historical financial data and analysis for individual companies, stock market indices, fixed-income securities, currencies, commodities, economics, and derivatives for both international and domestic markets. ",
+    "Keywords": {
+      "Accounting": 3,
+      "Annual Reports": 4,
+      "Bonds": 1,
+      "Dow Jones Industrial Average": 2,
+      "Economic Indicators": 6,
+      "Financial Information": 9,
+      "Investment and Securities": 5,
+      "Mergers and Acquisitions": 1,
+      "S&amp;P 500": 2,
+      "Stock Exchange": 4,
+      "Stocks": 6
+    },
+    "Link": "",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and Smith School DC, Baltimore, and Shady Grove campuses.",
+    "Title": "Bloomberg"
+  },
+  {
+    "Categories": {},
+    "Description": "Contains expert analysis, news, practice tools, and guidance. Bloomberg BNA’s authoritative coverage spans the full range of legal practice areas, including <a href='http://www.bna.com/tax-accounting-t5000/'>tax &amp; accounting</a>, <a href='http://www.bna.com/labor-employment-law-t5956/'>labor &amp; employment</a>, <a href='http://www.bna.com/intellectual-property-law-t5946/'>intellectual property</a>, <a href='http://www.bna.com/banking-finance-securities-t5922/'>banking &amp; securities</a>, <a href='http://www.bna.com/employee-benefits-news-t5989/'>employee benefits</a>, <a href='http://www.bna.com/health-care-law-t5938/'>health care</a>, <a href='http://www.bna.com/privacy-security-law-t5991/'>privacy &amp; data security</a>, <a href='http://www.bna.com/human-resources-t5010/'>human resources</a>, and <a href='http://www.bna.com/environment-health-safety-t4957/'>environment, health &amp; safety</a>.",
+   	"Keywords": {},
+    "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall) using the url <a href='http://www.bna.com'>http://www.bna.com</a>, and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+    "Title": "Bloomberg BNA"
+  },
+  {
+    "Categories": {},
+    "Description": "Free site from Palo Alto Software, Inc. Use this web site to locate sample business plans or Marketing plans for specific business sectors.",
+    "Keywords": {
+      "Business Plans": 2,
+      "Entrepreneurship": 99,
+      "Marketing Plans": 99
+    },
+    "Link": "http://www.bplans.com/",
+    "Notes": "",
+    "Title": "BPlans.com"
+  },
+  {
+    "Categories": {},
+    "Description": "Links to current papers and articles on globalization from the Brookings Institution &mdash; a \"non-profit public policy organization\" based in Washington, D.C.",
+    "Keywords": {
+      "Globalization": 5
+    },
+    "Link": "http://www.brookings.edu/topics/globalization.aspx",
+    "Notes": "",
+    "Title": "Brookings Institution &mdash; Globalization Page"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Department of Labor, provides economic indicators, labor statistics, and other measures of economic and social performance.",
+    "Keywords": {
+      "Consumer Price Index": 4,
+      "Economic Indicators": 1,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.bls.gov/",
+    "Notes": "",
+    "Title": "Bureau of Labor Statistics"
+  },
+  {
+    "Categories": {
+      "Company Information": 2,
+      "Economics": 2,
+      "Industry": 4,
+      "Marketing": 4
+    },
+    "Description": "Comprehensive database of business sources &mdash; includes over 3600 peer reviewed journals, trade publications, magazines, books, case studies, Company profiles, SWOT analysis, etc.",
+    "Keywords": {
+      "Advertising": 2,
+      "Auditing": 3,
+      "Biography": 2,
+      "Bonds": 4,
+      "Brands": 1,
+      "Career": 2,
+      "Ethics": 99,
+      "Business Plans": 4,
+      "Case Studies": 99,
+      "Company Profiles and Research": 2,
+      "Competitors": 7,
+      "Consumer Analysis": 7,
+      "Corporate Culture": 1,
+      "Employment": 1,
+      "Globalization": 3,
+      "Human Resource Management": 2,
+      "Industry Analysis": 5,
+      "Industry Overview": 2,
+      "International Trade": 3,
+      "Leadership": 2,
+      "Logistics": 2,
+      "Management": 1,
+      "Market Share": 3,
+      "Mergers and Acquisitions": 2,
+      "Nonprofits": 10,
+      "Operations Management": 1,
+      "Product Development": 2,
+      "SWOT": 1,
+      "Social Entrepreneurship": 1,
+      "Taxation": 5
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip&group=main&profile=ehost&defaultdb=bth",
+    "Notes": "To access Company Profiles, click on link from the \"More\" option menu top of screen (in the blue band) to search for Company profiles by Company name.",
+    "Title": "Business Source Complete"
+  },
+  {
+  	"Categories": {
+  		"Entrepreneurship": 3
+  	},
+  	"Description": "See \"Templates\" for guidance on developing a marketing plan, a business plan, and business checklists.",
+  	"Keywords": {},
+  	"Link": "http://www.morebusiness.com",
+  	"Notes": "",
+  	"Title": "Business Resource Center"
+	},
+  {
+    "Categories": {},
+    "Description": "From the Foundation Center. A searchable database of the literature of philanthropy.",
+    "Keywords": {
+      "Nonprofits": 99,
+      "Philanthropy": 99
+    },
+    "Link": "http://lnps.fdncenter.org/",
+    "Notes": "",
+    "Title": "Catalog of Nonprofit Literature"
+  },
+  {
+    "Categories": {},
+    "Description": "Important trade show website, provides latest Industry trends and innovations in information technology, telecommunications and networks, etc.",
+    "Keywords": {
+      "Product Development": 99,
+      "Technology": 99
+    },
+    "Link": "http://www.cebit.de/homepage_e?channel=1",
+    "Notes": "",
+    "Title": "CeBIT"
+  },
+  {
+    "Categories": {},
+    "Description": "News portal for executives.",
+    "Keywords": {
+      "News": 99
+    },
+    "Link": "http://www.ceoexpress.com/default.asp",
+    "Notes": "",
+    "Title": "CEOExpress"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides the \"latest news, trend analysis, and fundraising strategies\" for nonprofits; lists grants and jobs. The \"Facts and Figures\" section provides survey data.",
+    "Keywords": {
+      "Fundraising": 99,
+      "Grants": 99,
+      "Jobs": 99,
+      "Nonprofits": 8,
+      "Philanthropy": 99
+    },
+    "Link": "http://philanthropy.com/section/Home/172/",
+    "Notes": "",
+    "Title": "Chronicle of Philanthropy"
+  },
+  {
+    "Categories": {
+      "Country Information": 4
+    },
+    "Description": "From the Central Intelligence Agency (CIA, provides overviews on most countries of the world.",
+    "Keywords": {
+      "Country Background": 99,
+      "Doing Business In": 99
+    },
+    "Link": "http://www.cia.gov/library/publications/the-world-factbook/",
+    "Notes": "",
+    "Title": "CIA World Factbook"
+  },
+  {
+    "Categories": {},
+    "Description": "International affairs focus - range of scholarship includes working papers from research institutes, occasional paper series from NGOS, policy briefs, etc.",
+    "Keywords": {
+      "International Affairs": 99,
+      "Public Policy": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.ciaonet.org/",
+    "Notes": "",
+    "Title": "CIAO : Columbia International Affairs Online"
+  },
+  {
+    "Categories": {},
+    "Description": "Presents country risk findings in three main sections: Country Risks, Sectors (contain ratings of industries), and Business Climate.",
+    "Keywords": {
+      "Country Background": 2,
+      "Doing Business In": 99,
+      "Economics Research": 99,
+      "International Business": 99,
+      "Risk": 99
+    },
+    "Link": "http://www.coface.com/CofacePortal/COM_en_EN/pages/home/risks_home",
+    "Notes": "",
+    "Title": "Coface: Country Risk and Economic Research"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Census Bureau, provides detailed information for local and regional areas on a wide variety of topics.",
+    "Keywords": {
+      "Economic Indicators": 99,
+      "Entrepreneurship": 99,
+      "Statistics: United States": 4
+    },
+    "Link": "http://smpbff1.dsd.census.gov/TheDataWeb_HotReport/servlet/HotReportEngineServlet?reportid=e8fc5022b3fc243e43d3606f0aee80ae&emailname=bh@boc&filename=ed2_home.hrml",
+    "Notes": "",
+    "Title": "Community Economic Development HotReport"
+  },
+  {
+    "Categories": {},
+    "Description": "Conference Board is a online database with full-text information about strategic management research issues and economic research analysis, reports and data. The Conference Board is a non-profit, global and independent membership organization that creates and disseminates knowledge about management and the marketplace to help businesses strengthen their performances. They conduct research, convene conferences, make forecasts, assess trends, publish information and analysis, and bring executives together to learn from one another. They also provide access to the online journal: Across the Board, which provides articles about leading-edge business issues, ideas and opinions, discussing them before they become \"the common currency of mass-circulation business magazines.\" Their target audience are the senior executives of the Fortune 500 companies.",
+    "Keywords": {
+    	"Economics Research": 3,
+    	"Management": 8
+    },
+    "Link":  "http://proxy-um.researchport.umd.edu/login?url=http://www.conference-board.org/ea/index.cfm",
+    "Notes": "",
+    "Title": "Conference Board"
+  },
+  {
+    "Categories": {},
+    "Description": "Congressional documents from 1789 to the present, with much of the material from the 1980's forward available full-text, includes legislative histories, laws, regulation.",
+    "Keywords": {
+      "Law": 99,
+      "Regulations": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.lexis-nexis.com/congcomp",
+    "Notes": "Formerly called LexisNexis Congressional.",
+    "Title": "Congressional Publications (ProQuest)"
+  },
+  {
+    "Categories": {},
+    "Description": "U.S. Census Bureau. To facilitate time series use, the U.S. Census Bureau has prepared correspondence tables of NAICS to SIC. See also: SIC Codes (from U.S. Department of Labor) &mdash; http://www.osha.gov/pls/imis/sicsearch.html and NAICS &mdash; http://www.census.gov/eos/www/naics/http://www.osha.gov/pls/imis/sicsearch.html",
+    "Keywords": {
+      "Industry Classification": 99,
+      "NAICS Code": 99,
+      "SIC": 99
+    },
+    "Link": "http://www.census.gov/epcd/www/naicstab.htm",
+    "Notes": "",
+    "Title": "Correspondence Tables Between SIC and NAICS"
+  },
+  {
+    "Categories": {},
+    "Description": "From Transparency International, a \"global civil society organization leading the fight against corruption.\" The Global Corruption Barometer explores general public opinion around the world on corruption. Note: Formerly called Global Corruption Report.",
+    "Keywords": {
+      "Ethics": 99,
+      "Doing Business In": 99,
+      "International Business": 99
+    },
+    "Link": "http://www.transparency.org/country",
+    "Notes": "",
+    "Title": "Corruption by Country/Territory (Transparency International)"
+  },
+  {
+    "Categories": {},
+    "Description": "From the World Bank. Presents key indicators tracing the trends in social and economic development from the last three decades.",
+    "Keywords": {
+      "Doing Business In": 99,
+      "International Business": 99,
+      "Statistics: International": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://go.worldbank.org/N45X2XWIC0",
+    "Notes": "",
+    "Title": "Country at a Glance Tables"
+  },
+  {
+    "Categories": {
+      "Country Information": 2
+    },
+    "Description": "From the United States Commercial Service - U.S. Department of Commerce, comprehensive look at a country's commercial environments, using economic, political and market analysis. Select \"Country Commercial Guides\" in the \"Report Type\" field.",
+    "Keywords": {
+      "Country Background": 5,
+      "Doing Business In": 1,
+      "International Business": 99
+    },
+    "Link": "http://www.buyusainfo.net/adsearch.cfm?search_type=int&loadnav=no",
+    "Notes": "",
+    "Title": "Country Commercial Guides"
+  },
+  {
+    "Categories": {},
+    "Description": "Economic, financial, political and social data for over 140 countries, in most cases back to 1984. Note: You must turn off your pop-up blocker or permit pop-ups from this site in order to retrieve data.",
+    "Keywords": {
+      "Country Background": 99,
+      "Doing Business In": 99,
+      "International Business": 99,
+      "Risk": 1
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.prsgroup.com/prsgroup_shoppingcart/cdSub4.aspx",
+    "Notes": "",
+    "Title": "Country Data (PRS)"
+  },
+  {
+    "Categories": {},
+    "Description": "From the Federal Research Division of the Library of Congress, covers 102 countries and regions. Country Profiles are also available. Information is not updated on a regular basis.",
+    "Keywords": {
+      "Country Background": 4,
+      "Doing Business In": 99
+    },
+    "Link": "http://lcweb2.loc.gov/frd/cs/cshome.html",
+    "Notes": "",
+    "Title": "Country Studies"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Census Bureau. County Business Patterns (CBP) is an annual series providing subnational economic data by Industry.",
+    "Keywords": {
+      "Business Planning": 2,
+      "Economics Research": 5,
+      "Entrepreneurship": 99,
+      "Statistics: United States": 3
+    },
+    "Link": "http://www.census.gov/econ/cbp/index.html",
+    "Notes": "",
+    "Title": "County Business Patterns (CPB)"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides comprehensive analysis of popular topics, including history, current status, relevant pro and con arguments, bibliographies, contact information.",
+    "Keywords": {
+      "Ethics": 99,
+      "Compensation": 99,
+      "Corporate Culture": 2,
+      "Economics Research": 6,
+      "Employment": 2,
+      "Export": 1,
+      "Globalization": 2,
+      "Import": 99,
+      "International Trade": 2,
+      "Taxation": 3
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://library2.cqpress.com/cqresearcher",
+    "Notes": "",
+    "Title": "CQ Researcher"
+  },
+  {
+    "Categories": {},
+    "Description": "Online versions of 500+ published reference works, including general and specialist dictionaries and encyclopedias. Also links search to results in USMAI, Ebrary, JSTOR, Academic Search Premier.",
+    "Keywords": {
+      "Ethics": 99,
+      "Economics Research": 99,
+      "Employment": 99,
+      "Encyclopedia": 99,
+      "Globalization": 1,
+      "International Trade": 99,
+      "Leadership": 1,
+      "Logistics": 1,
+      "Manufacturing": 99,
+      "Outsourcing": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.credoreference.com",
+    "Notes": "",
+    "Title": "CREDO"
+  },
+  {
+    "Categories": {},
+    "Description": "Contains daily and monthly historical stock data on more than 20,000 stocks (inactive and active companies) from the NYSE (from 1926), AMEX (from 1962), and NASDAQ (from 1972) markets. Includes U.S. market indices, treasuries, mutual funds.",
+    "Keywords": {
+      "Financial Information": 8,
+      "Industry Ratios": 99,
+      "Mutual Funds": 3,
+      "Stock Exchange": 3,
+      "Stocks": 5
+    },
+    "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+    "Notes": "Access via WRDS or SmithApps &mdash; CRSPSift. WRDS access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research.) Access is available by account at <a href='https://wrds.wharton.upenn.edu'>wrds.wharton.upenn.edu</a>. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps at <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+    "Title": "CRSP: Center for Research in Security Prices"
+  },
+  {
+    "Categories": {},
+    "Description": "A community-built guide to cross-cultural etiquette and understanding.",
+    "Keywords": {
+      "Culture": 99
+    },
+    "Link": "http://www.culturecrossing.net/basics_business_student.php?id=149",
+    "Notes": "",
+    "Title": "Culture Crossing"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides key business ratios for industries searchable by Industry name and SIC code.",
+    "Keywords": {
+      "Financial Information": 3,
+      "Industry Ratios": 1
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.mergentonline.com/KBR",
+    "Notes": "",
+    "Title": "D&amp;B Key Business Ratios"
+  },
+  {
+    "Categories": {},
+    "Description": "Data and statistics listed by topic from U.S government agencies.",
+    "Keywords": {
+      "Demographics": 99,
+      "Statistics: United States": 5
+    },
+    "Link": "http://www.usa.gov/Topics/Reference_Shelf/Data.shtml",
+    "Notes": "",
+    "Title": "Data and Statistics: USA.gov"
+  },
+  {
+    "Categories": {
+      "Demographics and Statistics": 2,
+      "Marketing": 3
+    },
+    "Description": "Provides access to statistics produced by U.S. government, major international and intergovernmental organizations, professional and trade organizations, state government agencies, and universities. Compare and manipulate tens of millions of statistical data series.",
+    "Keywords": {
+      "Consumer Analysis": 2,
+      "Consumer Price Index": 1,
+      "Demographics": 99,
+      "Economic Indicators": 2,
+      "Statistics: International": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://data-planet.conquestsystems.com/statistical/ip",
+    "Notes": "",
+    "Title": "Data-Planet Statistical Datasets"
+  },
+  {
+    "Categories": {
+      "Demographics and Statistics": 3
+    },
+    "Description": "Same data as the Data-Plant Statistical Datasets, but designed for quick lookup. Link directly to Data-Planet Statistical Datasets to compare and contrast multiple indicators.",
+    "Keywords": {
+      "Consumer Price Index": 2,
+      "Demographics": 99,
+      "Statistics: International": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://readyreference.data-planet.com",
+    "Notes": "",
+    "Title": "Data-Planet Statistical Ready Reference"
+  },
+  {
+  	"Categories": {
+  		"Entrepreneurship": 2
+  	},
+  	"Description": "From the R.H. Smith School of Business, University of Maryland, Dingman Center provides support for entrepreneurs including a resources page which links to University, State and Regional resources available to entrepreneurs.",
+  	"Keywords": {},
+  	"Link": "http://www.rhsmith.umd.edu//node/345",
+  	"Notes": {},
+  	"Title": "Dingman Center for Entrepreneurship"
+  },
+  {
+    "Categories": {},
+    "Description": "Two directories &mdash; one lists American companies with a substantial investment in overseas operations; one provides information about foreign-owned companies in the U.S.",
+    "Keywords": {
+      "Doing Business In": 2,
+      "International Business": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=https://www.uniworldbp.com/search.php",
+    "Notes": "",
+    "Title": "Directory of American Firms Operating in Foreign Countries/Foreign Firms Operating in U.S"
+  },
+  {
+    "Categories": {},
+    "Description": "An authoritative source about doctoral dissertations and master's theses. Full text from 1997 to the present.",
+    "Keywords": {
+      "Dissertations": 99,
+      "Master's Theses": 99,
+      "Theses": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.proquest.com/pqdtft?accountid=14696",
+    "Notes": "",
+    "Title": "Dissertations &amp; Theses: Full Text"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides objective measures of business regulations and their enforcement across 183 economies and selected cities at the subnational and regional level.",
+    "Keywords": {
+      "Country Research": 99,
+      "Doing Business In": 3
+    },
+    "Link": "http://www.doingbusiness.org/",
+    "Notes": "",
+    "Title": "Doing Business Database"
+  },
+  {
+    "Categories": {},
+    "Description": "Site managed by the U.S. Census Bureau and devoted exclusively to \"Measuring the Electronic Economy.\"",
+    "Keywords": {
+      "Economics Research": 7,
+      "Statistics: United States": 6,
+      "Technology": 99
+    },
+    "Link": "http://www.census.gov/econ/estats/",
+    "Notes": "",
+    "Title": "E-Stats: Measuring the Electronic Economy"
+  },
+  {
+    "Categories": {
+      "Economics": 1
+    },
+    "Description": "The source for economic research from major scholarly economic journals, working papers, over 400 books and dissertations.",
+    "Keywords": {
+      "Econometrics": 1,
+      "Economics Research": 9,
+      "Globalization": 10,
+      "S&amp;P 500": 5
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&defaultdb=ecn&profile=ehost",
+    "Notes": "",
+    "Title": "EconLit"
+  },
+  {
+    "Categories": {},
+    "Description": "Free, easily available mostly government economic time series data useful for economic research and economic forecasting.",
+    "Keywords": {
+      "Consumer Price Index": 3,
+      "Economic Indicators": 3,
+      "Gross Domestic Product (GDP)": 2,
+      "Gross National Income (GNI)": 2,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.economagic.com/",
+    "Notes": "",
+    "Title": "Economagic"
+  },
+  {
+    "Categories": {},
+    "Description": "From Mississippi State University, this comprehensive guide provides an \"introduction to resources and research available from the federal government and academic community concerning the recent Economic Stimulus Plans and ongoing economic and financial crisis.\" Includes sections on \"Understanding the Crisis\" - with a timeline of events, as well as on housing and foreclosures and the global impact of the economic crisis.",
+    "Keywords": {
+      "Economics Research": 10,
+      "Entrepreneurship": 99
+    },
+    "Link": "http://guides.library.msstate.edu/content.php?pid=38283&sid=281174",
+    "Notes": "",
+    "Title": "Economic and Financial Crisis &ndash; MSU LibGuide"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Census Bureau, Provides a detailed portrait of the United States economy once every five years from the national to the local level covers most of the U.S. economy in its basic collection of establishment statistics such as sales receipts revenue annual payroll number of employees. Related programs include statistics on minority and women owned businesses. Site contains data on most recent economic census, held in2007.",
+    "Keywords": {
+      "Business Planning": 99,
+      "Economics Research": 8,
+      "Entrepreneurship": 99,
+      "Statistics: United States": 7
+    },
+    "Link": "http://www.census.gov/econ/census07/",
+    "Notes": "",
+    "Title": "Economic Census"
+  },
+  {
+    "Categories": {},
+    "Description": " A complete searchable copy of every issue of The Economist from 1843 to 2006, with a global circulation of more than 1.2 million. The Economist has consistently delivered a highly intelligent and comprehensive report of international political, business, scientific, technological and cultural development, with dispatches from all over the world. ",
+    "Keywords": {},
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=ECON",
+    "Notes": "",
+    "Title": "Economist Historical Archive"
+  },
+  {
+    "Categories": {},
+    "Description": "From the Bureau of Labor Statistics, this site provides data on unemployment rates, average hourly earnings,the consumer price index and producer price index. Historical data is available from 1999 to the present. Data is available by state or at the national level.",
+    "Keywords": {
+      "Business Planning": 99,
+      "Entrepreneurship": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.bls.gov/eag/home.htm",
+    "Notes": "",
+    "Title": "Economy at a Glance"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Securities and Exchange Commission (SEC). Contains all of the filings required of public companies by the SEC.",
+    "Keywords": {
+      "Annual Reports": 6,
+      "Financial Information": 1,
+      "SEC Filings": 1
+    },
+    "Link": "http://www.sec.gov/edgar.shtml",
+    "Notes": "",
+    "Title": "EDGAR"
+  },
+  {
+    "Categories": {},
+    "Description": "Field of education focus. Covers journals (full text), books, monographs, conference papers, book reviews.",
+    "Keywords": {
+      "Leadership": 5
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eue",
+    "Notes": "",
+    "Title": "Education Source"
+  },
+  {
+    "Categories": {
+      "Country Information": 6
+    },
+    "Description": "From The Economist Intelligence Unit, \"A practical guide to regulations, operating conditions and corporate practices in 60 countries.\" A good place to start when looking for information on doing business in other countries, covers business information from a regulatory perspective.",
+    "Keywords": {
+      "Country Background": 99,
+      "Doing Business In": 4,
+      "Regulations": 5
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://db.eiu.com/topic_view.asp?pubcode=IT&title=Country+Commerce",
+    "Notes": "",
+    "Title": "EIU Country Commerce"
+  },
+  {
+    "Categories": {
+      "Country Information": 7
+    },
+    "Description": "From the Economist Intelligence Unit, A \"Comprehensive guide to the world's main financial systems, covering banking and associated services, government policies and regulations for 47 countries.\" Good place to start when looking for information on doing business in other countries, covers business information from a financial perspective.",
+    "Keywords": {
+      "Doing Business In": 5,
+      "Regulations": 99,
+      "Taxation": 4
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://db.eiu.com/topic_view.asp?pubcode=FF&title=Country+Finance",
+    "Notes": "",
+    "Title": "EIU Country Finance"
+  },
+  {
+    "Categories": {
+      "Country Information": 1,
+      "Demographics and Statistics": 4
+    },
+    "Description": "From The Economist Intelligence Unit, provides economic, political, and market developments for 195 countries as well as analysis on the implications for business.",
+    "Keywords": {
+      "Country Background": 2,
+      "Demographics": 99,
+      "Export": 2,
+      "Foreign Direct Investment": 1,
+      "Globalization": 11,
+      "Import": 99,
+      "News": 99,
+      "Statistics: International": 3
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.viewswire.com/",
+    "Notes": "",
+    "Title": "EIU Viewswire"
+  },
+  {
+  	"Categories": {},
+  	"Description": "From Duke University, over 3300 ads \"illustrating the rise of consumer culture and the birth of the advertising industry in the US.\"",
+  	"Keywords": {
+      "Advertising": 8
+      },
+  	"Link": "http://library.duke.edu/digitalcollections/eaa/",
+  	"Notes": "",
+  	"Title": "Emergence of Advertising in America, 1850-1920"
+	},
+  {
+    "Categories": {},
+    "Description": "Business reference covering five general areas: finance and banking; accounting; Marketing; management; and information systems. Designed for the non specialist.",
+    "Keywords": {
+      "Accounting": 99,
+      "Encyclopedia": 99,
+      "Management": 99,
+      "Marketing": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps/infomark.do?action=interpret&source=library&actionString=DO_DISPLAY_ABOUT_PAGE&tabID=T002&prodId=GVRL&userGroupName=umd_um&docId=CX3402799999&type=aboutBook&version=1.0&authCount=1&u=umd_um",
+    "Notes": "",
+    "Title": "Encyclopedia of Business and Finance"
+  },
+  {
+    "Categories": {},
+    "Description": "Internet commerce focus. Presents answers to common questions about website development, financing, advertising, etc. Features essays, profiles of the top e-commerce companies, biographies of e-commerce innovators, and covers events and legislation related to e-commerce.",
+    "Keywords": {
+      "E-Commerce": 99,
+      "Encyclopedia": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&inPS=true&prodId=GVRL&userGroupName=umd_um&searchType=BasicSearchForm&docId=GALE%7C9780787677039&contentSegment=9780787677039",
+    "Notes": "",
+    "Title": "Encyclopedia of E-Commerce"
+  },
+  {
+    "Categories": {},
+    "Description": "Designed to provide entrepreneurs with information that can be applied to their own business. Contains detailed articles and overviews of all the key information needs of small business owners &mdash; financing; financial planning; business plan creation; market analysis; sales strategy; tax planning, human resource issues etc.",
+    "Keywords": {
+      "Entrepreneurship": 99,
+      "Human Resource Management": 99,
+      "Small Business": 1,
+      "Taxation": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps/aboutEbook.do?actionString=DO_DISPLAY_ABOUT_PAGE&inPS=true&prodId=GVRL&userGroupName=umd_um&searchType=BasicSearchForm&docId=GALE%7C9780787677251&contentSegment=9780787677251",
+    "Notes": "",
+    "Title": "Encyclopedia of Small Business"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides the world's most comprehensive firm-level data in emerging markets and developing economies for over 120,000 countries. Data are used to create indicators to benchmark quality of the business and investment climate across countries.",
+    "Keywords": {
+      "Country Background": 6,
+      "Doing Business In": 99,
+      "Economic Indicators": 8,
+      "Statistics: International": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.enterprisesurveys.org",
+    "Notes": "",
+    "Title": "Enterprise Surveys"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides links to a wide variety of international business, education, and research web sites.",
+    "Keywords": {
+      "Country Background": 99,
+      "Country Research": 99,
+      "Doing Business In": 99,
+      "International Business": 3
+    },
+    "Link": "http://faculty.philau.edu/russowl/russow.html",
+    "Notes": "",
+    "Title": "Everything International"
+  },
+  {
+    "Categories": {},
+    "Description": "Managed by the International Trade Administration of the U.S. Department of Commerce. Covers U.S. Government resources helpful to American businesses planning international sales strategies.",
+    "Keywords": {
+      "International Business": 99,
+      "International Trade": 5
+    },
+    "Link": "http://www.export.gov/",
+    "Notes": "",
+    "Title": "Export.gov"
+  },
+  {
+    "Categories": {
+      "Company Information": 3,
+      "Finance &amp; Investment": 5,
+      "Industry": 7
+    },
+    "Description": "From Dow Jones. Provides full text access to over 8,000 business sources including national and international newspapers, magazines, wire services, web sites and Industry (trade) sources. Includes coverage of the Wall Street Journal. NOTE: Licensing restrictions limit use to 12 simlutaneous users. If you are unable to access this database, please try again later.",
+    "Keywords": {
+      "Auditing": 2,
+      "Bonds": 5,
+      "Brands": 2,
+      "Ethics": 99,
+      "Career": 4,
+      "Company Profiles and Research": 5,
+      "Competitors": 2,
+      "Corporate Culture": 3,
+      "Consumer Analysis": 8,
+      "Dow Jones Industrial Average": 1,
+      "Employment": 3,
+      "Financial Information": 5,
+      "Globalization": 7,
+      "Industry Analysis": 6,
+      "Industry Classification": 3,
+      "Industry Ratios": 2,
+      "International Trade": 1,
+      "Market Share": 4,
+      "Mergers and Acquisitions": 3,
+      "News": 2,
+      "Operations Management": 2,
+      "S&amp;P 500": 1,
+      "Stocks": 3,
+      "Taxation": 6,
+      "Wall Street Journal": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003Wvf1WFo5DEs5DEmM9YuNTAvODFyMHmnRsIuMcNG1pRRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQAA",
+    "Notes": "",
+    "Title": "Factiva"
+  },
+  {
+    "Categories": {},
+    "Description": "A single point of entry for announcements of federal contract opportunities over $25,000, both in both the civilian and military sectors.",
+    "Keywords": {
+      "Business Opportunities (Government)": 99,
+      "Employment": 99,
+      "Jobs": 99
+    },
+    "Link": "http://www.fbo.gov/",
+    "Notes": "",
+    "Title": "FedBizOpps.gov (Federal Business Opportunities)"
+  },
+  {
+    "Categories": {},
+    "Description": "From the Federal Reserve Bank of St. Louis, FRED is a database of over 45,000 U.S. economic time series in such areas as money, banking, finance, population, employment, labor markets, business activity, national debt, and prices. Data are also available via an Excel download add-in.",
+    "Keywords": {
+      "Consumer Price Index": 5,
+      "Debt": 99,
+      "Demographics": 99,
+      "Econometrics": 2,
+      "Economics Research": 11,
+      "Employment": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://research.stlouisfed.org/fred2/",
+    "Notes": "",
+    "Title": "Federal Reserve Economic Data (FRED)"
+  },
+  {
+    "Categories": {},
+    "Description": "Searchable database of international trade Web resources includes over 8,000 annotated links to International Trade/Import-Export Web sites.",
+    "Keywords": {
+      "Export": 6,
+      "Import": 99,
+      "International Trade": 99
+    },
+    "Link": "http://www.fita.org/webindex/index.html",
+    "Notes": "",
+    "Title": "Federation of International Trade Associations"
+  },
+  {
+    "Categories": {},
+    "Description": "From the Federal Interagency Council on Statistical Policy, provides access to Federal government statistics from more than 100 Federal agencies.",
+    "Keywords": {
+      "Demographics": 99,
+      "Economics Research": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.fedstats.gov/",
+    "Notes": "",
+    "Title": "Fedstats"
+  },
+  {
+    "Categories": {},
+    "Description": "An interdisciplinary, global resource that provides knowledge and understanding of global history, business, finance and politics over the last 120 years. The archive includes all articles, advertisements, photographs and market listings as shown in the context of the regular full page and issue of the day.",
+    "Keywords": {
+      "International Business": 99,
+      "News": 3
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=FTHA",
+    "Notes": "",
+    "Title": "Financial Times Historical Archive (1882-2006)"
+  },
+  {
+    "Categories": {},
+    "Description": "Contains an extensive offering of featured articles about how to start up a small business including legal issues, business plans and funding.",
+    "Keywords": {
+      "Business Plans": 99,
+      "Entrepreneurship": 99,
+      "Law": 99,
+      "Small Business": 2
+    },
+    "Link": "http://smallbusiness.findlaw.com/",
+    "Notes": "",
+    "Title": "FindLaw Small Business Center"
+  },
+  {
+    "Categories": {},
+    "Description": "Includes listings of popular business topics.",
+    "Keywords": {
+      "Rankings": 2
+    },
+    "Link": "http://www.forbes.com/lists/",
+    "Notes": "",
+    "Title": "Forbes Lists"
+  },
+  {
+    "Categories": {},
+    "Description": "Annual ranking of America's largest companies.",
+    "Keywords": {
+      "Rankings": 1
+    },
+    "Link": "http://money.cnn.com/magazines/fortune/fortune500/index.html",
+    "Notes": "",
+    "Title": "Fortune 500"
+  },
+  {
+    "Categories": {},
+    "Description": "Workplace rankings by Great Places to Work",
+    "Keywords": {
+      "Employment": 99,
+      "Jobs": 99,
+      "Rankings": 99
+    },
+    "Link": "http://www.greatplacetowork.com/best-companies/100-best-companies-to-work-for",
+    "Notes": "",
+    "Title": "Fortune's 100 Best Companies to Work For &reg;"
+  },
+  {
+    "Categories": {},
+    "Description": "Leading source of information about philanthropy worldwide. The \"Find Funders\" section links to funding and statistics data; the \"Gain Knowledge\" links to reports on global issues and trends. ",
+    "Keywords": {
+      "Nonprofits": 3,
+      "Philanthropy": 99,
+      "Statistics: International": 99
+    },
+    "Link": "http://www.foundationcenter.org/",
+    "Notes": "",
+    "Title": "Foundation Center"
+  },
+  
+    {
+    "Categories": {},
+    "Description": "The Foundation Directory online is the leading resource in the world of philanthropy. It provides everything about U.S. foundations and their millions of grants around the world. Search up to nine databases at once — grantmakers, companies, grants, 990s, RFPs, philanthropy news, foundation-sponsored publications, nonprofit literature, and jobs. Includes descriptions of more than 100,000 Community Foundations; Corporate Giving Programs, Operating Foundations, Private Grantmaking Foundations (independent and company-sponsored foundations); and Grantmaking Public Charities.",
+    "Keywords": {
+    	"Nonprofits": 1
+    },
+    "Link":  "http://proxy-um.researchport.umd.edu/login?url=http://fconline.foundationcenter.org/ipl.php",
+    "Notes": "",
+    "Title": "Foundation Directory"
+  },
+  
+  {
+    "Categories": {},
+    "Description": "A comprehensive franchise opportunity listing, providing views, news and advice to entrepreneurs and franchisors alike. Browse through their profiles or read about the latest featured franchises.",
+    "Keywords": {
+      "Entrepreneurship": 99,
+      "Franchising": 1,
+      "Small Business": 99
+    },
+    "Link": "http://www.franchisedirect.com/",
+    "Notes": "",
+    "Title": "Franchise Direct"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides an assessment of the economic performance of each of the 12 regional Federal Reserve districts. The report examines economic activity, specifically employment trends, construction and housing activity, retail sales, consumer confidence, and any other relevant information. Archival data is also available.",
+    "Keywords": {
+      "Economic Indicators": 4,
+      "Economic Data: United States": 99,
+      "Economics Research": 99,
+      "Employment": 99
+    },
+    "Link": "http://www.federalreserve.gov/monetarypolicy/beigebook/default.htm",
+    "Notes": "",
+    "Title": "FRB Beige Book"
+  },
+  {
+    "Categories": {},
+    "Description": "Web links to all of the different transportation modes and services related to these modes.",
+    "Keywords": {
+      "Transportation Modes": 1
+    },
+    "Link": "http://www.freightworld.com/",
+    "Notes": "",
+    "Title": "Freight World"
+  },
+  {
+    "Categories": {},
+    "Description": "A collection of actual business plans compiled by entrepreneurs seeking funding for small businesses.",
+    "Keywords": {
+    	"Business Plans": 1
+    },
+    "Link":  "http://proxy-um.researchport.umd.edu/login?url=http://go.galegroup.com/ps?p=GVRL.bphandbooks&u=umd_um",
+    "Notes": "",
+    "Title": "Gale Business Plans Handbooks"
+  },
+  {
+    "Categories": {},
+    "Description": "Searchable database of Gallup Poll questions and answers, with data from 1935-present.",
+    "Keywords": {
+      "Polls": 99,
+      "Surveys": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://institution.gallup.com",
+    "Notes": "",
+    "Title": "Gallup Brain"
+  },
+  {
+    "Categories": {},
+    "Description": "The Gartner Group is a leading provider of market research reports, specializing in the information technology (IT) industries. Gartner provides statistics, forecasts and market analysis on all categories of Information Technology. It covers vendors, end-users, technology, markets and trends. NOTE: Use of the Gartner Group database is restricted to UMCP current faculty, staff and students and requires a secondary authentication.",
+    "Keywords": {
+      "Industry Analysis": 3,
+      "Industry Overview": 5,
+      "Industry Trends": 5,
+      "Technology": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=https://researchport.umd.edu/shib/CP/Gartner/gartner.cgi",
+    "Notes": "",
+    "Title": "Gartner Group"
+  },
+  {
+    "Categories": {},
+		"Description": "Directory of more than 10,000 organizations - search by association name or keyword",
+		"Keywords": {
+      "Associations": 4
+    	},
+    "Link": "http://www.asaecenter.org/Community/Directories/AssociationSearch.cfm",
+    "Notes": "",
+    "Title": "Gateway to Associations - American Society of Association Executives (ASAE)"
+  },
+  {
+    "Categories": {},
+    "Description": "From the World Bank provides direct access to more than 200 debt and financial flows indicators for the 129 countries that report public and publicly-guaranteed debt to the World Bank Debtor Reporting System. These data begin in 1970.",
+    "Keywords": {
+      "Country Background": 99,
+      "Country Data": 99,
+      "Debt": 99,
+      "Doing Business In": 99,
+      "International Business": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://databank.worldbank.org/ddp/home.do?Step=12&id=4&CNO=2",
+    "Notes": "",
+    "Title": "Global Development Finance"
+  },
+  {
+    "Categories": {},
+    "Description": "From the World Bank provides daily and monthly commentary on global economic conditions along with direct access to high frequency data that is refreshed daily. It provides analysis of current economic trends, economic, financial and commodity data indicators, an extensive database including growth and commodity forecasts.",
+    "Keywords": {
+      "Economics Research": 12,
+      "International Business": 99,
+      "Statistics: International": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://externalization.worldbank.org/external/default/main?contentMDK=21119307&menuPK=2880787&pagePK=64691887&piPK=64691875&theSitePK=2880771",
+    "Notes": "",
+    "Title": "Global Economic Monitor (GEM)"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides coverage of U.S. and international financial, economic, and Industry data, covering 120 industries and 200 countries. Data available covers balance of payments, cyclical indicators, finance and financial markets, government finance, housing and construction, output/capacity/capacity utilization, merchandise trade, national accounts, labor market, population, prices, and wholesale and retail trade. ",
+    "Keywords": {
+      "Consumer Price Index": 6,
+      "Economic Indicators": 9,
+      "Employment": 4,
+      "Export": 3,
+      "Foreign Direct Investment": 2,
+      "Gross Domestic Product (GDP)": 1,
+      "Gross National Income (GNI)": 1,
+      "Import": 99,
+      "Industry Analysis": 9,
+      "International Trade": 4
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://myinsight.globalinsight.com/servlet/cats?pageContent=home&imask=1",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+    "Title": "Global Insight (IHS) DataInsight Web"
+  },
+  {
+    "Categories": {},
+    "Description": "Portal pages organize and present full-text articles from newspapers, magazines, and academic journals, encyclopedia entries, primary resources such as podcasts and speeches, videos, maps, images, websites, and statistics.",
+    "Keywords": {
+      "Globalization": 4,
+      "International Affairs": 99,
+      "News": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=GIC",
+    "Notes": "",
+    "Title": "Global Issues in Context"
+  },
+  {
+    "Categories": {},
+    "Description": "From Michigan State University's Broad College of Business. Contains a wealth of information on all countries, in-depth analysis of selected industries, teaching resources, etc. Free access, but registration will provide additional information.",
+    "Keywords": {
+      "Country Data": 99,
+      "Culture": 2,
+      "Doing Business In": 6,
+      "Economic Indicators": 10,
+      "Export": 7,
+      "Import": 99,
+      "International Business": 99,
+      "International Law": 2,
+      "International Trade": 6,
+      "News": 7,
+      "Statistics: International": 99
+    },
+    "Link": "http://globaledge.msu.edu/",
+    "Notes": "",
+    "Title": "GlobalEdge"
+  },
+  {
+    "Categories": {},
+    "Description": "From Emory University. Developed by sociology faculty. Use the table of contents to find news items as well as information on people, issues and organizations related to globalization.",
+    "Keywords": {
+      "Globalization": 8,
+      "International Business": 99,
+      "News": 99
+    },
+    "Link": "http://www.sociology.emory.edu/globalization/",
+    "Notes": "",
+    "Title": "Globalization Website"
+  },
+  {
+    "Categories": {},
+    "Description": "Searches selected scholarly information across many disciplines and sources, including books, articles, theses. Use the \"FindIt@UMCP\" link to obtain full text of an article or to find out how else to access it. See also: <a href=\"http://www.lib.umd.edu/tl/google-scholar\">Making Google Scholar Work for You</a>.",
+    "Keywords": {
+      "Economics Research": 99,
+      "Human Resource Management": 99,
+      "Leadership": 7,
+      "Logistics": 5,
+      "Management": 99,
+      "Marketing": 99,
+      "Operations Management": 99,
+      "Social Entrepreneurship": 99,
+      "Technology": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://scholar.google.com",
+    "Notes": "",
+    "Title": "Google Scholar"
+  },
+  {
+    "Categories": {},
+    "Description": "Online translation service. Translate website, abstracts, phrases, etc. from one language to another.",
+    "Keywords": {},
+    "Link": "http://translate.google.com/",
+    "Notes": "",
+    "Title": "Google Translator"
+  },
+  {
+    "Categories": {},
+    "Description": "From the Harvard Business School, this resource is \"an effort to identify and chronicle the lives of 20th century men and women whose business leadership shaped the ways that people live, work, and interact\". Data is available in Excel format by request.",
+    "Keywords": {
+      "Biography": 99
+    },
+    "Link": "http://www.hbs.edu/leadership/database/",
+    "Notes": "",
+    "Title": "Great American Business Leaders of the Twentieth Century"
+  },
+  {
+    "Categories": {},
+    "Description": "Searchable database with information on nonprofits, including their \"mission, programs, leaders, goals, accomplishments, and needs.\"",
+    "Keywords": {
+      "Nonprofits": 2,
+      "Rankings": 3
+    },
+    "Link": "http://www2.guidestar.org/",
+    "Notes": "",
+    "Title": "GuideStar"
+  },
+  {
+    "Categories": {},
+    "Description": "Survey articles by leading Economics scholars arranged into 28 volumes by broad topic. NOTE: To access volumes, click on \"full text access\" below the title, NOT on the volume number.",
+    "Keywords": {
+      "Economic Indicators": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.elsevier.com/wps/find/S04.cws_home/books",
+    "Notes": "",
+    "Title": "Handbooks in Economics"
+  },
+  {
+    "Categories": {},
+    "Description": "The handbook of statistics, ongoing series of volumes.v.1 (1980)- present. Each volume is devoted to a particular topic in statistics – “presenting the various aspects of statistical methodology applications and recent developments”.",
+    "Keywords": {},
+    "Link":  "http://proxy-um.researchport.umd.edu/login?url=http://www.sciencedirect.com/science/book/9780444534385",
+    "Notes": "",
+    "Title": "Handbook of Statistics"
+  },
+  {
+    "Categories": {},
+    "Description": "From the United States International Trade Commission. HTS codes are 6-digit identification codes assigned to all Products imported into the United States.",
+    "Keywords": {
+      "International Business": 99,
+      "International Trade": 99,
+      "Product Codes": 1
+    },
+    "Link": "http://www.usitc.gov/tata/hts/bychapter/index.htm",
+    "Notes": "",
+    "Title": "Harmonized Tariff Schedule (HTF) Codes"
+  },
+  {
+    "Categories": {},
+    "Description": "The standard source for quantitative indicators of American history, includes statistics from over 1000 sources.",
+    "Keywords": {
+      "Statistics: United States": 9
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://hsus.cambridge.org",
+    "Notes": "",
+    "Title": "Historical Statistics of the United States"
+  },
+  {
+    "Categories": {
+      "Company Information": 1,
+      "Finance &amp; Investment": 4,
+      "Industry": 3
+    },
+    "Description": "Provides comprehensive Company and Industry profiles, in-depth financials, Company overviews and histories, information on competitors, Products, services and operations. \"Build a List\" option allows screening for companies based on several variables.",
+    "Keywords": {
+      "Annual Reports": 2,
+      "Associations": 1,
+      "Biography": 1,
+      "Company Profiles and Research": 1,
+      "Competitors": 1,
+      "Financial Information": 2,
+      "Industry Analysis": 4,
+      "Industry Classification": 4,
+      "Industry Overview": 3,
+      "Industry Trends": 3,
+      "Jobs": 99,
+      "Manufacturing": 2,
+      "SEC Filings": 99,
+      "Stocks": 4
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.mergentonline.com/Hoovers",
+    "Notes": "",
+    "Title": "Hoover's Online"
+  },
+  {
+    "Categories": {},
+    "Description": "From the United Nations an annual \"In depth analysis and policy recommendations on a specific and important aspect of international development\", includes statistical factsheets on many of the world's countries.",
+    "Keywords": {
+      "Country Background": 99,
+      "Country Data": 99,
+      "Country Research": 99,
+      "Doing Business In": 99,
+      "International Business": 99,
+      "Statistics: International": 99
+    },
+    "Link": "http://hdr.undp.org/en/countries/",
+    "Notes": "",
+    "Title": "Human Development Report"
+  },
+  {
+    "Categories": {
+      "Economics": 4,
+      "Industry": 1,
+      "Marketing": 2
+    },
+    "Description": "Provides Industry market research reports on U.S. industries, US Specialized Industries, China Industries, Global Industries, U.S. Risk Ratings, and U.S. Business Environment Profiles, also available through SmithApps.",
+    "Keywords": {
+      "Career": 3,
+      "Competitors": 3,
+      "Consumer Analysis": 5,
+      "Economic Indicators": 5,
+      "Industry Analysis": 1,
+      "Industry Classification": 5,
+      "Industry Overview": 1,
+      "Industry Trends": 1,
+      "Market Share": 2,
+      "Market Size": 1,
+      "Risk": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.ibisworld.com/",
+    "Notes": "",
+    "Title": "IBISWorld"
+  },
+  {
+    "Categories": {},
+    "Description": "Links to nonprofit, volunteering, Career, and funding resources, includes job and internship opportunities.",
+    "Keywords": {
+      "Associations": 6,
+      "Jobs": 1,
+      "Nonprofits": 9
+    },
+    "Link": "http://www.idealist.org/",
+    "Notes": "",
+    "Title": "Idealist"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides coverage of U.S. and international financial, economic, and Industry data, covering 120 industries and 200 countries. Data available covers balance of payments, cyclical indicators, finance and financial markets, government finance, housing and construction, output/capacity/capacity utilization, merchandise trade, national accounts, labor market, population, prices, and wholesale and retail trade.",
+    "Keywords": {
+      "Economic Data: International": 99,
+      "Economic Data: United States": 99,
+      "Economics Research": 99,
+      "Financial Information": 10
+    },
+    "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.  If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+    "Title": "IHS Global Insight &ndash; DataInsight Web"
+  },
+  {
+    "Categories": {},
+    "Description": "Independent Sector is the leadership network for nonprofits, foundations, and corporate giving programs. Helps organizations maintain the highest standards of ethics and accountability in a new online Resource Center for Good Governance and Ethical Practice; Offers organizations hundreds of free examples of effective practice and tools, as well as other resources from around the country to guide their work; Collects data on nonprofit organizations.",
+    "Keywords": {
+      "Nonprofits": 99
+    },
+    "Link": "http://www.independentsector.org/",
+    "Notes": "",
+    "Title": "Independent Sector"
+  },
+  {
+    "Categories": {},
+    "Description": "From the World Bank, provides key data on information and communications technologies, with sections on economic and social context, ICT sector structure, and ICT sector performance.",
+    "Keywords": {
+      "Statistics: International": 5,
+      "Technology": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://go.worldbank.org/7S1VU9WNZ0",
+    "Notes": "",
+    "Title": "Information and Communication Technologies (ICT) At-A-Glance Tables"
+  },
+  {
+    "Categories": {},
+    "Description": "NYSE/AMEX/NASD Trade and Quote Database covering 1983-1992.",
+    "Keywords": {
+      "Financial Information": 11,
+      "Investment and Securities": 7,
+      "Stock Exchange": 5,
+      "Stocks": 99
+    },
+    "Link": "http://smithapps.rhsmith.umd.edu/",
+    "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+    "Title": "Institute for the Study of Security Markets (ISSM)"
+  },
+  {
+    "Categories": {},
+    "Description": "",
+    "Keywords": {
+      "Culture": 3,
+      "Doing Business In": 99
+    },
+    "Link": "http://cyborlink.com/besite/",
+    "Notes": "",
+    "Title": "International Business, Etiquette and Manners"
+  },
+  {
+    "Categories": {},
+    "Description": "From the World Bank, provides a collection of comparative price data and detailed expenditure values of countries gross domestic Products (GDP), and purchasing power parities (PPPs) estimates of the world's economies.",
+    "Keywords": {
+      "Country Data": 99,
+      "Economics Research": 13,
+      "Gross Domestic Product (GDP)": 3,
+      "Statistics: International": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.worldbank.org/data/icp",
+    "Notes": "",
+    "Title": "International Comparison Program"
+  },
+  {
+    "Categories": {},
+    "Description": "From the International Monetary Fund. Covers all aspects of international and domestic finance, includes full-text statistical data from 1996-present.",
+    "Keywords": {
+      "Country Data": 99,
+      "Economics Research": 99,
+      "Statistics: International": 4
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.imfstatistics.org",
+    "Notes": "",
+    "Title": "International Financial Statistics"
+  },
+  {
+  	"Categories": {},
+		"Description": "Contains over 2000 Internet sites including a wide variety of professional and trade associations, cultural and art organizations, political parties and advocacy groups, labor unions, academic societies, and research institutions.",
+		"Keywords": {
+      "Associations": 3
+    	},
+    "Link": "http://www.ipl.org/div/aon/",
+    "Notes": "The Regents of the University of Michigan",
+    "Title": "Internet Public Library Associations on the Net"
+  },
+  {
+    "Categories": {},
+    "Description": "From the World Bank. Provides external debt data and selected foreign assets from international creditor/market and national debtor sources.",
+    "Keywords": {
+      "Country Data": 99,
+      "Debt": 1,
+      "Economics Research": 99,
+      "Statistics: International": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.jedh.org/jedh_home.html",
+    "Notes": "",
+    "Title": "Joint External Debt Hub (JEDH)"
+  },
+  {
+    "Categories": {},
+    "Description": "Electronic archive of core journals in the humanities, social sciences, and sciences, covers journals with full-text of all articles published prior to the most current five years.",
+    "Keywords": {
+      "Economics Research": 99,
+      "Employment": 99,
+      "Human Resource Management": 99,
+      "International Affairs": 99,
+      "Management": 99,
+      "Marketing": 99,
+      "Operations Management": 99,
+      "Social Entrepreneurship": 99,
+      "Technology": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.jstor.org/",
+    "Notes": "",
+    "Title": "JSTOR"
+  },
+  {
+    "Categories": {},
+    "Description": "Guide to international etiquette, culture, customs and protocol.",
+    "Keywords": {
+      "Country Research": 99,
+      "Culture": 1,
+      "Doing Business In": 99,
+      "International Business": 99
+    },
+    "Link": "http://www.kwintessential.co.uk/resources/country-profiles.html",
+    "Notes": "",
+    "Title": "Kwintessential Country Profiles"
+  },
+  {
+    "Categories": {},
+    "Description": "Maintained by the University of Texas at Austin, Latin American Network Information Center provides access to country information for Mexico, Central America, South America and the Caribbean.",
+    "Keywords": {
+      "Country Data": 99,
+      "Country Research": 99,
+      "Culture": 99,
+      "Doing Business In": 99,
+      "International Business": 1,
+      "News": 99
+    },
+    "Link": "http://lanic.utexas.edu/las.html",
+    "Notes": "",
+    "Title": "LANIC"
+  },
+  {
+    "Categories": {},
+    "Description": "Links to federal, state and local laws and regulations.",
+    "Keywords": {
+      "Law": 99,
+      "Regulations": 2
+    },
+    "Link": "http://www.usa.gov/Topics/Reference_Shelf/Laws.shtml",
+    "Notes": "",
+    "Title": "Laws and Regulations: General Reference Sources"
+  },
+  {
+    "Categories": {},
+    "Description": "The Legal Information Institute (LII) provides electronic versions of core materials in numerous areas of the law both online and packaged for download.",
+    "Keywords": {
+      "Law": 99,
+      "Regulations": 99
+    },
+    "Link": "http://www.law.cornell.edu/",
+    "Notes": "",
+    "Title": "Legal Information Institute at Cornell University"
+  },
+  {
+    "Categories": {
+      "Company Information": 4,
+      "Finance &amp; Investment": 6
+      },
+    "Description": "Covers business topics from local, regional and national newspapers, some trade publications, business magazines, SEC filings, some reference sources, key accounting sources, legal information as well as SWOT analysis. To find SWOT analysis information: (1) From 'Search by Content Type' (top right side of screen above search box), click on down arrow to select 'Company Profiles'; (2) click on 'Advanced Options'; (3) in the 'Build Your Own Segment' search box, enter the company of your choice and the type of publication in the following form (for example): 'Company(Microsoft) and Publication(SWOT)'; (4) click 'Apply'; (5) click 'Search'.",
+    "Keywords": {
+      "Accounting": 2,
+      "Annual Reports": 3,
+      "Biography": 4,
+      "Company Profiles and Research": 6,
+      "Economics Research": 14,
+      "Employment": 99,
+      "Industry Analysis": 7,
+      "Law": 99,
+      "Mergers and Acquisitions": 4,
+      "News": 1,
+      "SWOT": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.lexisnexis.com/us/lnacademic",
+    "Notes": "Does NOT include access the Wall Street Journal (WSJ). The WSJ is contained in Factiva and National Newspapers Core.",
+    "Title": "LexisNexis Academic"
+  },
+  {
+    "Categories": {},
+    "Description": "Full-text of bills and laws, constitutions, proposed and enacted regulations, legislature membership, newspapers of record, for all 50 states. May be searched by individual state, any combination of states, or all 50 states at once.",
+    "Keywords": {
+      "Law": 99,
+      "Regulations": 1
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.lexisnexis.com/stcapuniv",
+    "Notes": "",
+    "Title": "LexisNexis State Capital"
+  },
+  {
+    "Categories": {},
+    "Description": "An interactive benchmarking tool created to help countries identify the challenges and opportunities they face in their performance of trade logistics and what they can do to improve their performance.",
+    "Keywords": {
+      "International Trade": 99,
+      "Logistics": 6
+    },
+    "Link": "http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTTRANSPORT/EXTTLF/0,,contentMDK:21514122~menuPK:3875957~pagePK:210058~piPK:210062~theSitePK:515434,00.html",
+    "Notes": "",
+    "Title": "Logistics Performance Index (LPI)"
+  },
+  {
+    "Categories": {},
+    "Description": "The most comprehensive and valuable collection in existence for researching the literature of Economics and business dating from the last half of the 15th century to the early 20th century. The collection combines two pre-eminent collections: the Goldsmiths' Library of Economic Literature at the University of London, England, and the Kress Library of Business and Economics at the Harvard University Graduate School of Business Administration.",
+    "Keywords": {
+      "Economics Research": 15
+    },
+    "Link": "http://researchport.umd.edu/V/N9TF6DDJ5Q69HV4XY44IQQNER1KVEHDAP2KPYJV12I4U43U1EA-39686?func=native-link&resource=UMD08056",
+    "Notes": "",
+    "Title": "Making of the Modern World: The Goldsmiths-Kress Library of Economic Literature 1450-1850"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Commercial Service, provides market research reports searchable by Industry, region or country. Note: You must create a free account in order to access these reports.",
+    "Keywords": {
+      "Country Research": 99,
+      "Marketing": 1,
+      "News": 99
+    },
+    "Link": "http://www.buyusainfo.net/",
+    "Notes": "",
+    "Title": "Market Research Library"
+  },
+  {
+    "Categories": {},
+    "Description": "Comprehensive, comparative, and multidimensional study of reform in the former Communist states of Europe and Eurasia - tracking the reform record. [Note: Formerly called Freedom of the Press.]",
+    "Keywords": {
+      "Country Research": 99,
+      "Globalization": 12,
+      "International Affairs": 99
+    },
+    "Link": "http://www.freedomhouse.org/report/nations-transit/nations-transit-2012",
+    "Notes": "",
+    "Title": "Media Freedom: Freedom House - Nations in Transit - Country Reports"
+  },
+  {
+    "Categories": {
+      "Marketing": 5
+      },
+    "Description": "Raw data about the demographics and lifestyles of consumers and media audiences. Information includes consumer demographics, psychographics/lifestyles, Product and brand usage, media preferences. Note: First time users must register using UMD email domain. To register, go to Mediamark, click on Register for a FREE Account, and follow instructions. A brief tutorial, (http://www.gfkmri.com/PDF/University%20Internet%20Reporter%20Tutorial.pdf) is available from Mediamark Research.",
+    "Keywords": {
+      "Consumer Analysis": 4,
+      "Lifestyles": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.mriplus.com/",
+    "Notes": "",
+    "Title": "Mediamark (MRI+)"
+  },
+  {
+    "Categories": {},
+    "Description": "Offers a wealth of detailed company information: history, property, subsidiaries, officers and directors, long-term debt, fixed income and capital stock for U.S. and international companies. Mergent Online also has economic data and information on over 20 million private companies from Dun &amp; Bradstreet's Private Company Database. Financial statements going back 15 years are presented in \"as-reported\" form and in native currencies. Also includes the D&amp;B Private Company database.",
+    "Keywords": {
+      "Company Profiles and Research": 9,
+      "Competitors": 4,
+      "Debt": 99,
+      "Financial Information": 8,
+      "Investment and Securities": 8
+    },
+    "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+    "Title": "Mergent Online"
+  },
+  {
+    "Categories": {},
+    "Description": "Offers a comprehensive library of documents that includes Company annual reports, prospectuses, Industry reports and other Company related documents. Also covers 50,000 global companies from over 100 countries. Data begins in 1910.",
+    "Keywords": {
+      "Annual Reports": 6,
+      "Company Profiles and Research": 10,
+      "Competitors": 5,
+      "Industry Analysis": 99,
+      "Industry Overview": 4,
+      "International Business": 99,
+      "Investment and Securities": 9
+    },
+    "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.  If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+    "Title": "Mergent WebReports"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides metropolitan rankings list by population, income, unemployment rate, federal funds and grants, and housing, etc. Report uses a set of 16 economic indicators to assess the 50 largest metropolitan areas' progress.",
+    "Keywords": {
+      "Economics Research": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.research.fsu.edu/techtransfer/documents/mnei.pdf",
+    "Notes": "",
+    "Title": "Metropolitan New Economy Index"
+  },
+  {
+    "Categories": {
+      "Marketing": 1,
+      "Industry": 6
+      },
+    "Description": "Provides full-text reports on a wide range of market research studies, analyzing market sizes and trends, market segmentation, consumer attitudes and purchasing habits, opportunities, weaknesses and the future of the market. Note: To download reports, authorized users are required to create a personal account.",
+    "Keywords": {
+      "Advertising": 3,
+      "Competitors": 6,
+      "Consumer Analysis": 1,
+      "Industry Trends": 4,
+      "Lifestyles": 1,
+      "Market Size": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://academic.mintel.com/",
+    "Notes": "",
+    "Title": "Mintel"
+  },
+  {
+    "Categories": {
+      "Finance &amp; Investment": 1
+      },
+    "Description": "Morningstar's data and analyst reports cover more than 20,000 securities, including stocks and mutual funds.",
+    "Keywords": {
+      "Analyst Reports": 1,
+      "Company Profiles and Research": 3,
+      "Financial Information": 19,
+      "Investment and Securities": 1,
+      "Mutual Funds": 99,
+      "Stocks": 1
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://library.morningstar.com/",
+    "Notes": "Licensing restrictions limit use to 4 simultaneous users. If you are unable to access this database, please try again later. Screening for stocks and mutual funds available using many different data points.",
+    "Title": "Morningstar"
+  },
+  {
+    "Categories": {},
+    "Description": "\"Global investment analysis uniting all of Morningstar's data and institutional research\"; software allows for the creation of customized reports and presentations. Morningstar Direct provides complete coverage of Morningstar's global investment database and analytics, including worldwide investment data and global market indexes. It has hundreds of financial variables including portfolio and ownership data for thousands of worldwide hedge-funds, open and closed-end funds, exchange traded funds, insurance/life products, U.S. variable annuities and life policies, and 529 plans. In addition, it includes details on 28,000 publicly traded stocks.",
+    "Keywords": {
+      "Analyst Reports": 5,
+      "Company Profiles and Research": 8,
+      "Investment and Securities": 10,
+      "Mutual Funds": 99,
+      "Stocks": 99
+    },
+    "Link": "",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.  If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+    "Title": "Morningstar Direct"
+  },
+  {
+    "Categories": {},
+    "Description": "The official web site for the Nasdaq electronic stock market.",
+    "Keywords": {
+      "Stock Exchange": 1,
+      "Stocks": 99
+    },
+    "Link": "http://www.nasdaq.com/",
+    "Notes": "",
+    "Title": "NASDAQ"
+  },
+  {
+    "Categories": {},
+    "Description": "Focus on developing \"new statistical measurements, assessing the effects of public policies on the U.S. economy, estimating quantitative models of economic behavior, and projecting the effects of alternative policy proposals.\"",
+    "Keywords": {
+      "Economic Indicators": 2,
+      "Economics Research": 99,
+      "Public Policy": 99
+    },
+    "Link": "http://www.nber.org/",
+    "Notes": "",
+    "Title": "National Bureau of Economic Research (NBER)"
+  },
+  {
+    "Categories": {},
+    "Description": "National clearinghouse of data on the nonprofit sector in the United States.",
+    "Keywords": {
+      "Nonprofits": 6,
+      "Statistics: United States": 99
+    },
+    "Link": "http://nccs.urban.org/",
+    "Notes": "",
+    "Title": "National Center for Charitable Statistics (NCCS)"
+  },
+  {
+    "Categories": {},
+    "Description": "The National Council of Nonprofits serves as the national voice for its nonprofit members before Congress and within the Administration. The council conducts research and analyzes information to improve the public's understanding about nonprofits.",
+    "Keywords": {
+      "Nonprofits": 7
+    },
+    "Link": "http://www.councilofnonprofits.org/salocator",
+    "Notes": "",
+    "Title": "National Council of Nonprofits"
+  },
+  {
+    "Categories": {},
+    "Description": "Covers Wall Street Journal, Christian Science Monitor, The New York Times, The Sun (Baltimore), and The Washington Post.",
+    "Keywords": {
+      "News": 99,
+      "Wall Street Journal": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://proquest.umi.com/login?COPT=SU5UPTAmVkVSPTImREJTPUc1&clientId=41143",
+    "Notes": "",
+    "Title": "National Newspapers"
+  },
+  {
+    "Categories": {},
+    "Description": "National statistics for just about any country in the world, presented in over 20 categories and 10 regions, including Asia and South East Asia.",
+    "Keywords": {
+      "Country Data": 99,
+      "Country Research": 99,
+      "Doing Business In": 99,
+      "Economic Indicators": 99,
+      "Economics Research": 99,
+      "Globalization": 9,
+      "Statistics: International": 6
+    },
+    "Link": "http://www.nationmaster.com/index.php",
+    "Notes": "",
+    "Title": "NationMaster.com"
+  },
+  {
+    "Categories": {},
+    "Description": "Considered one of the most extensive and authoritative Economics reference resources available. It contains over 1,850 articles by more than 1,500 of the world's leading economists.",
+    "Keywords": {
+      "Dictionaries": 99,
+      "Economics Research": 16
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.dictionaryofEconomics.com/advanced_search",
+    "Notes": "",
+    "Title": "New Palgrave Dictionary of Economics"
+  },
+  {
+    "Categories": {},
+    "Description": "\"information and services for nonprofits, including grants, loans, assistance, taxes, management and more\".",
+    "Keywords": {
+      "Nonprofits": 5
+    },
+    "Link": "http://www.usa.gov/Business/Nonprofit.shtml",
+    "Notes": "",
+    "Title": "Nonprofits: USA.gov"
+  },
+  {
+    "Categories": {},
+    "Description": "[U.S. Census Bureau] NAICS is the current Industry classification that was developed jointly by the U.S., Canada, and Mexico to provide new comparability in statistics about business activity across North America. There is a 2002 version of NAICS and the initial 1997 version of NAICS.",
+    "Keywords": {
+      "Industry Classification": 1,
+      "NAICS Code": 99
+    },
+    "Link": "http://www.census.gov/eos/www/naics/",
+    "Notes": "",
+    "Title": "North American Industry Classification System (NAICS)"
+  },
+  {
+    "Categories": {},
+    "Description": "Official website of the New York stock exchange.",
+    "Keywords": {
+      "Stock Exchange": 2,
+      "Stocks": 99
+    },
+    "Link": "http://nyse.nyx.com/",
+    "Notes": "",
+    "Title": "NYSE &ndash; New York Stock Exchange"
+  },
+  {
+    "Categories": { },
+    "Description": "From the Bureau of Labor Statistics, provides information on a variety of occupational categories - starting salaries, working conditions, nature of the work, training, and more.",
+    "Keywords": {
+      "Career": 1,
+      "Employment": 99,
+      "Jobs": 99,
+      "Training": 99
+    },
+    "Link": "http://stats.bls.gov/ooh/",
+    "Notes": "",
+    "Title": "Occupational Outlook Handbook"
+  },
+  {
+    "Categories": {},
+    "Description": "Collection of \"free statistics from official sources\" from around the world. Can be searched by country, region and topic or Industry.",
+    "Keywords": {
+      "Country Data": 99,
+      "Country Research": 99,
+      "Statistics: International": 7
+    },
+    "Link": "http://www.offstats.auckland.ac.nz/",
+    "Notes": "",
+    "Title": "OffStats &ndash; Official Statistics on the Web"
+  },
+  {
+    "Categories": {},
+    "Description": "A portal to the countries of the world - each country listed contains a country profile with facts and figures, geography, flag, statistics, maps, images, plus links to sources that provide more information such as: official government web sites, newspapers, tourism, travel advice, etc.",
+    "Keywords": {
+      "Country Background": 7,
+      "Country Data": 99,
+      "Country Research": 99,
+      "Statistics: International": 99
+    },
+    "Link": "http://www.nationsonline.org/",
+    "Notes": "",
+    "Title": "One World &ndash; Nations Online"
+  },
+  {
+    "Categories": {},
+    "Description": "Fulltext database covering social issues with topic overviews and pro/con viewpoints. Sources include news journal articles magazines media maps websites and statistics.",
+    "Keywords": {
+      "Controversial Issues": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=OVIC",
+    "Notes": "",
+    "Title": "Opposing Viewpoints in Context"
+  },
+  {
+    "Categories": {},
+    "Description": "\"Comprehensive source of historical price and implied volatility data for the US equity and index options markets\".",
+    "Keywords": {
+      "Investment and Securities": 12,
+      "Options": 99
+    },
+    "Link": "",
+    "Notes": "Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>",
+    "Title": "OptionMetrics"
+  },
+  {
+    "Categories": {},
+    "Description": "An overview of Bureau of Labor Statistics data.",
+    "Keywords": {
+      "Industry Analysis": 99,
+      "Statistics: United States": 10
+    },
+    "Link": "http://www.bls.gov/bls/Industry.htm",
+    "Notes": "",
+    "Title": "Overview of BLS Statistics by Industry"
+  },
+  {
+    "Categories": {},
+    "Description": "Over 900 articles from leading scholars with extensive bibliographies. Covers all time periods of human history and includes strong coverage of individual countries, regions, industries and economic concepts.",
+    "Keywords": {
+      "Country Research": 99,
+      "Doing Business In": 99,
+      "Economics Research": 17,
+      "Encyclopedia": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.oxfordreference.com/view/10.1093/acref/9780195105070.001.0001/acref-9780195105070",
+    "Notes": "",
+    "Title": "Oxford Encyclopedia of Economic History"
+  },
+  {
+  	"Categories": {},
+  	"Description": "This section will help entrepreneurs to explore different financing options. It lists descriptions of some of the major sources of financing options and when to use them.",
+  	"Keywords": {
+      "Business Financing": 1
+      },
+  	"Link": "http://www.morebusiness.com/running_your_business/financing/overview.brc",
+  	"Notes": "",
+  	"Title": "An Overview of Financing Options"
+	},
+  {
+    "Categories": {},
+    "Description": "The Panel Study of Income Dynamics - PSID - is the longest running longitudinal household survey in the world. The PSID began in 1968 with a nationally representative sample of over 18,000 individuals living in 5,000 families in the United States. Information on these individuals and their descendants has been obtained through various data collection efforts. Data includes employment, income, wealth, expenditures, health, marriage, childbearing, child development, philanthropy, education, and numerous other topics. A majority of data is publicly available for free.",
+    "Keywords": {
+      "Employment": 99,
+      "Philanthropy": 99,
+      "Polls": 99,
+      "Statistics: United States": 99,
+      "Surveys": 99
+    },
+    "Link": "http://psidonline.isr.umich.edu/default.aspx",
+    "Notes": "",
+    "Title": "Panel Study of Income Dynamics (PSID)"
+  },
+  {
+    "Categories": {
+      "Country Information": 3,
+      "Industry": 5
+      },
+    "Description": "Provides comparative statistics for 205 countries on economic indicators, health, foreign trade, environment, lifestyle, industrial and agricultural output, communications, and more. Also includes market size data for over 300 consumer products and services.",
+    "Keywords": {
+      "Consumer Analysis": 6,
+      "Country Research": 99,
+      "Doing Business In": 2,
+      "Economic Data: International": 99,
+      "Industry Analysis": 8,
+      "Statistics: International": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.portal.euromonitor.com",
+    "Notes": "This resource requires a campus login for access.",
+    "Title": "Passport"
+  },
+  {
+    "Categories": {},
+    "Description": "[Compiled by James C. Miller, Patent and Trademark Librarian at UMD] Lists University of Maryland collections, Internet resources, and DVD/CD-ROM databases on patent and trademark.",
+    "Keywords": {
+      "Patents and Trademarks": 1
+    },
+    "Link": "http://lib.guides.umd.edu/patent_tm",
+    "Notes": "",
+    "Title": "Patents and Trademarks"
+  },
+  {
+    "Categories": {},
+    "Description": "[U.S. Census Bureau] Statistics on births, education, income, immigration, Industry, language use, occupation, etc.",
+    "Keywords": {
+      "Demographics": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.census.gov/people/",
+    "Notes": "",
+    "Title": "Population and Household"
+  },
+  {
+    "Categories": {},
+    "Description": "Explanation of Michael Porter's Five Forces",
+    "Keywords": {
+      "Business Planning": 99,
+      "Competitors": 8,
+      "Human Resource Management": 99,
+      "Industry Analysis": 99
+    },
+    "Link": "http://www.mindtools.com/pages/article/newTMC_08.htm",
+    "Notes": "",
+    "Title": "Porter's Five Forces: Assessing the Balance of in a Business Situation"
+  },
+  {
+    "Categories": {},
+    "Description": "Comprehensive listing of marine transportation links by country.",
+    "Keywords": {
+      "Logistics": 7,
+      "Ports": 99,
+      "Transportation Modes": 2
+    },
+    "Link": "http://portfocus.com/",
+    "Notes": "",
+    "Title": "PortFocus: Ports Harbours Marinas Worldwide"
+  },
+  {
+  	"Categories": {},
+  	"Description": "[Wellesley Hills, Mass. : Venture Economics, Inc., c1984- . Annual.]<br />\"Directory of over 800 American and Canadian venture capital companies\"<br />Mck Reference HG65.P73",
+  	"Keywords": {
+      "Business Financing": 3
+      },
+  	"Link": "",
+  	"Notes": "Print only.",
+  	"Title": "Pratt's Guide to Venture Capital Sources"
+	},
+  {
+    "Categories": {},
+    "Description": "The MoneyTree Report is a quarterly study of venture capital investment activity in the United States providing information on emerging companies that receive financing and the venture capital firms that provide it.",
+    "Keywords": {
+      "Business Financing": 4,
+      "Venture Capital": 99
+    },
+    "Link": "http://www.pwcmoneytree.com/MTPublic/ns/index.jsp",
+    "Notes": "",
+    "Title": "PricewaterhouseCoopers: MoneyTree Report"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides comprehensive coverage in psychology and psychology-related fields: brand preferences, consumer attitudes and behavior, decision making, leadership, management, training - are just some business related topics. ",
+    "Keywords": {
+      "Brands": 99,
+      "Consumer Analysis": 9,
+      "Corporate Culture": 99,
+      "Fundraising": 99,
+      "Human Resource Management": 99,
+      "Leadership": 3,
+      "Management": 99,
+      "Training": 99,
+      "Volunteerism": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=PSYH",
+    "Notes": "",
+    "Title": "PsycInfo"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides detailed external debt data that are published individually by countries that subscribe to the IMF's Special Data Dissemination Standard (SDDS) as well as GDDS participating countries that are in a position to produce the external debt data prescribed by the SDDS.",
+    "Keywords": {
+      "Country Data": 99,
+      "Debt": 2,
+      "Statistics: International": 99
+    },
+    "Link": "http://web.worldbank.org/WBSITE/EXTERNAL/DATASTATISTICS/EXTDECQEDS/0,,menuPK:1805431~pagePK:64168427~piPK:64168435~theSitePK:1805415,00.html",
+    "Notes": "",
+    "Title": "Quarterly External Debt Statistics (QEDS/SDDS/GDDS)"
+  },
+  {
+    "Categories": {},
+    "Description": "A-Z index of industrial rail companies and organizations, listings of suppliers and vendors, and links to industrial railroad related web sites.",
+    "Keywords": {
+      "Trains": 99,
+      "Transportation Modes": 3
+    },
+    "Link": "http://www.railIndustry.com/",
+    "Notes": "",
+    "Title": "RAILIndustry.com"
+  },
+  {
+    "Categories": {},
+    "Description": "Best place to start research for an overview or background information on a topic. Searches more than 43,000 subject encyclopedias and scholarly compendia.",
+    "Keywords": {
+      "Encyclopedia": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://refuniv.odyssi.com/cgi-bin/phtml?newsearch.htm",
+    "Notes": "",
+    "Title": "Reference Universe"
+  },
+  {
+    "Categories": {},
+    "Description": "Users must sign up for an individual account. Online bibliographic management program allows users to create a personal database of references and generate bibliographies in a variety of formats.For information on how to use and log into RefWorks use - RefWorks: Online Tool for Managing Citations",
+    "Keywords": {
+      "Citations": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=https://www.refworks.com/refworks2/?r=authentication::init&groupcode=RWUMCollegePark",
+    "Notes": "",
+    "Title": "RefWorks"
+  },
+  {
+    "Categories": {},
+    "Description": "Comprehensive coverage for regional business journals, newspapers and newswires from all metropolitan and rural areas within the United States. ",
+    "Keywords": {
+      "News": 99,
+      "Regional News": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip&group=main&profile=ehost&defaultdb=bwh",
+    "Notes": "",
+    "Title": "Regional Business News (EBSCO)"
+  },
+  {
+    "Categories": {},
+    "Description": "From the Federal Deposit Insurance Corporation (FDIC). Provides \"an overview of economic conditions in the United States,\" offering 40,000-plus charts, maps, and tables of data at the state, Metropolitan Statistical Area (MSA), and county levels. Select the state of interest first, then select MSA and or/County of interest. Areas covered are Industry Activity, Labor Markets, Income, and Real Estate Activity.",
+    "Keywords": {
+      "Economics Research": 99,
+      "Industry Analysis": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www2.fdic.gov/recon/index.asp",
+    "Notes": "",
+    "Title": "Regional Economic Conditions (RECON)"
+  },
+  {
+    "Categories": {},
+    "Description": "Online access to U.S. government regulations from nearly 300 federal agencies. Browse by Category, or by topic.",
+    "Keywords": {
+      "Regulations": 3
+    },
+    "Link": "http://www.regulations.gov/#!home",
+    "Notes": "",
+    "Title": "Regulations.gov"
+  },
+  {
+    "Categories": {},
+    "Description": "Organized links to valuable online resources in Economics from the American Economic Association, including data resources, professional contacts for students and scholars, reference and teaching resources.",
+    "Keywords": {
+      "Demographics": 99,
+      "Economic Data: International": 99,
+      "Economic Data: United States": 99,
+      "Economics Research": 99
+    },
+    "Link": "http://www.rfe.org",
+    "Notes": "",
+    "Title": "RFE: Resources for Economists on the Internet"
+  },
+  {
+    "Categories": {},
+    "Description": "Accounting, auditing and tax database that provides access to a variety of tax information, including complete tax law, analysis, journals, news, cases, and rulings. It covers all aspects of tax law. ",
+    "Keywords": {
+      "Accounting": 1,
+      "Auditing": 1,
+      "Taxation": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=https://checkpoint.riag.com/login?iploc=UNTYOFMANDCOGEPARK",
+    "Notes": "",
+    "Title": "RIA Checkpoint"
+  },
+  {
+    "Categories": {},
+		"Description": "A directory of over 3,100 scholarly organizations from around the World.",
+		"Keywords": {
+      "Associations": 7
+    	},
+    "Link": "http://www.scholarly-societies.org/",
+    "Notes": "University of Waterloo Library",
+    "Title": "The Scholarly Societies Project"
+  },
+  {
+    "Categories": {},
+    "Description": "\"Purpose to advance social Entrepreneurship and to foster social entrepreneurs as an important catalyst for societal innovation and progress.\" Publications link provides access to reports and case studies dealing with social Entrepreneurship.",
+    "Keywords": {
+      "Entrepreneurship": 99,
+      "Social Entrepreneurship": 3
+    },
+    "Link": "http://www.schwabfound.org/sf/index.htm",
+    "Notes": "",
+    "Title": "Schwab Foundation for Social Entrepreneurship"
+  },
+  {
+    "Categories": {},
+    "Description": "A multidisciplinary index covering the journal literature of the sciences. It indexes more than 5,700 major journals across 164 scientific disciplines. Use for finding what journals have cited other journals. Cited references can be traced forward in time.",
+    "Keywords": {
+      "Citation Database": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/?DestApp=WOS&editions=SCI",
+    "Notes": "",
+    "Title": "Science Citation Index Expanded &ndash; Web of Science"
+  },
+  {
+    "Categories": {},
+    "Description": "Retired professionals who are available to advise.",
+    "Keywords": {
+      "Business Plans": 5
+    },
+    "Link": "http://scorechicago.org/",
+    "Notes": "",
+    "Title": "Service Corps of Retired Executives (SCORE)"
+  },
+  {
+    "Categories": {
+      "Entrepreneurship": 1
+      },
+    "Description": "Small Business Administration information about how to start, finance, and manage small business",
+    "Keywords": {
+      "Business Planning": 99,
+      "Business Plans": 3,
+      "Entrepreneurship": 99,
+      "Small Business": 3
+    },
+    "Link": "http://www.sba.gov/",
+    "Notes": "",
+    "Title": "Small Business Administration"
+  },
+  {
+    "Categories": {},
+    "Description": "A multidisciplinary index covering the journal literature of the social sciences. Use for finding what journals have cited other journals. Cited references can be traced forward in time.",
+    "Keywords": {
+      "Citation Database": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/WOS",
+    "Notes": "",
+    "Title": "Social Science Citation Index &ndash; Web of Science"
+  },
+  {
+  "Categories": {},
+    "Description": "Provides access to a wide assortment of the most important English-Language journals published in the social sciences.",
+    "Keywords": {
+      "Leadership": 6,
+      "Logistics": 4
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=ssf",
+    "Notes": "",
+    "Title": "Social Sciences Full Text (H.W. Wilson)"
+  },
+  {
+    "Categories": {},
+    "Description": "Source OECD is the online library of the Organisation for Economic Co-operation and Development. It comprises book collection, periodicals and the OECD statistical databases.",
+    "Keywords": {
+      "Economic Indicators": 99,
+      "Economics Research": 18,
+      "Globalization": 8,
+      "Statistics: International": 8
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.oecd-ilibrary.org",
+    "Notes": "",
+    "Title": "Source OECD"
+  },
+  {
+    "Categories": {},
+    "Description": "Reproductions of over 30,000 Springer print book publications, with search capabilities and bookmarks, also includes Springer journals.",
+    "Keywords": {
+      "E-Books": 99,
+      "E-Journals": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.springerlink.com/",
+    "Notes": "",
+    "Title": "Springer eBooks (2005-2011)"
+  },
+  {
+    "Categories": {},
+    "Description": "Find profiles of public and private firms worldwide including financials, officers and directors, ownership, advisory relationships, transactions, securities, key developments, estimates, key documents, credit ratings and research, filings, news and more. Generate comparables analysis and market analysis using Capital IQ's analytical and screening tools. Access to both \"real-time and historical information on companies, markets, transactions and people worldwide\"",
+    "Keywords": {
+      "Company Profiles and Research": 12,
+      "International Business": 99,
+      "Investment and Securities": 4
+    },
+    "Link": "",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.  If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+    "Title": "S&amp;P Capital IQ"
+  },
+  {
+  	"Categories": {},
+  	"Description": "Contains U.S. and Canadian fundamental and market information on active and inactive publicly held companies. It provides more than 300 annual and 100 quarterly Income Statement, Balance Sheet, Statement of Cash Flows, and supplemental data items. Find profiles of public and private firms worldwide including financials, officers and directors, ownership, advisory relationships, transactions, securities, key developments, estimates, key documents, credit ratings and research, filings, news and more. Generate comparables analysis and market analysis using Capital IQ's analytical and screening tools.",
+   	"Keywords": {
+      "Accounting": 99
+    },
+    "Link": "http://wrds.wharton.upenn.edu/",
+    "Notes": "Access via WRDS or SmithApps &mdash; CRSPSift. WRDS access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research.) Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>wrds.wharton.upenn.edu</a>. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps at <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+    "Title": "S&amp;P Capital IQ's Compustat North America"
+  },
+  {
+    "Categories": {},
+    "Description": "Tracks executive and director compensation in S&amp;P 1500 firms from 1992.",
+    "Keywords": {
+      "Compensation": 99
+    },
+    "Link": "",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.  If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+    "Title": "S&amp;P ExecuComp"
+  },
+  {
+    "Categories": {
+      "Industry": 2,
+      "Finance &amp; Investment": 3
+    },
+    "Description": "Provides reports, forecasts, analysis, statistics and ratios of major industries. Coverage is for current and up to 4 years, depending on the Industry.",
+    "Keywords": {
+      "Competitors": 10,
+      "Industry Ratios": 3,
+      "Industry Analysis": 2,
+      "Industry Trends": 2,
+      "Investment and Securities": 13,
+      "Stocks": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.netadvantage.standardandpoors.com/",
+    "Notes": "",
+    "Title": "Standard &amp; Poor's Net Advantage"
+  },
+  {
+    "Categories": {},
+    "Description": "Official Company website &mdash; provides some investment data including bond ratings. (MUST REGISTER TO USE - FREE SUBSCRIPTION.) For bond ratings, after registration, click on United States, under Task Selector, select 'Find a rating'. Follow directions to get available S&amp;P ratings.",
+    "Keywords": {
+      "Bonds": 99,
+      "Stocks": 99
+    },
+    "Link": "http://www.standardandpoors.com/home/en/us",
+    "Notes": "",
+    "Title": "Standard &amp; Poor's"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Census Bureau. SIC Industry classification system was used for many years, replaced in 1997 by the NAICS system. The SIC classification is still used in some business databases and for historical Industry comparisons.",
+    "Keywords": {
+      "Industry Classification": 2
+    },
+    "Link": "http://www.osha.gov/pls/imis/sicsearch.html",
+    "Notes": "",
+    "Title": "Standard Industrial Classification System (SIC)"
+  }, 
+  {
+    "Categories": {},
+    "Description": "SRDS online locate ad rates and circulation for magazines, newspapers, TV and radio, and find demographic profiles of DMAs. Also includes audience analytics for websites that sell ads and the local Market Audience Analyst, containing demographic and life style information on consumers by geographic regions; this data comes from Experian Simons and Nielsen Claritas PRIZM",
+    "Keywords": {
+    	"Advertising": 4
+    },
+    "Link":  "http://proxy-um.researchport.umd.edu/login?url=http://www.srds.com/portal/servlet/LoginServlet?action=automatic",
+    "Notes": "",
+    "Title": "Standard Rate & Data Service"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides access to U.S. Census Bureau data and information through a wide network of agencies in each state.",
+    "Keywords": {
+      "Demographics": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.census.gov/sdc/",
+    "Notes": "",
+    "Title": "State Data Centers"
+  },
+  {
+    "Categories": {
+      "Demographics and Statistics": 5
+    },
+    "Description": "The authoritative and comprehensive summary of statistics on the social, political, and economic organization of the United States.",
+    "Keywords": {
+      "Demographics": 99,
+      "Statistics: United States": 11
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.census.gov/compendia/statab/",
+    "Notes": "",
+    "Title": "Statistical Abstracts of the United States"
+  },
+  {
+    "Categories": {},
+    "Description": "From the U.S. Census Bureau, the Statistical Classification of Domestic and Foreign Commodities, also known as Schedule B, is a 10-digit identification code assigned to every Product exported from the United States. It is the official schedule of commodity classifications to be used by shippers in reporting export shipments from the United States and in compiling the official statistics on exports of merchandise from the United States. ",
+    "Keywords": {
+      "Export": 99,
+      "Product Codes": 2
+    },
+    "Link": "http://www.census.gov/mp/www/cat/foreign_trade/schedule_b_--_statistical_classification_of_domestic_and_foreign_commodities_exported_from_the_unite.html",
+    "Notes": "",
+    "Title": "Statistical Classification of Domestic and Foreign Commodities Exported from the United States (Schedule B)"
+  },
+  {
+    "Categories": {},
+    "Description": "",
+    "Keywords": {},
+    "Link": "",
+    "Notes": "",
+    "Title": "Statistical DataSets (ProQuest) &mdash; Replaced by Data-Planet Statistical Datasets."
+  },
+  {
+    "Categories": {},
+    "Description": "Provides access to statistical reports produced by the U.S. government, major international and intergovernmental organizations, professional and trade organizations, state government agencies, and universities.",
+    "Keywords": {
+      "Statistics: International": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.lexisnexis.com/statuniv",
+    "Notes": "Formerly called Lexis/Nexis Statistical Insight.",
+    "Title": "Statistical Insight (ProQuest)"
+  },
+  {
+    "Categories": {},
+    "Description": "Bureau of Labor Statistics, US and other country statistical web sites.",
+    "Keywords": {
+      "Demographics": 99,
+      "Statistics: International": 99,
+      "Statistics: United States": 12
+    },
+    "Link": "http://www.bls.gov/bls/other.htm",
+    "Notes": "",
+    "Title": "Statistical Sites of the World Wide Web"
+  },
+  {
+    "Categories": {},
+    "Description": "From the Urban Institute and Brookings Institution, provides a comprehensive overview of US tax policy for the public, government officials, journalists, and researchers. Major projects deal with \"revenue and distribution estimates for the latest tax proposals and bills.\" Also provides issue briefs, discussion papers, summaries of facts published by government agencies, a primer on the tax system, and a blog discussing tax legislation.",
+    "Keywords": {
+      "Taxation": 1
+    },
+    "Link": "http://www.taxpolicycenter.org/",
+    "Notes": "",
+    "Title": "Tax Policy Center"
+  },
+  {
+    "Categories": {},
+    "Description": "Testing and Education Reference Center provides in depth information on colleges and universities graduate and professional programs, distance learning, corporate training, available scholarships and awards and preparatory entrance tests. Available online practice tests include entrance exams certification and licensing tests. Graduate school online practice tests include GRE LSAT MCAT and MAT. There are even international tests covering TOEFL and TOEIC. The Career Module consists of the Career Assessment the Resume Builder and the Virtual Careers Library. The Career Assessment helps users map a Career path through a brief multiple choice exam which matches their answers to job categories industries and occupations that are most suitable to them. The Resume Builder helps build resumes based on the stage of user Career and type of position applying for. The Virtual Careers Library provides resume cover letter and interviewing tips.",
+    "Keywords": {
+      "Career": 5,
+      "Tests": 99,
+      "Training": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://infotrac.galegroup.com/itweb/umd_um?db=TERC",
+    "Notes": "",
+    "Title": "Testing and Education Reference Center"
+  },
+  {
+    "Categories": {},
+    "Description": "A directory of manufacturers, distributors, and suppliers.",
+    "Keywords": {
+      "Distributors": 2,
+      "Manufacturing": 1
+    },
+    "Link": "http://www.thomasnet.com/",
+    "Notes": "",
+    "Title": "ThomasNet"
+  },
+  {
+    "Categories": {},
+    "Description": "Contains current and historical financial data and analysis for individual companies, stock market indices, fixed-income securities, currencies, commodities, economics, and derivatives for both international and domestic markets, as well as business and financial news.",
+    "Keywords": {
+      "Financial Information": 13,
+      "Investment and Securities": 14,
+      "News": 99,
+      "Stocks": 99
+  	},
+    "Link": "",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and Smith School DC, Baltimore, and Shady Grove campuses.",
+    "Title": "Thomson Reuters Eikon"
+  },
+  {
+    "Categories": {},
+    "Description": "Contains historical financial data on individual companies, stock market indices, fixed-income securities, currencies, commodities, economics, and derivatives for both international and domestic markets.",
+    "Keywords": {
+      "Accounting": 4,
+      "Annual Reports": 5,
+      "Bonds": 2,
+      "Dow Jones Industrial Average": 3,
+      "Economic Indicators": 7,
+      "Financial Information": 4,
+      "Industry Ratios": 1,
+      "Mergers and Acquisitions": 7,
+      "S&amp;P 500": 3,
+      "Stock Exchange": 6,
+      "Stocks": 7
+    },
+    "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+    "Notes": "Access via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to: <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+    "Title": "Thomson Reuters Datastream Advance"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides a common front end retrieval system for a collection of databases. They contain detailed information on new issues, mergers and acquisitions, syndicated loans, private equity, venture capital, and more for the global financial marketplace.",
+    "Keywords": {
+      "Financial Information": 14,
+      "Mergers and Acquisitions": 6
+    },
+    "Link": "http://smithapps.rhsmith.umd.edu/Citrix/MyApps/auth/login.aspx",
+    "Notes": "Access available in Van Munching Hall Financial Markets Lab (1318 Van Munching Hall), and via SmithApps. If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href='mailto:helpme@rhsmith.umd.edu'>helpme@rhsmith.umd.edu</a>.",
+    "Title": "Thomson Reuters SDC Platinum"
+  },
+  {
+    "Categories": {},
+    "Description": "\"Provides extensive information on the global syndicated bank loan market. These transactions finance M&A activity, working capital needs and other corporate purposes for loan participants world-wide\". Sources include regulatory filings, bank submissions and journalist contributions.",
+    "Keywords": {
+      "Bank Loans": 99,
+      "Investment and Securities": 15
+    },
+    "Link": "",
+    "Notes": "Access via WRDS. Access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
+    "Title": "Thomson Reuters LPC DealScan"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides data as reported on Form 13F filed with the SEC, i.e. ownership information by institutional managers with $100 million or more in Assets Under Management (Section 13(F) Securities)",
+    "Keywords": {
+      "Financial Information": 15,
+      "Investment and Securities": 16
+    },
+    "Link": "",
+    "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
+    "Title": "Thomson Reuters Institutional Holdings (13F)"
+  },
+  {
+    "Categories": {},
+    "Description": "Designed to capture all U.S. insider activity as reported on SEC forms 3, 4, 5 and 144 ",
+    "Keywords": {
+      "Financial Information": 16,
+      "Investment and Securities": 17
+    },
+    "Link": "",
+    "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
+    "Title": "Thomson Reuters Insider Filing Data Feed"
+  },
+  {
+    "Categories": {},
+    "Description": "Formerly known as CDA/Spectrum, referred to as Spectrum 1 2, this source \"provides holdings information for all registered mutual funds that report their holdings with the SEC, plus 3,000 global funds\".",
+    "Keywords": {
+      "Financial Information": 17,
+      "Mutual Funds": 99
+    },
+    "Link": "",
+    "Notes": "Access via WRDS. Access ONLY for Ph.D. students, faculty and faculty-sponsored class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
+    "Title": "Thomson Reuters Mutual Fund Holdings"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides a wealth of individual company financial information including broad selection of analyst reports.",
+    "Keywords": {
+      "Analyst Reports": 3,
+      "Annual Reports": 7,
+      "Financial Information": 6
+    },
+    "Link": "",
+    "Notes": "Access available in Van Munching Hall Financial Markets Labs (1318 and 3505 Van Munching Hall), and via SmithApps.  If not affiliated with or taking courses at the Smith School, e-mail a request for access to SmithApps to <a href=\"mailto:helpme@rhsmith.umd.edu\">helpme@rhsmith.umd.edu</a>.",
+    "Title": "ThomsonOne.com"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides a directory of ground and air transportation resources, as well as listings of organizations and companies involved in the transportation Industry. [The New Jersey TIDE Center is a multi-disciplinary, multi-university research center comprised of the New Jersey Institute of Technology, Princeton University, and Rutgers University.]",
+    "Keywords": {
+      "Logistics": 8,
+      "Transportation Modes": 4
+    },
+    "Link": "http://users.cs.jmu.edu/bernstdh/web/tide/index.html",
+    "Notes": "",
+    "Title": "TIDE'S Directory of Transportation Information"
+  },
+  {
+    "Categories": {},
+    "Description": "Ranked by U.S. Total Export Value for Goods (in millions of U.S. dollars). The Office of Trade and Industry Information (OTII), as part of the International Trade Administration, seeks to provide a solid foundation of trade and Industry data to support the development of national trade policy rankings.",
+    "Keywords": {
+      "Export": 99,
+      "Import": 99,
+      "International Trade": 99,
+      "Rankings": 4
+    },
+    "Link": "http://www.trade.gov/mas/ian/build/groups/public/@tg_ian/documents/webcontent/tg_ian_003364.pdf",
+    "Notes": "",
+    "Title": "Top U.S. Trading Partners"
+  },
+  {
+    "Categories": {},
+		"Description": "Listings are by category, i.e., Banking",
+		"Keywords": {
+      "Associations": 5
+    	},
+    "Link": "http://dir.yahoo.com/Regional/U_S__States/Washington__D_C_/Business_and_Shopping/Business_to_Business/Trade/Trade_Associations/",
+    "Notes": "",
+    "Title": "Trade Association - Washington, DC in the Yahoo Directory"
+  },
+  {
+    "Categories": {},
+    "Description": "Leading source of data about the nation's people and economy. It provides social, demographic, housing and economic statistics mainly for the U.S. Click on headings top of screen to find data sources of interest.",
+    "Keywords": {
+      "Business Planning": 99,
+      "Demographics": 99,
+      "Economics Research": 99,
+      "Statistics: United States": 99
+    },
+    "Link": "http://www.census.gov/",
+    "Notes": "",
+    "Title": "U.S. Census Bureau"
+  },
+  {
+    "Categories": {},
+    "Description": "The U.S. Commercial Service is the trade promotion arm of the U.S. Department of Commerce International Trade Administration. Its focus is to help U.S. companies export or increase sales to new global markets. For details, see: Information for Exporters of U.S. Goods and Services http://export.gov/worldwide_us/index.asp and the Market Research Library http://www.buyusainfo.net/adsearch.cfm?search_type=int&loadnav=no.",
+    "Keywords": {
+      "Export": 5,
+      "International Trade": 99,
+      "Trade Agreements": 99
+    },
+    "Link": "http://www.trade.gov/cs/index.asp",
+    "Notes": "",
+    "Title": "U.S. Commercial Service"
+  },
+  {
+    "Categories": {},
+    "Description": "The source for information on copyright related issues ",
+    "Keywords": {
+      "Copyright": 99
+    },
+    "Link": "http://www.copyright.gov/",
+    "Notes": "",
+    "Title": "U.S. Copyright Office"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides information on export documents, licenses and requirements. ",
+    "Keywords": {
+      "Export": 4,
+      "International Trade": 99,
+      "Law": 99,
+      "Regulations": 99
+    },
+    "Link": "http://www.cbp.gov/xp/cgov/trade/basic_trade/export_docs/",
+    "Notes": "",
+    "Title": "U.S. Customs and Borders Protection"
+  },
+  {
+    "Categories": {},
+    "Description": "Bureau of Economic Analysis Accounts (BEA) produces some of the most closely watched economic statistics that influence decisions of government, business and individuals, providing a comprehensive, current picture of the U.S. economy.",
+    "Keywords": {
+      "Economic Indicators": 99,
+      "Economics Research": 19,
+      "Employment": 99,
+      "Statistics: United States": 13
+    },
+    "Link": "http://www.bea.gov/newsreleases/glance.htm",
+    "Notes": "statistics: united states, business planning",
+    "Title": "U.S. Economy at a Glance: Perspectives from the U.S. Department of Commerce"
+  },
+  {
+    "Categories": {},
+    "Description": "The International Trade Administration, U.S. Department of Commerce, provides national and international trade statistics, laws, regulations and trade agreements.",
+    "Keywords": {
+      "Employment": 99,
+      "International Trade": 99,
+      "Jobs": 99,
+      "Law": 99,
+      "Manufacturing": 99,
+      "Regulations": 99,
+      "Trade Agreements": 99
+    },
+    "Link": "http://www.trade.gov/mas/ian/tradestatistics/index.asp",
+    "Notes": "",
+    "Title": "U.S. Trade Statistics"
+  },
+  {
+    "Categories": {
+      "Finance &amp; Investment": 2
+      },
+    "Description": "Provides investment research on stocks, mutual funds, options and convertibles.",
+    "Keywords": {
+      "Analyst Reports": 2,
+      "Company Profiles and Research": 4,
+      "Financial Information": 18,
+      "Investment and Securities": 2,
+      "Mutual Funds": 2,
+      "Stocks": 2
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www3.valueline.com/is/rc.aspx",
+    "Notes": "",
+    "Title": "ValueLine (ValueLine Investment Survey)"
+  },
+  {
+  	"Categories": {},
+  	"Description": "Frequently updated list of venture capital firms in the United States.",
+  	"Keywords": {
+      "Business Financing": 2
+      },
+  	"Link": "http://www.vfinance.com/home.asp?ToolPage=venca.asp",
+  	"Notes": "",
+  	"Title": "vFinance.com"
+	},
+  {
+    "Categories": {},
+    "Description": "The electronic gazette for volunteerism.",
+    "Keywords": {
+      "Career": 99,
+      "Volunteerism": 99
+    },
+    "Link": "http://www.volunteertoday.com/",
+    "Notes": "",
+    "Title": "Volunteer Today"
+  },
+  {
+    "Categories": {},
+    "Description": "Divided into eight sections: Introduction to Financial Management; Tools of Financial Analysis and Planning; Working Capital Management; Investment in Capital Assets; The Cost of Capital; Capital and Structure, and Dividend Policy; Intermediate and Long-Term Financing; and Special Areas of Financial Management.",
+    "Keywords": {
+      "Financial Information": 99
+    },
+    "Link": "http://web.utk.edu/~jwachowi/wacho_world.html",
+    "Notes": "",
+    "Title": "Wachowicz's Web World: Websites for Discerning Finance Students"
+  },
+  {
+    "Categories": {},
+    "Description": "Factiva provides access to over 8,000 business sources, including national and international newspapers, magazines, newswire services, web sites and Industry (trade) sources, click on News Pages (top of screen) to get access to major business newspapers. Licensing restrictions apply. Access limited to 12 simultaneous users. If you are unable to access, please try again.",
+    "Keywords": {
+      "Company Profiles and Research": 5,
+      "Financial Information": 99,
+      "Industry Analysis": 99,
+      "News": 5
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003Wvf1WFo5DEs5DEmM9YuNTAvODFyMHmnRsIuMcNG1pRRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQAA",
+    "Notes": "",
+    "Title": "Wall Street Journal (Factiva)"
+  },
+  {
+    "Categories": {},
+    "Description": "Major US newspapers covered including the Wall Street Journal which provides in-depth coverage of national and international finance as well as political news. ",
+    "Keywords": {
+      "Financial Information": 99,
+      "News": 4
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.proquest.com/wallstreetjournal/advanced?accountid=14696",
+    "Notes": "",
+    "Title": "Wall Street Journal, National Newspapers Core (Proquest)"
+  },
+  {
+    "Categories": {},
+    "Description": "In addition to the printed stories, researchers also can study the charts, stock tables, graphics, and illustrations featured in the publication.",
+    "Keywords": {
+      "Financial Information": 99,
+      "News": 6
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://search.proquest.com/hnpwallstreetjournal/advanced?accountid=14696",
+    "Notes": "",
+    "Title": "Wall Street Journal Historical (1889-1991)"
+  },
+  {
+    "Categories": {},
+    "Description": "This site has links to franchisor Company homepages where you will find franchising opportunities information.",
+    "Keywords": {
+      "Franchising": 2
+    },
+    "Link": "http://online.wsj.com/public/page/news-small-business-franchising.html",
+    "Notes": "",
+    "Title": "Wall Street Journal Interactive Edition: Franchising"
+  },
+  {
+    "Categories": {},
+    "Description": "World's leading citation database with multidisciplinary coverage of over 17,000 high-impact journals in the sciences, social sciences, arts and humanities, as well as international proceedings coverage for over 120,000 conferences. Powerful tools include cited reference searching, Citation Maps, and the Analyze Tool. Note: Currently works with the following browsers: IE 7 and 8, Firefox 3.6, and Safari 5.0.",
+    "Keywords": {
+      "Citation Database": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://webofknowledge.com/WOS",
+    "Notes": "",
+    "Title": "Web of Science"
+  },
+  {
+    "Categories": {},
+    "Description": "Access to a comprehensive collection of legal sources, i.e., cases, statutes, law encyclopedias, US Code, law reviews and legal periodical articles, as well as news and business information.",
+    "Keywords": {
+      "Law": 99,
+      "News": 8,
+      "Regulations": 4
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=https://1.next.westlaw.com/Search/Home.html?sp=003372414-2100&forcecdn=false",
+    "Notes": "",
+    "Title": "WestlawNext Campus Search"
+  },
+  {
+    "Categories": {},
+    "Description": "Directory provides links to domestic and international wholesale distributors and manufacturers direct.",
+    "Keywords": {
+      "Distributors": 1,
+      "Manufacturing": 99,
+      "Wholesale": 1
+    },
+    "Link": "http://www.wholesaledistributorsnet.com/",
+    "Notes": "",
+    "Title": "Wholesale Distributors Net"
+  },
+  {
+    "Categories": {},
+    "Description": "Contains country profile information on a range of topics of immediate commercial relevance to anybody working in a global organisation, or studying international trade. The information has been compiled by some of the world's leading experts on global business culture.",
+    "Keywords": {
+      "Country Research": 99,
+      "Culture": 4,
+      "Doing Business In": 99,
+      "International Business": 99
+    },
+    "Link": "http://worldbusinessculture.com/",
+    "Notes": "",
+    "Title": "World Business Culture"
+  },
+  {
+    "Categories": {},
+    "Description": "From World Bank Group provides direct access to more than 550 development indicators, with time series for 200 countries and 18 country groups from 1960, where data are available. Time covered from 1960 - present in a wide range of areas, including social, economic, financial, natural resources, and environmental indicators. Data export options in Excel or ASCII.",
+    "Keywords": {
+      "Country Research": 99,
+      "Economic Indicators": 99,
+      "Statistics: International": 10
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://databank.worldbank.org/ddp/home.do?Step=12&id=4&CNO=2",
+    "Notes": "",
+    "Title": "World Development Indicators"
+  },
+  {
+    "Categories": {},
+    "Description": "From International Monetary Fund (IMF), time covered from 1993 to present. Coverage similar to World Development Indicators data, but more limited in scope and history, includes commodity price data and regional data that's not easily available in World Development Indicators.",
+    "Keywords": {
+      "Country Research": 99,
+      "Economic Indicators": 99,
+      "Statistics: International": 99
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://www.imf.org/external/ns/cs.aspx?id=28",
+    "Notes": "",
+    "Title": "World Economic Outlook"
+  },
+  {
+    "Categories": {},
+    "Description": "From United Nations Conference on Trade and Development (UNCTAD) World Investment Report focuses every year on the latest trends in foreign direct investment (FDI) around the world, at the regional and country levels and emerging measures to improve its contribution to development. ",
+    "Keywords": {
+      "Country Research": 99,
+      "Direct Investment": 99,
+      "Statistics: International": 11
+    },
+    "Link": "http://unctad.org/en/Pages/DIAE/World%20Investment%20Report/World_Investment_Report.aspx",
+    "Notes": "",
+    "Title": "World Investment Report"
+  },
+  {
+    "Categories": {},
+    "Description": "This is the Foreign Broadcast Information Service (FBIS) Reports online - coverage focus - political, economic, environmental, social issues and events include translations from around the world of newspaper articles, conference proceedings, radio and television broadcasts, non-classified technical reports, and local media sources going back to 1994. ",
+    "Keywords": {
+      "International Business": 99,
+      "News": 9
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://wnc.dialog.com/",
+    "Notes": "",
+    "Title": "World News Connection"
+  },
+  {
+    "Categories": {},
+    "Description": "This \"international body deals with rules of trade between nations\".",
+    "Keywords": {
+      "International Business": 99,
+      "International Trade": 99,
+      "Trade Agreements": 99
+    },
+    "Link": "http://www.wto.org/",
+    "Notes": "",
+    "Title": "World Trade Organization - WTO"
+  },
+  {
+    "Categories": {},
+    "Description": "World Bank Group datasets organized with \"pointers to social, government, economic, financial, etc., statistics. Many of the time-series tables of key indicators by country can be downloaded. ",
+    "Keywords": {
+      "Economic Indicators": 99,
+      "Statistics: International": 9
+    },
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://data.worldbank.org/data-catalog",
+    "Notes": "",
+    "Title": "World Bank Data Catalog"
+  },
+  {
+    "Categories": {},
+    "Description": "Online catalog containing more than 49 million records describing books, ebooks, newspapers, maps, periodicals, government documents, etc., owned by libraries around the world. It includes material descriptions and holdings for OCLC member libraries. Time period covered: prior to 1501 - present.",
+    "Keywords": {},
+    "Link": "http://proxy-um.researchport.umd.edu/login?url=http://firstsearch.oclc.org/fsip?dbname=worldcat",
+    "Notes": "",
+    "Title": "WorldCat (First Search)"
+  },
+  {
+    "Categories": {},
+    "Description": "Information provided by the World Legal Information Institute (WorldLII) a non-profit global legal research facility in partnership with other legal organizations from around the world aiming to provide free, independent access to worldwide laws.",
+    "Keywords": {
+      "International Law": 1
+    },
+    "Link": "http://www.worldlii.org/",
+    "Notes": "",
+    "Title": "WorldLII"
+  },
+  {
+    "Categories": {},
+    "Description": "From the University of Pennsylvania, Wharton School of Business this Internet based business data and business intelligence service provides via a single interface, access to data across several disciplines, including Accounting, Banking Economics, Finance, Marketing and Public Policy. Databases include: AuditAnalytics, Bank Regulatory, Blockholders, CBOE Indexes, CISDM Hedge Fund, COMPUSTAT, CRSP, CSMAR, CUSIP, DMEF Academic Data, Dow Jones, Eventus, FDIC, FAMA French &amp; Liquidity Factors, Federal Reserve Bank, IBES, IHS Global Insight, ISSM, KLD, MFLINKS, Markit Trial, Option Metrics, PHLX, Penn World Tables, Risk Metrics, SEC Order Execution, TRACE, Thomson Reuters, WRDS SEC Analytics Suite, Zacks Trial.",
+    "Keywords": {
+      "Dow Jones Industrial Average": 4,
+      "Economic Indicators": 11,
+      "Financial Information": 10,
+      "Industry Ratios": 5,
+      "Investment and Securities": 6,
+      "Mergers and Acquisitions": 8,
+      "S&amp;P 500": 4,
+      "Stock Exchange": 7,
+      "Stocks": 8
+    },
+    "Link": "http://wrds.wharton.upenn.edu/",
+    "Notes": "Access via WRDS. Access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
+    "Title": "WRDS (Wharton Research Data Service)"
+  },
+  {
+    "Categories": {},
+    "Description": "Provides information from all SEC filings which can be customized for specific dataset retrieval.",
+    "Keywords": {
+      "Financial Information": 23,
+      "SEC Filings": 99
+    },
+    "Link": "",
+    "Notes": "Access via WRDS. Access ONLY for Masters and Ph.D. students, faculty and faculty-sponsored undergraduate class research. Access is available by account only &mdash; request account at <a href='https://wrds.wharton.upenn.edu'>https://wrds.wharton.upenn.edu</a>.",
+    "Title": "WRDS SEC Analytics Suite"
+  },
+  {
+    "Categories": {},
+    "Description": "\"Two-thousand annotated links to high quality English language sources in a wide range of international affairs, international studies and international relations topics.\" Topics include media, organizations, country/regions, business/Economics, relations, etc.",
+    "Keywords": {
+      "International Affairs": 99,
+      "International Business": 4,
+      "Public Policy": 99
+    },
+    "Link": "http://www2.etown.edu/vl/",
+    "Notes": "",
+    "Title": "WWW Virtual Library: International Affairs Resources"
+  },
+  {
+    "Categories": {},
+    "Description": "Zanran is the Google for data searches. Provides numerical data as graphs, tables and charts. This huge amount of info can be difficult to find using conventional search engines. Registration (FREE) is Required to access data.",
+    "Keywords": {
+      "Statistics: United States": 14
+    },
+    "Link": "http://zanran.com/q/",
+    "Notes": "",
+    "Title": "Zanran: Key Source for Data and Statistics, Graphs, Charts and Tables"
+  }
+]

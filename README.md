@@ -7,6 +7,6 @@ Though the script was developed for a particular dataset, the Virtual Business I
 
 Running the script with the following command
 
-`python3 htmlgen2.py`
+`python3 htmlgen2.py [datafile.json]`
   
 will produce a series of html files stored in output/ representing data pulled from the files vbic-data-revXX.json and rel-topics.json, and arranged in various permutations according to the logic of the VBIC website.  These files include a list of resources organized alphbetically (res-by-title.html), one organized by certain topic keywords (res-by-topic.html), and series of resource lists (com.html, etc.) and clickable related-topic links (rel-com.html, etc.), as well as few miscellaneous report files.
